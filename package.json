@@ -1,0 +1,12 @@
+{
+  "name": "nottingham-dataset",
+  "version": "0.0.1",
+  "description": "Fork of nottingham-dataset to use with react-native-songbook.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewDorner/nottingham-dataset.git"
+  },
+  "author": "Matthew Dorner",
+  "license": "GPL-3.0-or-later",
+  "homepage": "https://github.com/MatthewDorner/nottingham-dataset#readme"
+}
