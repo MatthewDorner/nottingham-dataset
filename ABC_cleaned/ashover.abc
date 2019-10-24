@@ -150,7 +150,7 @@ X: 10
 T:Chestnut Reel
 % Nottingham Music Database
 S:Mick Peat
-Y:ABBCB
+P:ABBCB
 M:4/4
 L:1/4
 K:G
@@ -185,7 +185,7 @@ X: 12
 T:Cuillin Reel
 % Nottingham Music Database
 S:Mick Peat
-Y:ABBC
+P:ABBC
 M:4/4
 L:1/4
 K:G
@@ -291,7 +291,7 @@ T:The Five Wells
 S:Mick Peat
 N:Taken from A Train's song
 M:6/8
-Y:ABA
+P:ABA
 K:F
 P:A
 |:"F"F2A c2A|"Bb"Bcd "F"c2A|"Bb"Bcd "F"c2A|"G"AGF "C"G3|"F"F2A c2A|\
@@ -563,7 +563,7 @@ S:Mick Peat
 N:"From A.Train's song"
 M:3/4
 L:1/4
-Y:ABA
+P:ABA
 K:D
 P:A
 "D"a2f|d3/2e/2f|"G"B3/2c/2d|"A"A2g|"D"f3/2e/2d|a2A|"E"B3/2c/2d|
@@ -666,7 +666,7 @@ T:Verdi's Waltz
 S:Mick Peat
 M:3/4
 L:1/4
-Y:AABA
+P:AABA
 K:C
 P:A
 "C"[C2E2][DF]|[E3G3]|"F"[F2A2][GB]|[A3c3]|"G"[B2d2][ce]|[d3f3]|"C"[c2e2][df]|\
@@ -684,7 +684,7 @@ T:Via Gellia
 S:Mick Peat
 M:6/8
 L:1/8
-Y:ABCB
+P:ABCB
 K:G
 P:A
 D\
@@ -714,7 +714,7 @@ T:Washtap Reel
 S:Mick Peat
 M:4/4
 L:1/4
-Y:ABCB
+P:ABCB
 K:G
 P:A
 DE \

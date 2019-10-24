@@ -2,7 +2,7 @@
 X: 1
 T:Abbotts Bromley Horn Dance
 % Nottingham Music Database
-Y:ABC
+P:ABC
 S:EFDSS
 M:6/8
 K:Gm
@@ -49,7 +49,7 @@ X: 3
 T:Beaux of London City
 % Nottingham Music Database
 S:Adderbury [News] ch(AB3) 6
-Y:ABCBCBCBCBCBC
+P:ABCBCBCBCBCBC
 M:9/8
 K:F
 P:A
@@ -64,7 +64,7 @@ X: 4
 T:Blue Bells of Scotland
 % Nottingham Music Database
 S:[RD ex Blunt MSS] Ch(AB)6
-Y:ABABC
+P:ABABC
 M:4/4
 L:1/4
 K:G
@@ -80,7 +80,7 @@ X: 5
 T:Constant Billy
 % Nottingham Music Database
 S:Adderbury
-Y:ABCDCBCD
+P:ABCDCBCD
 M:6/8
 K:A
 P:A
@@ -97,7 +97,7 @@ X: 6
 T:Lads a Bunchum
 % Nottingham Music Database
 S:Adderbury
-Y:AB
+P:AB
 M:2/2
 K:F
 P:A
@@ -111,7 +111,7 @@ X: 7
 T:Highland Mary
 % Nottingham Music Database
 N:A(AB)4
-Y:AABABABAB
+P:AABABABAB
 S:Ascot via Coventry MM
 M:4/4
 L:1/4
@@ -129,7 +129,7 @@ X: 8
 T:Mrs Casey
 % Nottingham Music Database
 N:A(ABB)4
-Y:AABBABBABBABB
+P:AABBABBABBABB
 S:Ascot via Coventry MM
 M:6/8
 K:D
@@ -144,7 +144,7 @@ X: 9
 T:Orange in Bloom
 % Nottingham Music Database
 N:A(ABBB)2(ACCC)2B
-Y:AABBBABBBACCCACCCB
+P:AABBBABBBACCCACCCB
 S:Ascot via Coventry MM
 M:6/8
 K:D
@@ -168,7 +168,7 @@ L:1/8
 X: 10
 T:Bonny Green Garters
 % Nottingham Music Database
-Y:BAAABCBC
+P:BAAABCBC
 S:Traditional Morris Farewell
 M:6/8
 K:D
@@ -188,7 +188,7 @@ X: 11
 T:Cuckoo's Nest
 % Nottingham Music Database
 N:A(AABB)(AACC)
-Y:AAABBAACC
+P:AAABBAACC
 S:Bledington
 M:4/4
 L:1/4
@@ -211,7 +211,6 @@ S:Ilmington
 P:AB
 M:4/4
 K:D
-M:4/4
 L:1/4
 P:A
 D/2E/2|"D"F/2G/2F/2E/2 Dd|"D"F/2G/2F/2E/2 Dd|"D"F/2G/2F/2E/2 "A7"D/2C/2D/2E/2|\
@@ -226,7 +225,7 @@ X: 13
 T:Cuckoo's Nest
 % Nottingham Music Database
 S:Sherbourne
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:F
@@ -242,7 +241,7 @@ X: 14
 T:The Forester
 % Nottingham Music Database
 N:A(ABB) times 4
-Y:AABBABBABBABB
+P:AABBABBABBABB
 S:Fieldtown
 M:4/4
 L:1/4
@@ -263,7 +262,7 @@ X: 15
 T:Jockey to the Fair
 % Nottingham Music Database
 S:McCuskers
-Y:AB
+P:AB
 M:6/8
 K:G
 P:A
@@ -279,7 +278,7 @@ X: 16
 T:Leapfrog
 % Nottingham Music Database
 N:(ABB)4
-Y:ABBABBABBABB
+P:ABBABBABBABB
 S:Bledington
 M:4/4
 L:1/4
@@ -300,7 +299,7 @@ X: 17
 T:Morning Star
 % Nottingham Music Database
 S:Bledington
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:G
@@ -339,7 +338,7 @@ B/2c/2|"G"dd de|d3c|"G"BG GA|"D"F2 D2|"G"BG "D7"GA|"G"BG "D7"GA|"G"BG GA|\
 X: 20
 T:Princess Royal
 % Nottingham Music Database
-Y:AAFBCBCB
+P:AAFBCBCB
 S:Abingdon
 M:4/4
 L:1/4
@@ -367,7 +366,7 @@ M:4/4
 X: 21
 T:Princess Royal
 % Nottingham Music Database
-Y:AAFBCBCB
+P:AAFBCBCB
 S:Bampton
 M:4/4
 L:1/4
@@ -392,7 +391,7 @@ P:C
 X: 22
 T:Princess Royal
 % Nottingham Music Database
-Y:AAB
+P:AAB
 S:McCuskers
 M:4/4
 L:1/4
@@ -415,7 +414,7 @@ T:Fieldtown Processional
 S:Fieldtown
 M:4/4
 L:1/4
-Y:ABA
+P:ABA
 K:G
 P:A
 G/2A/2|"G"BA BG|"Am"AA A2|"D7"cB/2c/2 Ac|"G"BG "D7"G2|"G"B/2c/2d "C"ef|"G"gd "C"ec|\
@@ -429,7 +428,7 @@ X: 24
 T:Gisburn Processional
 % Nottingham Music Database
 S:Eric Foxley
-Y:ASBSASBSAS
+P:ASBSASBSAS
 M:6/8
 K:G
 P:A
@@ -485,7 +484,7 @@ T:Sweet Jenny Jones
 S:Adderbury
 M:3/4
 L:1/4
-Y:ABA
+P:ABA
 K:C
 P:A
 A/2B/2|cGE|C3/2D/2E|FAd|BGB|cGE|F3/2G/2A|GcB|c2:|
@@ -510,7 +509,7 @@ X: 30
 T:Valentine
 % Nottingham Music Database
 N:A(ABBB)(ACCC)A
-Y:A ABBB ACCC A
+P:A ABBB ACCC A
 S:Fieldtown
 M:6/8
 K:G
@@ -535,7 +534,7 @@ X: 31
 T:William and Nancy
 % Nottingham Music Database
 N:A(AABBB)2(AACCC)2
-Y:A AABBB AABBB AACCC AACCC
+P:A AABBB AABBB AACCC AACCC
 S:Bledington
 M:6/8
 K:G

@@ -14,7 +14,7 @@ X: 2
 T:Ding Dong
 % Nottingham Music Database
 S:Trad
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:Bb
@@ -30,7 +30,7 @@ X: 3
 T:GKW
 % Nottingham Music Database
 S:Trad
-Y:AAB
+P:AAB
 M:4/4
 L:1/4
 K:G
@@ -93,7 +93,7 @@ K:C
 X: 8
 T:Nos Galan
 % Nottingham Music Database
-Y:AABA
+P:AABA
 S:Vic
 M:4/4
 L:1/4

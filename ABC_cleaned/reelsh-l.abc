@@ -61,7 +61,7 @@ X: 5
 T:The Headlands
 % Nottingham Music Database
 S:Ronald Cooper via Rosa M, via EF
-Y:AAB
+P:AAB
 M:4/4
 L:1/4
 K:A
@@ -123,7 +123,7 @@ X: 9
 T:Ho Ro My Nut Brown Maiden
 % Nottingham Music Database
 S:KCC p8, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:C
@@ -216,7 +216,7 @@ X: 15
 T:H.R.H. The Prince of Wales's Favourite
 % Nottingham Music Database
 S:Leslie Dolman, via EF
-Y:AABBCC
+P:AABBCC
 M:4/4
 L:1/4
 K:D
@@ -268,7 +268,7 @@ X: 18
 T:Huntsman's Chorus
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:G
@@ -314,7 +314,7 @@ X: 21
 T:Ian Duncan
 % Nottingham Music Database
 S:Ronald Cooper via Rosa M, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -406,7 +406,7 @@ X: 26
 T:Johnny's Down the River
 % Nottingham Music Database
 S:Lloyd Dolman, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:A
@@ -532,7 +532,7 @@ X: 34
 T:Jenny Lind
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -551,7 +551,7 @@ X: 35
 T:Jenny Lind
 % Nottingham Music Database
 S:Lesley Dolman, via EF
-Y:ABCD
+P:ABCD
 M:4/4
 L:1/4
 K:D
@@ -578,7 +578,7 @@ X: 36
 T:Jessie's Hornpipe
 % Nottingham Music Database
 S:Lesley Dolman, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:G
@@ -624,7 +624,7 @@ X: 39
 T:Jimmy Allen
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:G
@@ -640,7 +640,7 @@ X: 40
 T:Jinglin Johnnie
 % Nottingham Music Database
 S:Athole p 144, via EF
-Y:AV
+P:AV
 M:4/4
 L:1/4
 K:A
@@ -730,7 +730,6 @@ T:The Jolly Coppersmith
 S:Toby, via EF
 M:4/4
 K:D
-M:4/4
 L:1/4
 "A7"F/2G/2|: |||:"D"AB AF|"D"AB AF|"A7"AG2F|G3d|c3/2c/2 ce|
 B3/2B/2 Bc|"D"BA A^G|"A7"A3F/2G/2|"D"AB AF|AB AF|
@@ -760,7 +759,7 @@ X: 47
 T:Good Night and Joy be with you
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -834,7 +833,7 @@ X: 54
 T:Kelsterne Gardens
 % Nottingham Music Database
 S:Lesley Dolman, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:Dm
@@ -850,7 +849,7 @@ X: 55
 T:Kingussie Flower
 % Nottingham Music Database
 S:Lesley Dolman, via EF
-Y:AB
+P:AB
 M:2/4
 L:1/4
 K:D
@@ -871,7 +870,7 @@ X: 56
 T:Kiss Me Quick Me Mither's Coming
 % Nottingham Music Database
 S:Geo. McDonald, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -904,7 +903,7 @@ X: 58
 T:Knick-Knack
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:G
@@ -922,7 +921,7 @@ X: 59
 T:Knick-Knack
 % Nottingham Music Database
 S:Eric Foxley
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:G
@@ -943,7 +942,7 @@ X: 60
 T:Knick-Knack
 % Nottingham Music Database
 S:Mick Peat C music, via EF
-Y:ABC
+P:ABC
 M:4/4
 L:1/4
 K:G
@@ -997,7 +996,7 @@ X: 63
 T:Lord of the Dance
 % Nottingham Music Database
 S:Sydney Carter, arr Eric
-Y:ABA
+P:ABA
 M:4/4
 L:1/4
 K:G
@@ -1016,7 +1015,7 @@ X: 64
 T:La Russe
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:G
@@ -1033,7 +1032,7 @@ X: 65
 T:Ladies' Triumph
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:G
@@ -1087,7 +1086,7 @@ X: 68
 T:Lambeth Walk
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AABAA
+P:AABAA
 M:4/4
 L:1/4
 K:G
@@ -1264,7 +1263,7 @@ X: 78
 T:Linhope Loup
 % Nottingham Music Database
 S:AA, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -1282,7 +1281,7 @@ X: 79
 T:Little Brown Jug
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AABABABA
+P:AABABABA
 M:4/4
 L:1/4
 K:D
@@ -1383,7 +1382,7 @@ X: 85
 T:The Lodge Road
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:PAA
+P:PAA
 M:2/4
 L:1/4
 K:D

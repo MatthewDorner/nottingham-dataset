@@ -3,7 +3,7 @@ X: 1
 T:The Alderman's Hat
 % Nottingham Music Database
 S:Playford
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:Gm
@@ -19,7 +19,7 @@ X: 2
 T:CAL 1
 % Nottingham Music Database
 S:Mark Knopfler
-Y:AABABA
+P:AABABA
 M:9/8
 L:1/8
 K:G
@@ -40,7 +40,7 @@ T:CAL 2
 % Nottingham Music Database
 S:Mark Knopfler
 N:A(acc) A(unacc)
-Y:AA
+P:AA
 M:9/8
 P:A
 K:G
@@ -70,7 +70,7 @@ X: 5
 T:Hole in the Wall
 % Nottingham Music Database
 S:Playford
-Y:PAABA
+P:PAABA
 M:3/2
 K:Bb
 %%MIDI gchord fzczcz
@@ -89,7 +89,7 @@ X: 6
 T:The Indian Queen
 % Nottingham Music Database
 S:Playford
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -105,7 +105,7 @@ X: 7
 T:Mr Beveridge's Maggot
 % Nottingham Music Database
 S:Playford
-Y:AB
+P:AB
 M:3/2
 K:Gm
 %%MIDI gchord fzczcz
@@ -121,7 +121,7 @@ P:B
 X: 8
 T:Nancy's Fancy
 % Nottingham Music Database
-Y:AAB
+P:AAB
 S:FTB 2/27
 M:4/4
 L:1/4
@@ -162,7 +162,7 @@ X: 11
 T:The Queen's Jig
 % Nottingham Music Database
 S:Playford
-Y:AB
+P:AB
 M:6/8
 K:D
 P:A
@@ -191,7 +191,7 @@ X: 13
 T:Sadlers Wells
 % Nottingham Music Database
 S:Playford
-Y:AB
+P:AB
 M:6/4
 L:1/4
 K:Dm

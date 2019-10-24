@@ -60,7 +60,7 @@ X: 4
 T:Devil Among the Tailors
 % Nottingham Music Database
 S:FTB, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:A
@@ -108,7 +108,7 @@ X: 6
 T:Dinah
 % Nottingham Music Database
 S:Oklahoma, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:A
@@ -125,7 +125,7 @@ X: 7
 T:Dinners 1
 % Nottingham Music Database
 S:Wolfstone Arr Hamish, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:A
@@ -149,7 +149,7 @@ X: 8
 T:Dinners 2
 % Nottingham Music Database
 S:Wolfstone Arr Hamish, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -169,7 +169,7 @@ X: 9
 T:Dixie Hoedown
 % Nottingham Music Database
 S:via PR
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:G
@@ -255,7 +255,7 @@ X: 14
 T:Dornoch Links
 % Nottingham Music Database
 S:KCC p5, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:A
@@ -271,7 +271,7 @@ X: 15
 T:Dorset Four Hand Reel
 % Nottingham Music Database
 %P:(AABB)*2+(CCDD)*2+D
-Y:ABCD
+P:ABCD
 S:Trad, via EF
 M:4/4
 L:1/4
@@ -330,7 +330,7 @@ X: 18
 T:The Drummer
 % Nottingham Music Database
 S:FTB 2/14, via EF
-Y:ABC
+P:ABC
 M:4/4
 L:1/4
 K:Am
@@ -349,7 +349,7 @@ X: 19
 T:Drunken Piper
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:Am
@@ -369,7 +369,7 @@ X: 20
 T:Drunken Sailor
 % Nottingham Music Database
 S:Nan F-W, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -421,7 +421,7 @@ X: 23
 T:Durham Rangers
 % Nottingham Music Database
 S:Lesley Dolman, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -441,7 +441,7 @@ X: 24
 T:East Neuk of Fife
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:G
@@ -589,7 +589,7 @@ X: 31
 T:Liza Jane
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -666,7 +666,7 @@ X: 36
 T:Farewell to Whisky
 % Nottingham Music Database
 S:Nan F-W, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -703,7 +703,7 @@ X: 38
 T:Fairy Dance
 % Nottingham Music Database
 S:Eric Foxley
-Y:ABCD
+P:ABCD
 M:4/4
 L:1/4
 K:D
@@ -725,7 +725,7 @@ X: 39
 T:Far From Home
 % Nottingham Music Database
 S:Les, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:G
@@ -861,7 +861,7 @@ X: 47
 T:Flop Ear'd Mule
 % Nottingham Music Database
 S:Trad, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:G
@@ -895,7 +895,7 @@ X: 49
 T:Flowers of Edinburgh
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:G
@@ -912,7 +912,7 @@ X: 50
 T:Athole Flowers of Edinburgh
 % Nottingham Music Database
 S:Athole p 144, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:G
@@ -932,7 +932,7 @@ X: 51
 T:Foot and Fiddle
 % Nottingham Music Database
 S:Birmg SDB, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:A
@@ -981,7 +981,7 @@ X: 54
 T:Fred Roden's Reel
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -1062,7 +1062,7 @@ d/2c/2|"Bm"BB cd|"F#7"e3/2e/2 dc|"Bm"BB cd|"F#7"ef/2e/2 dc|
 X: 59
 T:Galopede
 % Nottingham Music Database
-Y:AAB
+P:AAB
 S:Eric Foxley
 M:4/4
 L:1/4
@@ -1086,7 +1086,7 @@ X: 60
 T:All The Way To Galway
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -1196,7 +1196,7 @@ X: 67
 T:The Girl With the Blue Dress on
 % Nottingham Music Database
 S:FTB, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:G
@@ -1231,7 +1231,7 @@ X: 69
 T:Glengarry's March
 % Nottingham Music Database
 S:KCC p5, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:A
@@ -1265,7 +1265,7 @@ X: 71
 T:The Golden Farmer
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -1285,7 +1285,7 @@ X: 72
 T:Golden Slippers
 % Nottingham Music Database
 S:Trad, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -1324,7 +1324,7 @@ X: 74
 T:Good-bye Girls
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:G
@@ -1454,7 +1454,7 @@ X: 82
 T:The Old Grey Cat
 % Nottingham Music Database
 S:Leslie Dolmen, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:Em

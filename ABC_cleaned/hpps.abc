@@ -2,7 +2,7 @@ X: 1
 T:Aunt Hessie's White Horse
 % Nottingham Music Database
 S:Kevin Briggs
-Y:AAB
+P:AAB
 M:4/4
 L:1/8
 R:Hornpipe
@@ -19,7 +19,7 @@ X: 2
 T:Barn Dance 1
 % Nottingham Music Database
 S:McCusker Brothers
-Y:AB
+P:AB
 M:4/4
 L:1/8
 R:Hornpipe
@@ -35,7 +35,7 @@ e2|"D"f^e(3fga d2d2|"Em"e^d(3efg B2B2|"A7"cBcB Acec|"D"dcdf "A7"b2ag|
 X: 3
 T:Barn Dance 2
 % Nottingham Music Database
-Y:AABA
+P:AABA
 S:McCusker Brothers
 M:4/4
 L:1/8
@@ -610,7 +610,7 @@ X: 37
 T:MacAllan
 % Nottingham Music Database
 S:J Scott Skinner
-Y:AB
+P:AB
 M:4/4
 L:1/8
 R:Hornpipe

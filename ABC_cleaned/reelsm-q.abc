@@ -74,7 +74,7 @@ X: 5
 T:Mairie's Wedding
 % Nottingham Music Database
 S:Kay Graham, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -147,7 +147,7 @@ X: 10
 T:My Son's A Prawn
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:A
@@ -286,7 +286,7 @@ X: 18
 T:Merry Blacksmith
 % Nottingham Music Database
 S:FTB 1/16, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -359,7 +359,7 @@ X: 22
 T:Clap Dance (Miss McLeod)
 % Nottingham Music Database
 S:McCusker Brothers, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:G
@@ -379,7 +379,7 @@ X: 23
 T:Miss Campbell
 % Nottingham Music Database
 S:Lesley Dolman, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:G
@@ -394,7 +394,7 @@ d|"G"d3/2B/2 GG|"D7"c3/2A/2 FF|"G"d3/2B/2 GG|"A7"A2 -"D7"A2|"G"d3/2B/2 GG|\
 X: 24
 T:Miss Forbes' Farewell to Banff
 % Nottingham Music Database
-Y:AAB
+P:AAB
 S:Athole p147, via EF
 M:4/4
 L:1/4
@@ -432,7 +432,7 @@ X: 26
 T:May Day (Miss McLeod's Reel)
 % Nottingham Music Database
 S:F1/24, via EF
-Y:ABC
+P:ABC
 M:4/4
 L:1/4
 K:G
@@ -457,7 +457,7 @@ X: 27
 T:Mississipi Sawyer
 % Nottingham Music Database
 S:Trad, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -523,7 +523,7 @@ X: 31
 T:Morpeth Rant
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -560,7 +560,7 @@ X: 33
 T:Muddy Water
 % Nottingham Music Database
 S:Oklahoma, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -580,7 +580,7 @@ X: 34
 T:My Love is but a Lassie Yet
 % Nottingham Music Database
 S:Nan F-W, via EF
-Y:ABC
+P:ABC
 M:4/4
 L:1/4
 K:D
@@ -647,7 +647,7 @@ B/2|"A"cc/2A/2 "D"dd/2B/2|"A"cc/2A/2 "E"BB/2e/2|\
 X: 38
 T:Nancy
 % Nottingham Music Database
-Y:AAB
+P:AAB
 S:Nan F-W, via EF
 M:4/4
 L:1/4
@@ -698,7 +698,7 @@ X: 41
 T:New High Level
 % Nottingham Music Database
 S:NPTB, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:G
@@ -775,7 +775,7 @@ K:G
 X: 46
 T:Nine Pint Cloggie
 % Nottingham Music Database
-Y:AAB
+P:AAB
 S:Kay Graham, via EF
 M:4/4
 L:1/4
@@ -854,7 +854,7 @@ X: 51
 T:Old Joe Clark 1
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:A
@@ -870,7 +870,7 @@ X: 52
 T:Old Joe Clark 2
 % Nottingham Music Database
 S:Otto Woods, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:A
@@ -1053,7 +1053,7 @@ X: 63
 T:The Pearl Wedding
 % Nottingham Music Database
 S:AA, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -1099,7 +1099,7 @@ X: 66
 T:Petronella
 % Nottingham Music Database
 S:Lesley Dolman, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -1116,7 +1116,7 @@ d/2A/2|"D"Ff/2d/2 Aa/2f/2|"Em"gg/2f/2 e/2d/2c/2B/2|"A7"Ae/2c/2 Ag/2e/2|\
 X: 67
 T:Pilgarlic
 % Nottingham Music Database
-Y:AAB
+P:AAB
 S:John Lagden, via EF
 M:4/4
 L:1/4
@@ -1163,7 +1163,7 @@ X: 69
 T:The Piper O' Dundee
 % Nottingham Music Database
 S:Lesley Dolman, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:Am
@@ -1179,7 +1179,7 @@ X: 70
 T:Pleasures of the Town
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:A
@@ -1212,7 +1212,7 @@ G/4^F/4G/4A/4 B/2G/2|"Cm"c/2d/2 e|"D"d/4^c/4d/4e/4 d/4=c/4B/4A/4|"Gm"G/2G/2 G\
 X: 72
 T:Polly Put the Kettle on
 % Nottingham Music Database
-Y:AAB
+P:AAB
 S:Kay Graham, via EF
 M:4/4
 L:1/4
@@ -1292,7 +1292,7 @@ X: 76
 T:Prince Charlie's Welcome to Skye
 % Nottingham Music Database
 S:KMM3 p45, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:G
@@ -1312,7 +1312,7 @@ X: 77
 T:Bottom of the Punch Bowl
 % Nottingham Music Database
 S:KCC p30, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D

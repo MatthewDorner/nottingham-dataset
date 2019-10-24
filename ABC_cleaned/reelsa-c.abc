@@ -2,7 +2,7 @@
 X: 1
 T:The 29th of May
 % Nottingham Music Database
-Y:AAB
+P:AAB
 M:4/4
 L:1/4
 K:D
@@ -32,7 +32,7 @@ X: 3
 T:Abbeyfield
 % Nottingham Music Database
 S:Peeping Tom, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:G
@@ -51,7 +51,7 @@ F/2G/2|"D"AD Dc|"G"BG G3/2F/2|"A7/c+"E/2F/2G/2A/2 B/2A/2B/2^c/2|\
 X: 4
 T:Barren Rocks of Aden
 % Nottingham Music Database
-Y:AAB
+P:AAB
 S:Kerr's CC p3, via EF
 M:4/4
 L:1/4
@@ -115,7 +115,7 @@ X: 8
 T:Heights of Alma
 % Nottingham Music Database
 S:KCC p3, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:A
@@ -197,7 +197,7 @@ X: 13
 T:Arkensas Traveller
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:ABC
+P:ABC
 M:4/4
 L:1/4
 K:A
@@ -249,7 +249,7 @@ X: 16
 T:Ballantynes
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -306,7 +306,7 @@ K:G
 X: 20
 T:Balquhidder Lasses
 % Nottingham Music Database
-Y:AAB
+P:AAB
 S:Alfred Moffat, via EF
 M:4/4
 L:1/4
@@ -343,7 +343,7 @@ K:G
 X: 22
 T:Miss Forbes' Farewell to Banff
 % Nottingham Music Database
-Y:AAB
+P:AAB
 S:Athole p147, via PR
 M:4/4
 L:1/4
@@ -382,7 +382,7 @@ d/2e/2|:"D"ff/2f/2 fg/2f/2|"A"ec "D"d3/2d/2|"A"cd e/2f/2e/2c/2|"D"de fd|
 X: 24
 T:Bonny Breast Knot (Devon)
 % Nottingham Music Database
-Y:AAB
+P:AAB
 S:Trad, via EF
 M:4/4
 L:1/4
@@ -399,7 +399,7 @@ X: 25
 T:Beaver Creek
 % Nottingham Music Database
 S:Ralph Page, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -416,7 +416,7 @@ X: 26
 T:Big Corral
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:A
@@ -432,7 +432,7 @@ X: 27
 T:The Big Ship
 % Nottingham Music Database
 S:Nan Fleming Williams, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:G
@@ -492,7 +492,7 @@ X: 30
 T:Black Mountain Reel
 % Nottingham Music Database
 S:via PR
-Y:ABC
+P:ABC
 M:4/4
 L:1/4
 K:A
@@ -554,7 +554,7 @@ X: 34
 T:Boatie Rows
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -619,7 +619,7 @@ X: 38
 T:Bonny Breast Knot
 % Nottingham Music Database
 S:Sussex, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:C
@@ -638,7 +638,7 @@ X: 39
 T:Bonny Laddie
 % Nottingham Music Database
 S:FTB, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:G
@@ -726,7 +726,7 @@ X: 45
 T:The Breakdown
 % Nottingham Music Database
 S:Eric Foxley
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:A
@@ -756,7 +756,7 @@ z|"G"d3/2e/2 d3/2e/2|d/2c/2B/2A/2 G2|"Am"AB c/2B/2c/2d/2|
 X: 47
 T:Brighton Camp
 % Nottingham Music Database
-Y:ABCD
+P:ABCD
 S:Trad, via EF
 M:4/4
 L:1/4
@@ -1154,7 +1154,7 @@ K:G
 X: 69
 T:Come Dance and Sing
 % Nottingham Music Database
-Y:AABA
+P:AABA
 S:FTB 2, via EF
 M:4/4
 L:1/4

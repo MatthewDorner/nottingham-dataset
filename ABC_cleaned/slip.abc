@@ -3,7 +3,7 @@ X: 1
 T:Drops of Brandy
 % Nottingham Music Database
 S:Trad
-Y:AB
+P:AB
 M:9/8
 K:G
 P:A
@@ -16,7 +16,7 @@ X: 2
 T:Dublin Streets
 % Nottingham Music Database
 S:O'Neill
-Y:AB
+P:AB
 M:9/8
 K:Em
 P:A
@@ -29,9 +29,8 @@ X: 3
 T:Gingerhog's No.2
 % Nottingham Music Database
 S:Phil Cunningham arr Hamish
-M:4/4
-K:D
 M:9/8
+K:D
 "D"Add "D"fdd "A"e2f|"D"Add "D"efd "G"GdB|"D"Add "D"fdd "D"e2f|\
 "G"GBd "D"Afd "A"e3:|
 "D"a2f "D"fef "A"def|"D"aff "D"efA "G"B3|"D"a2f "D"fef "D"dBA|\
@@ -42,7 +41,7 @@ X: 4
 T:The Glass Of Stout
 % Nottingham Music Database
 S:Phil Rowe via Toby Bennett
-Y:AB
+P:AB
 M:9/8
 K:A
 P:A
@@ -56,7 +55,7 @@ X: 5
 T:Kid on the Mountain
 % Nottingham Music Database
 S:Bothy Boys
-Y:ABCDEF
+P:ABCDEF
 M:9/8
 K:Em
 P:A
@@ -127,7 +126,7 @@ X: 9
 T:Sir Roger de Coverley
 % Nottingham Music Database
 S:Trad
-Y:AB
+P:AB
 M:9/8
 K:G
 P:A
@@ -141,7 +140,7 @@ P:B
 X: 10
 T:Slip Jig
 % Nottingham Music Database
-Y:PAAB
+P:PAAB
 S:Anon
 M:9/8
 K:D

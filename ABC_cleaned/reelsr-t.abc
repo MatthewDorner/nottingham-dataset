@@ -92,7 +92,7 @@ X: 5
 T:Rattling Bog
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -108,7 +108,7 @@ X: 6
 T:Little Red Waggon
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:ABCA
+P:ABCA
 M:4/4
 L:1/4
 K:D
@@ -144,7 +144,7 @@ X: 8
 T:Redwing
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:ABBABBA
+P:ABBABBA
 M:4/4
 L:1/4
 K:F
@@ -229,7 +229,7 @@ X: 13
 T:Rigs O' Mallow
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:G
@@ -246,7 +246,7 @@ X: 14
 T:Road to Butlins A52
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -291,7 +291,7 @@ A2 Bc|"G"d2 d2|d2 Bd|"C"e2 e2|"G"d2 BA|"Em"G2 E2|"Am"c2 B2|"D"A4-|A2 GA|
 X: 17
 T:Rodney's Glory
 % Nottingham Music Database
-Y:AABAB
+P:AABAB
 S:O'Neill, via EF
 M:4/4
 L:1/4
@@ -314,7 +314,7 @@ X: 18
 T:Rollin' In
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -347,7 +347,7 @@ X: 20
 T:Rose Tree
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -383,7 +383,7 @@ X: 22
 T:Roxburgh Castle
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:A
@@ -403,7 +403,7 @@ X: 23
 T:Russ Allen
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -422,7 +422,7 @@ P:B
 X: 24
 T:Ryan's Rant
 % Nottingham Music Database
-Y:PAABBCCDD
+P:PAABBCCDD
 S:Eric Foxley
 M:4/4
 L:1/4
@@ -490,7 +490,7 @@ X: 28
 T:Sailor's Hornpipe
 % Nottingham Music Database
 S:Eric Foxley
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:G
@@ -537,7 +537,7 @@ X: 31
 T:Sally Picker
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:G
@@ -637,7 +637,7 @@ X: 37
 T:Le Parc de Sceaux
 % Nottingham Music Database
 S:Chris Dewhurst, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:Am
@@ -741,7 +741,7 @@ g/2a/2|"Em"b2 b/2a/2g/2b/2|"C"ag g2|"C"eg/2e/2 "G/b"d/2e/2g/2a/2|\
 X: 43
 T:The Happy One-Step
 % Nottingham Music Database
-Y:AABABA
+P:AABABA
 S:Sharon Shannon/2 arr Eric
 M:4/4
 L:1/4
@@ -762,7 +762,7 @@ X: 44
 T:Shepton Reel
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:G
@@ -795,7 +795,7 @@ X: 46
 T:Sir Sidney Smith
 % Nottingham Music Database
 S:NPTB, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:G
@@ -822,7 +822,7 @@ ed cB|"C"B"A7/c+"A "D7"AB/2c/2|
 X: 47
 T:Slow March for Pipers
 % Nottingham Music Database
-Y:ABB
+P:ABB
 S:AA, via EF
 M:4/4
 L:1/4
@@ -843,7 +843,7 @@ X: 48
 T:So-so Polka
 % Nottingham Music Database
 S:Lesley Dolman, via EF
-Y:AB
+P:AB
 M:2/2
 K:G
 P:A
@@ -860,7 +860,7 @@ X: 49
 T:Soldiers' Joy
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -898,7 +898,7 @@ X: 51
 T:Speed The Plough
 % Nottingham Music Database
 S:FTB 1/8, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:A
@@ -934,7 +934,7 @@ X: 53
 T:St Anne's (V)
 % Nottingham Music Database
 S:Vancouver, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -954,7 +954,7 @@ X: 54
 T:St Anne's (L)
 % Nottingham Music Database
 S:AlyB via Lesley, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -988,7 +988,7 @@ X: 56
 T:Staten Island
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -1007,7 +1007,7 @@ X: 57
 T:Storrers
 % Nottingham Music Database
 S:Nan F-W, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:A
@@ -1026,7 +1026,7 @@ c/2e/2|"A"f/2e/2c/2e/2 a/2g/2f/2e/2|"A"fe ec/2e/2|"A"f/2e/2c/2e/2 a/2g/2f/2e/2\
 X: 58
 T:Sugar in my Coffee-o
 % Nottingham Music Database
-Y:AAB
+P:AAB
 S:Lynn Rohrbough, via EF
 M:4/4
 L:1/4
@@ -1042,7 +1042,7 @@ X: 59
 T:Sugar in the Gourd
 % Nottingham Music Database
 S:Lynn Rohrbough, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:A
@@ -1073,7 +1073,7 @@ X: 61
 T:Miss Supertest's Victory Reel
 % Nottingham Music Database
 S:Peter Durber, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -1157,7 +1157,7 @@ X: 66
 T:English Dance
 % Nottingham Music Database
 S:Swedish, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -1176,7 +1176,7 @@ X: 67
 T:Swedish Masquerade
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:ABC
+P:ABC
 M:4/4
 L:1/4
 K:G
@@ -1214,7 +1214,7 @@ X: 69
 T:Teetotaller's Reel
 % Nottingham Music Database
 S:Kerrs/Eric Foxley
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:G
@@ -1234,7 +1234,7 @@ X: 70
 T:Teetotaller's Reel Descant
 % Nottingham Music Database
 S:Kerrs/Eric Foxley
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:G
@@ -1254,7 +1254,7 @@ X: 71
 T:Teetotaller's Reel
 % Nottingham Music Database
 S:Kerrs/Eric Foxley
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:G
@@ -1307,7 +1307,7 @@ X: 73
 T:The Rant
 % Nottingham Music Database
 S:Les, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:D
@@ -1397,7 +1397,7 @@ X: 78
 T:Timour The Tartar
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:A
@@ -1470,7 +1470,7 @@ X: 82
 T:Tom and Jerry
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:A
@@ -1490,7 +1490,7 @@ X: 83
 T:Tom Pate
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AABA
+P:AABA
 M:4/4
 L:1/4
 K:G
@@ -1615,7 +1615,7 @@ X: 91
 T:Turkey in the Straw
 % Nottingham Music Database
 S:Kevin Briggs, via EF
-Y:AB
+P:AB
 M:4/4
 L:1/4
 K:G

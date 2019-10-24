@@ -79,7 +79,7 @@ K:G
 X: 6
 T:Blodau'r Drain
 % Nottingham Music Database
-Y:AAB
+P:AAB
 S:TDA II
 M:3/4
 L:1/4
@@ -99,7 +99,7 @@ X: 7
 T:Blow the Wind Southerly
 % Nottingham Music Database
 S:Kevin Briggs
-Y:AAB
+P:AAB
 M:3/4
 L:1/4
 K:D
@@ -129,7 +129,7 @@ A/2B/2|"F"c3/2d/2c|"F"c3/2d/2c|"Bb"fed|"F"c2"C7"B|"F"A/2c3/2F|"F"A/2c3/2F|\
 X: 9
 T:Caerdroea
 % Nottingham Music Database
-Y:AAB
+P:AAB
 S:JP/AF 85
 M:3/4
 L:1/4
@@ -221,7 +221,7 @@ B/2A/2|"G"G3/2A/2G|"G7"GBd|"C"ceg|"C"g2f/2e/2|"G"d3/2c/2B|"D7"AGA|"G"BdB|
 X: 15
 T:Ffarwel Ir Marian
 % Nottingham Music Database
-Y:AAB
+P:AAB
 S:JP/AF 85
 M:3/4
 L:1/4
@@ -428,7 +428,7 @@ d/2e/2|"D"f3/2e/2d|"G"dBA|"D"AFA|"F#m"AFd/2e/2|"D"f3/2e/2d|"D"daf|"E7"fee|
 X: 28
 T:Merch Megan
 % Nottingham Music Database
-Y:AAB
+P:AAB
 S:JP/AF 85
 M:3/4
 L:1/4
