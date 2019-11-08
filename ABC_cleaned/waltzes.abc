@@ -5,6 +5,7 @@ T:Alnwick Castle
 S:Kevin Briggs
 M:3/4
 L:1/4
+R:Waltz
 K:G
 D|"G"G3/2B/2"D7"A/2F/2|"G"GAB|"C"cde|"D7"d3/2c/2B/2A/2|"G"G3/2B/2"D7"A/2F/2|\
 "Em"GBd|"Am"c2B|
@@ -22,6 +23,7 @@ T:April Waltz
 S:Alistair Anderson
 M:3/4
 L:1/4
+R:Waltz
 K:G
 G/2A/2|"G"B3/2B/2A/2G/2|A/2B/2G/2A/2B/2d/2|"C"e3/2d/2B/2A/2|
 B/4d3/4AA/2B/2|"G"G3/2B/2A/2G/2|"C"E/2G/2D/2E/2G/2A/2| [1"Em"B3/2B/2"Am"A/2G/2\
@@ -40,6 +42,7 @@ T:Ye Banks and Braes
 S:Kevin Briggs
 M:3/4
 L:1/4
+R:Waltz
 K:D
 A|"D"d2d|"A7/e"e3/2d/2e|"D/f+"faf|"A7/e"e3/2d/2e|"D"f3/2e/2d|"G"dBA|"Em"ABd|\
 "A7"e2A|
@@ -56,6 +59,7 @@ T:I Went to Pick Some Blaeberries
 S:Joy
 M:3/4
 L:1/4
+R:Waltz
 K:A
 E|"A"A2A|"F#m"c2c|"C#m"e2e|"A"c3|"C#m"e2e|"F#m"c3|"A"e3/2d/2c|"E7"B2E|
 "A"A2A|"F#m"c2c|"C#m"e2e|"A"c2E|"A"A2A|"D"B2c|"E7"B2B|"A"A2||
@@ -67,6 +71,7 @@ T:Blaenwern
 S:MHB 267 (i)
 M:3/4
 L:1/4
+R:Waltz
 K:G
 "G"D2D|"C/g"E2E|"G"DGB|"G/d"B2"D"A||"Em"G2"G/b"F|"C"E2"G"D|"D/a"DF"A"E|"D"D3||
 "G"D2D|"C"E2E|"G"DGB|"G/d"B2"D"A||"Em"G2A|"G"B"C"c"C"A|"G/d"G2"D"F|"G"G3||
@@ -83,6 +88,7 @@ P:AAB
 S:TDA II
 M:3/4
 L:1/4
+R:Waltz
 K:Am
 P:A
 |:E|"Am"A2B|"Am/c"cBA|"Dm"ed/2c/2B/2A/2|"E7"B2E|"Am"AA/2c/2"Dm/a"B/2d/2|"Am"cBA|\
@@ -102,6 +108,7 @@ S:Kevin Briggs
 P:AAB
 M:3/4
 L:1/4
+R:Waltz
 K:D
 P:A
 |:A|"D"f3/2e/2d|"D"AFA|"G"BGB|"D"AFA|"D"f3/2e/2d|"D"AFA|"Em"Be"A"c|"D"d2:|
@@ -116,6 +123,7 @@ T:Bonnie Dundee
 S:Joy Foxley
 M:3/4
 L:1/4
+R:Waltz
 K:F
 A/2B/2|"F"c3/2d/2c|"F"c3/2d/2c|"Bb"fed|"F"c2"C7"B|"F"A/2c3/2F|"F"A/2c3/2F|\
 "Gm"G3/2A/2G|"C7"GAB|
@@ -133,6 +141,7 @@ P:AAB
 S:JP/AF 85
 M:3/4
 L:1/4
+R:Waltz
 K:D
 P:A
 d|"D"AA/2B/2A/2G/2|"D"FAD|"Em"GG/2A/2G/2F/2|"A7"E2d|"D"AA/2B/2A/2G/2|"D"FAD|\
@@ -150,6 +159,7 @@ T:Cairn on the Moor
 S:CDM
 M:3/4
 L:1/4
+R:Waltz
 K:G
 G/2A/2|"G"B3/2A/2B|"Em"G3/2F/2G|"D7"A3/2G/2A|"G"B2G|"Em"B3/2A/2B|"G"G3/2F/2G|\
 "C/e"gfe|"G/b"d2"D7/a"c|
@@ -164,6 +174,7 @@ T:Daisy Daisy
 % Nottingham Music Database
 M:3/4
 L:1/4
+R:Waltz
 K:D
 f/2g/2|"D"a3|"D"f3|"D"d3|"D"A3|"G"Bcd|"G"B2d|"D"A3-|"D"A2d|"A7"e3|"A7"a3|"D"f3|
 "Bm"d3|"E7"Bcd|"E7"e2f|"A7"e3-|"A7"eef|"A7"gfe|"A7"a2f|"D"ed2-|"D"dde|"D"f2d|"G"B2d|
@@ -176,6 +187,7 @@ T:Down in the Mines
 S:Kevin Briggs
 M:3/4
 L:1/4
+R:Waltz
 K:G
 B/2A/2|"G"GGG/2A/2|"G"Bdd|"C"egg|"D7"a2g/2a/2|"G"bb3/2a/2|"G"gdd|"C"egg|
 "D7"ed/2c/2B/2A/2|"G"GGG/2A/2|"G"Bdd|"C"egg|"D7"a2g/2a/2|"G"bb3/2a/2|"G"gdd|\
@@ -191,6 +203,7 @@ T:Dreaming
 S:Bryon Bonnett
 M:3/4
 L:1/4
+R:Waltz
 K:G
 D|"G"B3/2^A/2B|"B7"ABA|"Em"G3/2F/2G|"Cm"G_EC|"G"B,2B|"G"BAG|"Am"Ace|"D7"d^c=c|
 "G"B3/2^A/2B|"B7"ABA|"Em"G3/2F/2G|"Cm"G_EC|"G"B,3/2D/2B|"D7"B2A|"G"G3|"G7"GAB\
@@ -209,6 +222,7 @@ T:All Those Endearing Young Charms
 S:Kevin Briggs
 M:3/4
 L:1/4
+R:Waltz
 K:G
 B/2A/2|"G"G3/2A/2G|"G7"GBd|"C"ceg|"C"g2f/2e/2|"G"d3/2c/2B|"D7"AGA|"G"BdB|
 "D7"A2B/2A/2|"G"G3/2A/2G|"G7"GBd|"C"ceg|"C"g2f/2e/2|"G"dgB|"D7"A3/2G/2A|"G"G3-\
@@ -225,6 +239,7 @@ P:AAB
 S:JP/AF 85
 M:3/4
 L:1/4
+R:Waltz
 K:Dm
 P:A
 A|"Dm"A/2d/2A/2=B/2^c/2d/2|"A"eA2|"Gm"f/2g/2f/2e/2d/2e/2|"A7"^cA2|\
@@ -242,6 +257,7 @@ T:I Belong to Glasgow
 S:Kevin Briggs
 M:3/4
 L:1/4
+R:Waltz
 K:G
 d|"G"G2A|"G"B2c|"G"dg2-|"G"g3|"C"g2a|"C"g2e|"G"d3|"D7"cBA|
 "G"GGA|"G"BBc|"G"d2e|"G"f2g|"A7"a2^g|"A7"a2b|"D7"a3|"D7"def|
@@ -255,6 +271,7 @@ T:Great is Thy Faithfulness
 S:MHB 66 transposed
 M:3/4
 L:1/4
+R:Waltz
 K:D
 "D"FFF|"G"F3/2E/2E|"A"GGG|"D"GF2||"G"BcB|"D/f+"A3/2G/2F|"Bm"EF"E7"^G|\
 "A"A3||
@@ -271,6 +288,7 @@ T:The Greenwood Tree
 S:FTB 1/34
 M:3/4
 L:1/4
+R:Waltz
 K:D
 A|"D"ffe|"D/f+"d2c/2d/2|"G"B2c/2B/2|"D"AFF/2G/2|"D"AA/2B/2A/2F/2|"Bm"Ade|
 "E7"f3/2e/2d|"A7"e2A|"D"ffe|"D/f+"d2c/2d/2|"G"B2c/2B/2|"D"AFF/2G/2|\
@@ -287,6 +305,7 @@ T:Hector the Hero
 S:Wolfstone
 M:3/4
 L:1/4
+R:Waltz
 K:Bb
 Bc|"Bb"d3/2c/2B|"Eb"g2f/2d/2|"Bb"f2-f/2g/2|"Bb"f2B/2c/2|"Gm"d2c/2B/2|\
 "Eb"g2f/2d/2|"Cm"c2-c/2d/2|
@@ -312,6 +331,7 @@ T:Close Every Door
 S:Joseph
 M:3/4
 L:1/4
+R:Waltz
 K:Am
 E|"Am"EcA|"E7"BFE|"Am"EcA|"E7"BFE|"Am"EAc|"F"ed3/2c/2|
 "Dm"BcA|"E7"B2E|"Am"EcA|"E7"BFE|"Am"EcA|"E7"BFE|"Am"EAc|
@@ -328,6 +348,7 @@ T:Kelvingrove
 S:Kevin Briggs
 M:3/4
 L:1/4
+R:Waltz
 K:G
 G/2A/2|"G"B2d|"D/a"A2B|"G/b"G2F|"G"E2D|"C"E3|"A7/c+"A2B|"D7"A3-|"D7"AGA|
 "G"B2d|"D/a"A2B|"G/b"G2F|"G"E2D|"C"E3|"Cm"G2A|"G"G3-|"G"GAB||
@@ -341,6 +362,7 @@ T:Logie O'Buchan
 S:Kevin Briggs
 M:3/4
 L:1/4
+R:Waltz
 K:D
 A/2G/2|"D"F3/2G/2A|"D"Afe|"G"dBB|"G"B2A/2G/2|"D"F3/2G/2A|"A7"Ade|"D"fd"G"d|\
 "D"d2A/2G/2|
@@ -357,6 +379,7 @@ T:Lord of all Hopefulness
 S:H\&S 552(i)
 M:3/4
 L:1/4
+R:Waltz
 K:D
 "D"DD"D/f+"E/2D/2|"G"B,"A"A,"A7/g"A,/2B,/2|"D/f+"D"Bm"D"A/e"E|\
 "D"F2"D/f+"A/2F/2|"A"EE"Em"E|"A/c+"E"D"F"D/f+"A|"G"B"D/f+"A"D"F|"A"A2"D/f+"A|
@@ -370,6 +393,7 @@ T:Louis Waltz
 S:Trad French Canadian
 M:3/4
 L:1/4
+R:Waltz
 K:D
 A/2B/2A/2G/2|"D"FD/2F/2A/2d/2|"D"f-f/2f/2e/2f/2|"G"gb/2g/2f/2g/2|\
 "G"B-B/2d/2c/2B/2|
@@ -388,6 +412,7 @@ T:Lullaby
 S:Fred Hamer
 M:3/4
 L:1/4
+R:Waltz
 K:D
 D/2E/2|"D"FFF|"Bm"FD3/2E/2|"A7"FDE|"D"F3|"F#m"A3/2B/2A|"Em"GFE|"A"A3-|"A"A2A|
 "F#m"A3/2B/2A|"Em"G3/2A/2G|"D"FDE|"Bm"F3|"A"AEF|"A7"GFE|"D"D3-|"D"DFG|
@@ -401,6 +426,7 @@ T:M.T.B.
 S:Lesley Dolman
 M:3/4
 L:1/4
+R:Waltz
 K:G
 D|"G"GBd|"G"g3/2g/2f/2g/2|"C"age|"G"edd|"D"DFA|"D"d3/2d/2^c/2d/2|"D7"edc|
 "G"B2B/2A/2|"G"GBd|"G"g3/2g/2f/2g/2|"C"age|"G"edd|"D"DFA|"D"d3/2d/2^c/2d/2|\
@@ -416,6 +442,7 @@ T:Maid of GlenConnel
 S:FTB1/28
 M:3/4
 L:1/4
+R:Waltz
 K:D
 d/2e/2|"D"f3/2e/2d|"G"dBA|"D"AFA|"F#m"AFd/2e/2|"D"f3/2e/2d|"D"daf|"E7"fee|
 "A7"e2d/2e/2|"D"f3/2e/2d|"G"dBA|"D"AFA|"F#m"AFA|"D"daf|"A7"e3/2d/2e|\
@@ -432,6 +459,7 @@ P:AAB
 S:JP/AF 85
 M:3/4
 L:1/4
+R:Waltz
 K:G
 P:A
 d/2c/2|"G"BGG|"C"e2d|"Am"cBA/2G/2|"D7"FDd/2c/2|"G"BGG|"C"e2d|\
@@ -448,6 +476,7 @@ T:Mexican Waltz
 S:
 M:3/4
 L:1/4
+R:Waltz
 K:G
 d|"G"G2B|"G"dBG|"D"F2"C"e|"D7"d2D|"D7"F2A|"D7"cAF|"G"G2"C"e|"D7"d2D|
 "G"G2B|"G"dBG|"C"c2d|"Am"c2D|"D7"F2A|"D7"cAF|"G"B2"D7"A|"G7"G3|"C"e3|
@@ -460,6 +489,7 @@ T:Mist on the Marsh
 S:Bryon Bonnett
 M:3/4
 L:1/4
+R:Waltz
 K:G
 D|"G"BB/2d/2c/2B/2|"D"AA2|"Em"GG/2B/2A/2G/2|"B7"F3|"C"EE/2G/2F/2E/2|"G"DG2|\
 "A"GG/2B/2A/2G/2|"D"A2"Da"^A|
@@ -477,6 +507,7 @@ T:My Home
 S:FTB1/28
 M:3/4
 L:1/4
+R:Waltz
 K:A
 e/2d/2|"A"c3/2B/2A|"A"Ace|"D/f+"agf|"A/c+"e2e/2d/2|"A"c3/2B/2c|\
 "F#m"ABc|"Bm/d"d3/2c/2d|
@@ -494,6 +525,7 @@ T:My Love is Like a Red Red Frog
 S:Kevin Briggs
 M:3/4
 L:1/4
+R:Waltz
 K:D
 A/2F/2|"D"D2D|"A7/e"E2F|"D/f+"d2c|"G"B2A|"G"B2A|"Em"Bd2|"A7"e3|"A7"def|
 "D"D2D|"A7/e"E2F|"D/f+"d2c|"G"B2A|"G"B2A|"A7"Bc2|"D"d3|"A7"ABc||
@@ -507,6 +539,7 @@ T:Nan's Waltz
 S:Pat Shuldam-Shaw
 M:3/4
 L:1/4
+R:Waltz
 K:G
 d|"G"d3/2c/2B|"C6"A3/2G/2A|"G"B3/2A/2B|"G"D2D|"C"E3/2G/2A|"G"B/2d3/2B|"C6"A3-|\
 "D7"A2D|
@@ -526,6 +559,7 @@ T:Northern Lights
 S:T Anderson
 M:3/4
 L:1/4
+R:Waltz
 K:D
 F/2G/2|"D"A2d|"D"f2e|"G"d/2B/2-B2|"G"d2B|"D"A2d|"E7"e2f|"A"a3-|"A7"aFG|"D"A2d|\
 "F#7"f2e|
@@ -541,6 +575,7 @@ T:Pam's Fancy
 S:Bryon Bonnett
 M:3/4
 L:1/4
+R:Waltz
 K:G
 "G"BD/2E/2G/2B/2|"C7"_B3|"G"BD/2E/2G/2B/2|"Gd"_B3|"G"Bed|"G"B2G|"C"E2^E|\
 "D7"FED|
@@ -562,6 +597,7 @@ T:Planxty Irwin
 S:O'Neils 1850 p123
 M:3/4
 L:1/4
+R:Waltz
 K:D
 A|"D"d2c|"G"Bcd|"A7"A2G|"D"FED|"A7"G2E|"D"FGA|"A"C2D|"A7"E2A|
 "D"d2c|"G"Bcd|"A7"A2G|"D"FED|"A7""Em"G2E|"D""Bm"FGA|"A7""Em"D2" ""A7"C|\
@@ -577,6 +613,7 @@ T:Plodder Seam
 S:Eric Foxley
 M:3/4
 L:1/4
+R:Waltz
 K:C
 e/2d/2|"C"c2d|"C"egg|"F"f2a|"G7"g2f|"C"ecc|"G7"B2d|"C"c3-|"C"cga|
 "Bb"_b3/2b/2b|"Bb"ga_b|"C"c'2c'|"C"e3/2d/2e|"F"f2f|"F"a2a|"C"g3-|"Cm"gga|
@@ -590,6 +627,7 @@ T:Road to Dundee
 S:Kevin Briggs
 M:3/4
 L:1/4
+R:Waltz
 K:G
 d|"G"d3/2c/2B|"G"BAD|"C"GFE|"G"DGB|"C"c3/2d/2e|"G"dBG|"A7"(3G/2A/2G/2FG|
 "D7"A2d|"G"d3/2c/2B|"G"BAD|"C"GFE|"G"DGB|"C"c3/2d/2e|"G"dBG|"D7"cAF|
@@ -603,6 +641,7 @@ T:Rope Waltz
 S:Orkney
 M:3/4
 L:1/4
+R:Waltz
 K:D
 A/2G/2|"D"F3/2G/2^G/2A/2|"D"D2d|"A7"c3/2d/2^d/2e/2|"A7"A2G|"D"F3/2G/2^G/2A/2|\
 "Bm"D2F|"Em"E3-|
@@ -618,6 +657,7 @@ T:Scots Wha Hae
 S:Kevin Briggs
 M:3/4
 L:1/4
+R:Waltz
 K:F
 C|"F"C2C|"C7"C2D|"F"C2D|"F"F3|"Bb"D2D|"Bb"D2C|"Bb"D2E|"Bb"F2G|"F"A2A|"A7"G2F|
 "Dm"F2G|"A7"A2G|"Dm"F2D|"Bb"D2C|"F"C3-|"C7"C3|"F"A2A|"F"A2G|"F"A2B|"F"c3|\
@@ -632,6 +672,7 @@ T:Seamus O'Brien
 S:Kevin Briggs
 M:3/4
 L:1/4
+R:Waltz
 K:G
 d|"G"edB|"G/b"G2A/2B/2|"C"EGE|"D7"D2E/2F/2|"G"GFG|"Em"edB|"Am"A2-"A7"A-|\
 "D7"A2d/2d/2|
@@ -647,6 +688,7 @@ T:She Was a ...
 S:
 M:3/4
 L:1/4
+R:Waltz
 K:D
 aa|"D"a^gb|"D"afd|"G"B2_B|"D"A3|"D"a2a|"D"a2d|"A7"c3-|"A"c3|"Em"b3|"Em"egb|
 "D"a2f|"Bm"e2d|"E7"B2f|"E7"fed|"A7"e3-|"A7"efe|"D"d3|"E7"e3|"A7"c3-|"A7"cBA|\
@@ -661,6 +703,7 @@ T:Shebag Shebong
 S:Kevin Briggs
 M:3/4
 L:1/4
+R:Waltz
 K:D
 d/2e/2|f2e|d2(3f/2e/2d/2|BBA|F2A|B/2A/2B/2c/2d/2f/2|e2d/2e/2|ffe|
 d2f|B2f|A2e|FFE|D2f|B2e/2c/2|A2d/2c/2|d2d/2c/2|d3/2c/2d/2e/2|
@@ -674,6 +717,7 @@ T:So Long
 S:Trad
 M:3/4
 L:1/4
+R:Waltz
 K:G
 Bc|"G"d3|B2d|"G"de3/2d/2|dB2|"D7"c3|A2d|"G"de3/2d/2|dB2|"G"d3|g2f|
 "C"ee3/2e/2|gfe/2e/2|"G"d3|dcB|"D7"A3-|ABc|"G"d3/2e/2d|"D7"cBA|"G"G3-| G:|
@@ -686,6 +730,7 @@ T:Starry Nights of Shetland
 S:Kevin Briggs
 M:3/4
 L:1/4
+R:Waltz
 K:C
 G|"C"e2c|"C"GAG|"Dm"F3|"Dm"B2A|"G"G2B|"G"d2G|"C"e3-|"C"e2G|"C"e2c|
 "C"GAG|"Dm"F3|"Dm"B2A|"G"G3/2B/2d/2e/2|"G7"fAB|"C"c3-|"C"cde|"F"fAf|
@@ -699,6 +744,7 @@ T:Just as the Sun was Setting
 S:John Kirkpatrick
 M:3/4
 L:1/4
+R:Waltz
 K:Am
 E|"Am"A3/2B/2A|"Am"e2a|"Em"g3/2a/2g|"Em"e2d|"Am"c3/2B/2A|"G"BAG|"F"A3/2B/2A|\
 "E7"E2E|
@@ -716,6 +762,7 @@ T:Sunset Over Ayr
 S:Bryon Bonnett
 M:3/4
 L:1/4
+R:Waltz
 K:G
 D|"G"B3/2A/2B|"Bm"d2d|"C"eGA|"D7"B2A|"Em"G3/2F/2G|"C"G2G|"Am"ecB|
 "D7"A2D|"G"B3/2A/2B|"Bm"d2d|"C"gcB|"D7"B2A|"Em"B3/2A/2B|"Bm"d2D|"D7"DBA|
@@ -730,6 +777,7 @@ T:Twickenham Ferry
 S:by Pat Shuldam-Shaw for Amy Foxley
 M:3/4
 L:1/4
+R:Waltz
 K:G
 d|"G"g3/2f/2e|"G/b"d3/2c/2B|"C"A3/2B/2G|"D7"FED|"G"G3/2A/2B|"G"d3/2e/2B|\
 "Em"d3/2e/2B|
@@ -747,6 +795,7 @@ T:Waters of Tyne
 S:NPTB
 M:3/4
 L:1/4
+R:Waltz
 K:D
 F/2G/2|"D"AFF|"A"AFE|"G"DD3/2D/2|"D"D2E/2F/2|"G"GGF|"A"EFA|"G"BB3/2B/2|
 "A"A2F/2E/2|"D"Dd3/2d/2|"D"def|"D"dA3/2B/2|"G"B2c/2d/2|"D"AFA|"A"A2F/2E/2|\
@@ -759,6 +808,7 @@ T:Weeping and Wailing
 S:Rosemary Redpath
 M:3/4
 L:1/4
+R:Waltz
 K:D
 A|"D"dde|"D"fed|"G"GBB|"G"B/2B3/2B|"A"Ac3/2B/2|"A"AcA|"A7"gfe|
 "D"f2A|"D"dde|"D"fed|"G"GBB|"Em"B/2B3/2B|"A"Ac3/2B/2|"A"AcA|"A7"gfe|
@@ -773,6 +823,7 @@ T:Wind on the Heath
 S:Scotland
 M:3/4
 L:1/4
+R:Waltz
 K:D
 A|"D"D3/2E/2D|"D"F2G|"D"A2B|"D"AFD|"G"G2d|"D"F2d|"Em"EFD|"A7"CB,A,|
 "D"D3/2E/2D|"D"F2G|"D"A2B|"D"AFD|"Em"FdF|"A7"Edc|"D"dAF|"D"D2A|
@@ -788,6 +839,7 @@ T:Young Jane
 S:FTB 1/36
 M:3/4
 L:1/4
+R:Waltz
 K:G
 (3D/2E/2F/2|"G"G3/2A/2B|"D"ABd|"C"e2e|"D7"d3/2B/2A|"G"G3/2A/2B|"D"A2G|"Em"E3|
 "D7"D3/2E/2F|"G"G3/2A/2B|"D"ABd|"C"e2e|"D"d2e|"Em"G3/2A/2B|"D"A2G|"G"G3-|

@@ -5,6 +5,7 @@ T:The 29th of May
 P:AAB
 M:4/4
 L:1/4
+R:Reel
 K:D
 P:A
 |:"D"af "G"gf|"Em"e/2d/2c/2B/2 "A"Af|"G"gB "A7"cB/2c/2|"D"dA "A7"GF/2E/2:|
@@ -19,6 +20,7 @@ T:Aaron's (Rarified) Air
 S:Bob McQuillen 1974 for Aaron Garland, via PR
 M:4/4
 L:1/4
+R:Reel
 K:G
 D|"G"DG "D7"FA|"G"G2 DD|G3/2A/2 Bc|d3d|"C"e3/2d/2 ce|"G"d3/2c/2 Bd|"Am"cB AG|\
 "D7"FG AD|
@@ -35,6 +37,7 @@ S:Peeping Tom, via EF
 P:AB
 M:4/4
 L:1/4
+R:Reel
 K:G
 P:A
 d|"G"gd "D/f+"Bd/2B/2|"Em"E/2F/2G/2A/2 B-B|"C"cA AG|\
@@ -55,6 +58,7 @@ P:AAB
 S:Kerr's CC p3, via EF
 M:4/4
 L:1/4
+R:Reel
 K:D
 P:A
 d/2e/2|"D"f3/2g/2 fe|"D/f+"df Ad|"A7"ce Ad/2e/2|"D"fA "A7"de|\
@@ -74,6 +78,7 @@ T:Aiken Drum
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:A
 A/2B/2|"A"cc d/2c/2B/2A/2|"D"F2 A3/2F/2|"A"E3/2F/2 AE|"B7"cB "E7"BA/2B/2|\
 "A"cc d/2c/2B/2A/2|"D"F2 A3/2F/2|"E7"EE FG|"A"A3::
@@ -87,6 +92,7 @@ T:Alabama Jubilee
 S:Trad, via EF
 M:4/4
 L:1/4
+R:Reel
 K:G
 d^c d|"E7"ed Be-|"E7"ed2B|"E7"ed Be-|"E7"e4|"A7"e^c Ae-|"A7"e^c2A|"A7"e^c Ae-|
 "A7"e^d e_f|"D7"f^e f=e-|"D7"ed2e|"D7"f^e f=e-|"D7"ed ef|"G"g2 eg|"G"ed Bd|
@@ -101,6 +107,7 @@ T:A La 'Page'
 S:Dennis Salter, via PR
 M:4/4
 L:1/4
+R:Reel
 K:G
 d/2c/2|"G"Bd/2B/2 GA/2B/2|"Am"cc/2B/2 c/2B/2A/2G/2|"D7"FA/2F/2 DF|\
 "G"G/2F/2G/2A/2 Bd/2c/2|
@@ -118,6 +125,7 @@ S:KCC p3, via EF
 P:AB
 M:4/4
 L:1/4
+R:Reel
 K:A
 P:A
 e/2d/2|"A"cA AE|"A"A/2B/2c/2d/2 e2|"A"f/2e/2d/2c/2 eA|\
@@ -134,6 +142,7 @@ T:Aly Anderson
 S:Bob McQuillen March 1977, via PR
 M:4/4
 L:1/4
+R:Reel
 K:D
 F/2G/2|"D"Ad "A7"A/2B/2A/2G/2|"D"FD2E/2F/2|"Em"G/2F/2E/2D/2 "A"EA|"D"D3F/2G/2|\
 "D"Ad "A7"A/2B/2A/2G/2|
@@ -152,6 +161,7 @@ T:Angeline The Baker
 S:Texas Old Time, via PR
 M:4/4
 L:1/4
+R:Reel
 K:D
 |:d/2B/2|"D"AB d3/2A/2|Bd2d/2B/2|AB d/2B/2A|"G"B3d/2B/2|"D"AB d3/2e/2|\
 "D"fe "Bm"d3/2e/2|"G"fe dB|"A7"A3/2B/2 A::
@@ -165,6 +175,7 @@ T:Anniversary Reel
 S:Chris Dewhurst (1978), via PR
 M:4/4
 L:1/4
+R:Reel
 K:D
 "A7"de |"D"f3/2d/2 Ad|"G"Bd "A"c/2d/2e|"D"d2 A2|"D7"F3/2F/2 GA|"G"Bd2B|\
 "D"A3/2G/2 "Bm"FG|"Em"E4-|"A"EA de|
@@ -182,6 +193,7 @@ T:Applejack's Reel
 S:Bob McQuillen March 77, via PR
 M:4/4
 L:1/4
+R:Reel
 K:D
 A,/2B,/2|"D"DE/2F/2 DE/2F/2|"D"D/2E/2F/2A/2 "G"Bd|"D"DE/2F/2 D/2E/2F/2A/2|\
 "G"B/2d/2A/2F/2 "A7"E/2G/2F/2E/2|
@@ -200,6 +212,7 @@ S:Kevin Briggs, via EF
 P:ABC
 M:4/4
 L:1/4
+R:Reel
 K:A
 P:A
 E|"A"A/2c/2B/2A/2 "D"FF|"E7"EE "A"A3/2A/2|"E7"BB "A"cc|"Bm"B/2c/2B/2A/2 "E7"FE|
@@ -222,6 +235,7 @@ T:The Artusi Polka
 S:John Goodacre 1985, via PR
 M:4/4
 L:1/4
+R:Reel
 K:D
 "A7"AB/2c/2 d/2e/2f/2g/2|"D"af de/2f/2|"A7"eg AB/2c/2|"D"df a2|
 "A7"AB/2c/2 d/2e/2f/2g/2|"D"af de/2f/2|"Em"eg "A7"cf/2e/2|"D"d2 d2::
@@ -235,6 +249,7 @@ T:Astley's Ride
 S:Kevin Briggs, via EF
 M:4/4
 L:1/4
+R:Reel
 K:D
 a/2f/2|"D"dd dc/2d/2|"Em"ee "A7"ef/2e/2|"D"d/2c/2B/2A/2 "A/c+"Bc|\
 "Bm"d/2e/2f/2g/2 "A7"a/2g/2f/2e/2|
@@ -252,6 +267,7 @@ S:Kevin Briggs, via EF
 P:AB
 M:4/4
 L:1/4
+R:Reel
 K:D
 P:A
 f/2e/2|"D"dA/2A/2 FA|"G"GB/2G/2 "D"FA|"D"Ad/2f/2 g/2f/2e/2d/2|\
@@ -270,6 +286,7 @@ T:The Ballydesmond Polkas No 1
 S:via PR
 M:2/4
 L:1/4
+R:Reel
 K:G
 "Am"E/2A/2 A/2B/2|c/2d/2 e|"G"G3/4F/4 G/2A/2|G/2E/2 E/2D/2|"Am"E/2A/2 A/2B/2|\
 "Am"c/2d/2 e3/4f/4|"G"g/2e/2 d/2B/2|"Am"A A::
@@ -283,6 +300,7 @@ T:The Ballydesmond Polkas No 2
 S:via PR
 M:2/4
 L:1/4
+R:Reel
 K:G
 "Am"c/2d/4c/4 "G"B/2c/4B/4|"F"A/2B/4A/4 "Em"G3/4A/4||"G"B/4c/4d/2 "D"e/2d/2|\
 "G"g3/2d/2|"Am"e/2a/2 g/2e/2|"G"d/2B/2 G/2A/4B/4|"Am"c/2e/2 "G"d/2B/2|"Am"A A::
@@ -296,6 +314,7 @@ T:Ballyhoura Mountains
 S:Ireland, via PR
 M:2/4
 L:1/4
+R:Reel
 K:G
 "G"B/2d/4B/4 A/2G/2|"C"E/2G/2 G/2A/2|"G"B/2d/4B/4 A/2G/2|"G"B/2d/2 "Em"e|\
 "G"B/2d/4B/4 A/2G/2|"C"E/2G/2 G/2A/2|"G"B/2A/4B/4 "Am"d/2B/2|"D"A/2G/2 "G"G::
@@ -310,6 +329,7 @@ P:AAB
 S:Alfred Moffat, via EF
 M:4/4
 L:1/4
+R:Reel
 K:Gm
 P:A
 |:d/2c/2|"Gm"BA/2B/2 G/2A/2B/2c/2|"Gm"dd "C7"g3/2g/2|"F"fc c/2d/2c/2A/2|\
@@ -331,6 +351,7 @@ T:Bandersnatch
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:G
 |:d/2c/2|"G"Bd GB|"D"AF D2|"G"BG dB|"D"A2 d2|"G"gd B3/2d/2|"Am"ec A3/2G/2|\
 "D7"FA DF|[1"G"G3:|[2"G" G4||
@@ -347,6 +368,7 @@ P:AAB
 S:Athole p147, via PR
 M:4/4
 L:1/4
+R:Reel
 K:G
 P:A
 |:G/2A/2|"G"BB/2d/2 "D7"c/2B/2A/2G/2|"G"Bd "C"e/2f/2g/2e/2|\
@@ -370,6 +392,7 @@ T:La Bastringue
 S:French Canadian, via PR
 M:4/4
 L:1/4
+R:Reel
 K:D
 d/2e/2|:"D"ff/2f/2 fg/2f/2|"A"ec "D"d3/2d/2|"A"cd e/2f/2e/2c/2|"D"de fd|
 "D"ff/2f/2 fg/2f/2|"A"ec "D"d3/2d/2|"G"g(3f/2g/2f/2 ed| [1"A"Bc "D"dA:|
@@ -386,9 +409,11 @@ P:AAB
 S:Trad, via EF
 M:4/4
 L:1/4
+R:Reel
 K:G
 P:A
 |:"G"GB3/4G/4 "D"FA|"D"De "D7"d/2c/2B/2A/2|"G"GB3/4G/4 "D"FA|"D"d/2^c/2d/2A/2 FD :|
+R:Reel
 K:D
 P:B
 |:"D"fd fa|"A7"e/2d/2c/2d/2 e/2f/2g|"D"f/2e/2d/2e/2 f/2g/2a|"A7"a/2g/2f/2e/2 A2|
@@ -402,6 +427,7 @@ S:Ralph Page, via EF
 P:AB
 M:4/4
 L:1/4
+R:Reel
 K:D
 P:A
 A|"D"cd cd|"G"BB "A7"AA|"D"dd d/2d/2d/2d/2|"Bm"ff "A7"eA|"D"cd cd|\
@@ -419,6 +445,7 @@ S:Kevin Briggs, via EF
 P:AB
 M:4/4
 L:1/4
+R:Reel
 K:A
 P:A
 E|"A"EF EA|"A"EF EA/2B/2|"A"cc/2A/2 ce|"E7"B3c|"A"EF EA|"A"EF EA/2B/2|\
@@ -435,6 +462,7 @@ S:Nan Fleming Williams, via EF
 P:AB
 M:4/4
 L:1/4
+R:Reel
 K:G
 P:A
 D|"G"GG/2A/2 B/2A/2B/2c/2|"G"d/2e/2d/2c/2 BG|"D7"c/2d/2c/2B/2 A/2F/2A|\
@@ -454,6 +482,7 @@ T:Billy In The Lowground
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:C
 "C"G,/2A,/2C/2D/2 E/2G/2A/2B/2|c/2B/2c/2d/2 c/2A/2G/2c/2|\
 "Am"A/2B/2A/2G/2 E/2G/2A/2B/2|"Am"(3c/2B/2A/2G/2E/2 D/2C/2C/2A,/2|
@@ -471,6 +500,7 @@ T:The Black Bird
 S:KMM1 p41, via EF
 M:4/4
 L:1/4
+R:Reel
 K:D
 D/2|"G"B"C"=c/2(3d/4c/4B/4 "A7"AB/2^c/2|\
 "D"d/2(3e/4d/4c/4d/2A/2 "A7"(3G/4A/4G/4F/2"D"D3/4"A7"E/4|
@@ -495,6 +525,7 @@ S:via PR
 P:ABC
 M:4/4
 L:1/4
+R:Reel
 K:A
 P:A
 |:A/2B/2| "A"cf/2f/2 e/2c/2A/2B/2|cf/2f/2 e/2c/2A/2B/2|"A"cf/2f/2 "D"e/2c/2A/2B/2|\
@@ -518,6 +549,7 @@ T: Missing title ?
 S:
 M:4/4
 L:1/4
+R:Reel
 K:A
 z/2|:"A"fe/2e/2 BA/2A/2|fe/2e/2 BA/2A/2|"A"fe/2e/2 BA/2A/2|"E"BA/2A/2 "A"BA/2A/2:|
 
@@ -527,6 +559,7 @@ T: Missing title !
 % Nottingham Music Database
 M:4/4
 L:1/4
+R:Reel
 K:A
 z/2|:"A"A/2e/2A/2e/2A/2e/2A/2e/2|c/2B/2A/2F/2 E/2F/2A/2B/2|
 "A"A/2e/2A/2e/2 c/2B/2A/2F/2|"E"E/2F/2E/2D/2 "A"C/2B,/2A,:|
@@ -538,6 +571,7 @@ T:The Bluebell Reel
 S:via PR
 M:2/4
 L:1/4
+R:Reel
 K:G
 D/2|"G"G/2A/2 B|"D7"A/2B/2 c/2B/4c/4|"G"d3/4e/4 d/2B/2|G B/2d/2|\
 "Am"c3/4d/4 c/2B/2|
@@ -557,6 +591,7 @@ S:Kevin Briggs, via EF
 P:AB
 M:4/4
 L:1/4
+R:Reel
 K:D
 P:A
 D/2E/2|"D"FA "A7/e"A3/2B/2|"D/f+"Ad "G"e/2d/2c/2B/2|"D"AF FE/2D/2|
@@ -573,6 +608,7 @@ T:Boggy Brays
 S:John Goodacre 1984, via PR
 M:4/4
 L:1/4
+R:Reel
 K:D
 "Em"EG BG|"A""D"AA/2B/2 A/2G/2E|"Em""C"EG BG|"A""Bm7"AA/2B/2 A2|
 "Em"EG BG|"A"AA/2B/2 A/2G/2E|"C"E/2G/2A/2B/2 "D""F"AG/2A/2|\
@@ -589,6 +625,7 @@ T:Boil 'Em Cabbage Down
 S:via PR
 M:2/4
 L:1/4
+R:Reel
 K:D
 "D"A/2A/4A/4 A/2A/2|"G"B/2B/4B/4 B/2B/2|"D"A/2A/4A/4 A/2F/2|"A7"E2|\
 "D"A/2A/4A/4 A/2A/2|"G"B/2B/4B/4 B/2B/2|"A7"A/2c/4c/4 e/2c/2| [1"D"d2:|
@@ -602,6 +639,7 @@ T:Bonnie Kate
 S:Kerrs/Eric Foxley
 M:4/4
 L:1/4
+R:Reel
 K:D
 d/2B/2|"D"A/2F/2d/2B/2 A/2B/2A/2F/2|"D"D/2F/2A/2F/2 "A7"EE/2B/2|\
 "D"A/2F/2A/2d/2 "G"B/2G/2B/2d/2|
@@ -622,6 +660,7 @@ S:Sussex, via EF
 P:AB
 M:4/4
 L:1/4
+R:Reel
 K:C
 P:A
 c/2d/2|"C"ec cd/2e/2|"Dm"f/2e/2d/2c/2 "G7"BG|"C"ce/2d/2 ce/2d/2|\
@@ -641,6 +680,7 @@ S:FTB, via EF
 P:AB
 M:4/4
 L:1/4
+R:Reel
 K:G
 P:A
 D|"G"G3/2A/2 Bd|"D"c/2B/2A/2G/2 "G"BG/2A/2|"Am"BA AG/2A/2|"D7"BA AD|
@@ -657,6 +697,7 @@ T:Bonny Lass of Fyfie
 S:Joy, via EF
 M:4/4
 L:1/4
+R:Reel
 K:G
 D|"G"G3/2F/2 "C"GA|"G"G2 "D"D2|"G"G3/2F/2 "C"GA|"G"G3D|"G"G2 Bc|"G"d2 cB|\
 "Am"A2 D2|"D7"D2 dc|
@@ -670,6 +711,7 @@ T:With Booze You Lose
 S:Bob McQuillen Sept 1975, via PR
 M:4/4
 L:1/4
+R:Reel
 K:A
 EF G|"A"A2 A2|"E7"B2 AG|"A"A3/2B/2 cA|EA cd|"A"e2 e3/2e/2|"D"fe dc|\
 "Bm"cB B3/2c/2|
@@ -685,6 +727,7 @@ T:Goodbye Girls I'm Going To Boston
 S:via PR
 M:2/4
 L:1/4
+R:Reel
 K:G
 d/2|"G"G/2B/2 d3/4d/4|"C"e/2e/2 c/2A/2|"D7"A/2B/2 c/2B/4c/4|"G"d/2d/2 B/2G/2|\
 "G"G/2B/2 d3/4d/4|"C"e/2e/2 c/2A/2|"D7"d/2d/2 c/4B/4A/2|"G"G G/2::
@@ -698,6 +741,7 @@ T:On The Road To Boston
 S:via PR
 M:2/4
 L:1/4
+R:Reel
 K:D
 A/2|"D"f f/2e/4f/4|"G"g/2f/2 e/2d/2|"A7"c/2d/2 e/2f/2|"D"d/2A/2 F/2A/2|\
 "D"f f/2e/4f/4|"G"g/2f/2 e/2d/2|"A7"c/2d/2 e/2f/2|"D"d d/2::
@@ -711,6 +755,7 @@ T:Crossing The Brazos
 S:Mike Richardson 15.7.89, via PR
 M:4/4
 L:1/4
+R:Reel
 K:D
 "Am"Aa ge/2f/2|g/2f/2e/2d/2 e/2d/2=c/2B/2|"Am"Aa ge/2f/2|"G"g/2f/2e/2d/2 "E"e2\
 |"Am"Aa ge/2f/2|
@@ -729,6 +774,7 @@ S:Eric Foxley
 P:AB
 M:4/4
 L:1/4
+R:Reel
 K:A
 P:A
 (3e/2f/2g/2|"A"aA A/2c/2B/2A/2|"A"EA A/2c/2B/2A/2|"Bm"FB B/2c/2B/2A/2|\
@@ -746,6 +792,7 @@ T:Bonny Breast Knot
 S:Sussex, via PR
 M:4/4
 L:1/4
+R:Reel
 K:G
 A|"G"BG GA/2B/2|"C"c/2B/2A/2G/2 "D"FD|"G"GB GB|"G"GB "D7"d3/2c/2|
 "G"BG GA/2B/2|"C"c/2B/2A/2G/2 "D"FD|"G"GB "D7"Ad/2c/2|"G"BG G::
@@ -760,6 +807,7 @@ P:ABCD
 S:Trad, via EF
 M:4/4
 L:1/4
+R:Reel
 K:G
 P:A
 |:g/2f/2|"G"ed/2c/2 BA|"G"BG "C"EE/2F/2|"G"GG G/2A/2B/2c/2|\
@@ -783,6 +831,7 @@ T:Buffalo Gals
 S:Ken Clark, via EF
 M:4/4
 L:1/4
+R:Reel
 K:G
 D|"G"GA Bc|"G"ed B3/2B/2|"D7"dc Ac|"C"ed "D7"d/2c/2B/2A/2|"G"GA Bc|
 "G"ed B3/2g/2|"C"fe "D7"cA|"G"G2 "D7"d2|"C"gf ef|"G"ed d3/2e/2|"D7"dc Ac|
@@ -794,6 +843,7 @@ T:Buttered Peas
 % Nottingham Music Database
 S:Lesley Dolman, via EF
 M:2/2
+R:Reel
 K:G
 P:A
 dc|:"G"B2D2 B2AB|"D7"c2D2 c3A|"D7"F2d2 FGAB|"D7"d2A2 d3c|
@@ -809,6 +859,7 @@ T:Caddum Woods
 S:Kevin Briggs, via EF
 M:4/4
 L:1/4
+R:Reel
 K:G
 B/2c/2|"G"d/2d/2d/2d/2 ^cd|"G"ed B2|"G"D/2D/2D/2D/2 GB|"Am"ed c2|\
 "Am"c/2c/2c/2c/2 Bc|
@@ -830,6 +881,7 @@ T:California Here I Come
 S:Trad, via EF
 M:4/4
 L:1/4
+R:Reel
 K:C
 GA B|"C"c2 c2|"C"c2 c2|"F"dc3|"F"A4|"G"G2 G2|"G"G2 G2|"C"AG3|"C"E4|
 "C"zG AG|"D7"zA BA|"G7"Bc dG-|"G7"G4|"C"zG AG|"D7"zA BA|
@@ -844,6 +896,7 @@ T:Captain Maguire
 S:Nan F-W, via EF
 M:4/4
 L:1/4
+R:Reel
 K:D
 F/2G/2|"D"A/2B/2A/2G/2 FA|"D"de "Bm"fe/2f/2|"Em"ga/2g/2 "A7"fe|
 "D"df "A7"AF/2G/2|"D"A/2B/2A/2G/2 FA|"D"de "Bm"fe/2f/2|"Em"ga/2g/2 "A7"fe|\
@@ -858,6 +911,7 @@ T:Cart Tracks
 S:Chris Dewhurst (1979), via PR
 M:4/4
 L:1/4
+R:Reel
 K:G
 "D7"Bc |"G"d2 c3/2B/2|"Am"c"D"d2c|"G"B2 d2|"G7"cB AG|"C"E2 G3/2E/2|\
 "G"DE "Em"FG|"Am"A4-|"D"AA Bc|
@@ -875,6 +929,7 @@ T:The Cat Walk
 S:Fiona Maurice-Smith, via PR
 M:4/4
 L:1/4
+R:Reel
 K:D
 "D"D/2E/2F/2A/2 BA/2B/2|dc/2d/2 B/2A/2F/2E/2|"D"DD/2E/2 F/2A/2B/2A/2|\
 "A7"c3/2B/2 A/2F/2E/2F/2|
@@ -892,6 +947,7 @@ T:Bill Cheetham
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:A
 "A"Ec cA/2B/2|c/2B/2A/2c/2 B/2A/2F/2E/2|"D"D/2F/2A/2c/2 dB/2c/2|\
 "D"d/2c/2d/2e/2 "E7"d/2c/2B/2A/2|
@@ -909,6 +965,7 @@ T:Cherokee Shuffle
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:A
 F/2G/2|"A"AA/2B/2 AA/2B/2|"A"c/2B/2A "D"FE/2F/2|"A"AA/2B/2 c/2d/2e|\
 "F#m"f/2e/2f/2g/2 ff/2g/2|
@@ -926,6 +983,7 @@ T:Cherokee Shuffle
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:A
 F/2G/2|"A"AA/2B/2 AA/2B/2|"A"c/2B/2A "D"FE/2F/2|"A"AA/2B/2 c/2d/2e|\
 "F#m"f/2e/2f/2g/2 ff/2g/2|
@@ -943,6 +1001,7 @@ T:The Chest Of Drawers
 S:John Goodacre 1986, via PR
 M:4/4
 L:1/4
+R:Reel
 K:D
 "D"d2 "A7"A3/2G/2|"D"FD DE/2F/2|"G""C"GF ED|"A7"CE AB/2c/2|"D"d2 "A7"A3/2G/2|\
 "Bm"FD DE/2F/2|"Em"GE "A7"DC| [1"D"D2 D2:|
@@ -956,6 +1015,7 @@ T:The Chickadee's Polka
 S:Bob McQuillen Oct 1975, via PR
 M:4/4
 L:1/4
+R:Reel
 K:G
 G/2A/2|"G"BG DG/2A/2|BG DG/2A/2|"G"BG EG|"C"E2 "G"D2|"C"CE E3/2C/2|
 "G"B,D GB|"A7"BA EB|"D7"B2 AG/2A/2|"G"BG DG/2A/2|BG DG/2A/2|
@@ -971,11 +1031,14 @@ T:Chicken On The Fence Post
 S:via PR
 M:2/4
 L:1/4
+R:Reel
 K:G
 "G"G/4G/4G/4G/4 G/2G/2|B/2A/2 B/2d/2|"G"G/4G/4G/4G/4 G/2G/2|"D7"A/2G/2 E/2D/2|
 "G"G/4G/4G/4G/4 G/2G/2|"G"B/2A/2 B/2d/2|"C"e/2e/2 "D7"f/2d/4B/4|"D7"A "G"G::
+R:Reel
 K:D
 "D"d/4f3/4 d/4f3/4|d/2F/4E/4 F/2A/2|\
+R:Reel
 K:D
 "D"d/4f3/4 d/4f3/4|"A7"e/2d/2 B/2A/2|"D"d/4d/4d/4d/4 d3/4d/4|F/2E/2 F/2A/2|\
 "G"B/4B/4B/4B/4 "D"A/2F/2|"A7"E "D"D:|
@@ -987,6 +1050,7 @@ T:Chilly Winds
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:Dm
 A,|"Dm"DD FF/2G/2|"F"A/2G/2F/2G/2 A/2G/2F/2G/2|"Dm"DD FF/2G/2|"Am"A3/2c/2 AA,|
 "Dm"DD FF/2G/2|"F"A/2G/2F/2G/2 A/2G/2F/2G/2|"Dm"A/2G/2F "Am"DC|"Dm"D2 D::
@@ -1000,6 +1064,7 @@ T:Chinese Breakdown
 S:Kevin Briggs, via EF
 M:4/4
 L:1/4
+R:Reel
 K:D
 A|"D"dd BA|"D"FF2A|"D"dd BA|"Em"E3A|"A"cc BA|"A"cc2B|
 "A7"(3A/2B/2A/2^G/2A/2 BA|"D"F2 -"A7"FA|"D"dd BA|"D"FF2F/2E/2|\
@@ -1016,37 +1081,51 @@ T:Chorus Jig
 S:Kevin Briggs, via EF
 M:4/4
 L:1/4
+R:Reel
 K:D
 A/2G/2|"D"FD/2F/2 A/2B/2A/2G/2|"D"F/2A/2D/2F/2 "A7"Ad|"D"D3/2F/2 A/2B/2A/2F/2|\
 "C"G/2F/2E/2F/2 GA/2G/2|
 "D"FD/2F/2 A/2B/2A/2G/2|"D"F/2A/2D/2F/2 "A7"Ad|"D"D3/2F/2 A/2B/2A/2F/2|\
 "C"G/2F/2E/2F/2 GB/2c/2|
+R:Reel
 K:G
 "G"d/2B/2c/2A/2 B/2G/2F/2G/2|"D7"A/2d/2^c/2d/2 AB/2c/2|\
+R:Reel
 K:G
 "G"d/2B/2c/2A/2 B/2G/2F/2G/2|
 "D7"A/2c/2B/2A/2 "G"GB/2c/2|\
+R:Reel
 K:G
 "G"d/2B/2c/2A/2 B/2G/2F/2G/2|"C"A/2B/2c/2d/2 e/2f/2g/2e/2|
+R:Reel
 K:G
 "G"d/2B/2c/2A/2 B/2G/2F/2G/2|"D"A/2c/2B/2A/2 "A7"Ga/2g/2|\
+R:Reel
 K:D
 "D"f/2d/2d/2d/2 f/2d/2d/2d/2|"D"f/2d/2f/2g/2 "A7"a/2b/2a/2g/2|
+R:Reel
 K:D
 "D"f/2d/2d/2d/2 f/2d/2d/2d/2|"C"e/2d/2e/2f/2 ga/2g/2|\
+R:Reel
 K:D
 "D"f/2d/2d/2d/2 f/2d/2d/2d/2|
 "D"f/2d/2f/2g/2 "A7"a/2b/2a/2g/2|\
+R:Reel
 K:D
 "D"f/2d/2d/2d/2 f/2d/2d/2d/2|"C"e/2d/2e/2f/2 gB/2c/2|\
+R:Reel
 K:G
+R:Reel
 K:G
 "G"d/2B/2c/2A/2 B/2G/2F/2G/2|
 "D7"A/2d/2^c/2d/2 AB/2c/2|\
+R:Reel
 K:G
 "G"d/2B/2c/2A/2 B/2G/2F/2G/2|"D7"A/2c/2B/2A/2 "G"GB/2c/2|
+R:Reel
 K:G
 "G"d/2B/2c/2A/2 B/2G/2F/2G/2|"C"A/2B/2c/2d/2 e/2f/2g/2e/2|\
+R:Reel
 K:G
 "G"d/2B/2c/2A/2 B/2G/2F/2G/2|"D7"A/2c/2B/2A/2 "G"G:||
 
@@ -1057,22 +1136,26 @@ T:Chorus Jig
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:D
 A/2G/2|"D"FD/2F/2 A/2B/2A/2G/2|F/2A/2D/2F/2 Ad|"D"D3/2F/2 A/2B/2A/2F/2|\
 "A7"G/2F/2E/2F/2 GA/2G/2|
 "D"FD/2F/2 A/2B/2A/2G/2|"D"F/2A/2D/2F/2 Ad|"D"D3/2F/2 A/2B/2A/2F/2|\
 "A7"G/2F/2E/2F/2 G||
+R:Reel
 K:G
 B/2c/2|"G"d/2B/2c/2A/2 B/2G/2F/2G/2|"D7"A/2d/2^c/2d/2 AB/2=c/2|\
 "G"d/2B/2c/2A/2 B/2G/2F/2G/2|"D7"A/2c/2B/2A/2 "G"GB/2c/2|
 "G"d/2B/2c/2A/2 B/2G/2F/2G/2|"C6"A/2B/2c/2d/2 e/2f/2g/2e/2|\
 "G"d/2B/2c/2A/2 B/2G/2F/2G/2|"D7"A/2c/2B/2A/2 "G"G||
+R:Reel
 K:D
 a/2g/2|"D"f/2d/2d/2d/2 f/2d/2d/2d/2|"D"f/2d/2f/2g/2 "A7"a/2b/2a/2g/2|\
 "D"f/2d/2d/2d/2 f/2d/2d/2d/2|
 "C"e/2d/2e/2f/2 ga/2g/2|"D"f/2d/2d/2d/2 f/2d/2d/2d/2|\
 "D"f/2d/2f/2g/2 "A7"a/2b/2a/2g/2|
 "D"f/2d/2d/2d/2 f/2d/2d/2d/2|"C"e/2d/2e/2f/2 gB/2c/2|\
+R:Reel
 K:G
 "G"d/2B/2c/2A/2 B/2G/2F/2G/2|
 "D7"A/2d/2^c/2d/2 AB/2=c/2|"G"d/2B/2c/2A/2 B/2G/2F/2G/2|\
@@ -1087,6 +1170,7 @@ T:Scottish Circassian Circle
 S:FTB 1/1, via EF
 M:4/4
 L:1/4
+R:Reel
 K:G
 (3D/2E/2F/2|"G"G/2D/2B/2A/2 GB|"G"G/2D/2B/2A/2 GB|"Am"A/2D/2c/2B/2 Ac|\
 "D7"A/2B/2A/2G/2 F/2D/2E/2F/2|
@@ -1104,6 +1188,7 @@ T:Clear The Way
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:A
 z/2|:"A"z/2A/2-A/2G/2 AA|"Bm"B/2c/2B/2A/2 "E"GE|"A"z/2A/2-A/2G/2 AA|
 "Bm" [c2e2]"E"[B2e2]|"A"z/2A/2-A/2G/2 AA|"Bm"B/2c/2B/2A/2 "E"GE|\
@@ -1121,6 +1206,7 @@ T:Inauguration Reel or The Clinton Canter
 S:Dennis Salter Jan 1993, via PR
 M:4/4
 L:1/4
+R:Reel
 K:D
 F/2G/2|"D"BA/2A/2 AF/2G/2|B/2A/2A/2A/2 Az|AF/2G/2 A/2d/2c/2B/2|"A7"c3E/2F/2|
 "Em"GC/2D/2 "A7"EE/2F/2|"Em"G/2F/2E/2F/2 "A7"Gz|"Em"GC/2D/2 "A7"Ec|\
@@ -1128,6 +1214,7 @@ F/2G/2|"D"BA/2A/2 AF/2G/2|B/2A/2A/2A/2 Az|AF/2G/2 A/2d/2c/2B/2|"A7"c3E/2F/2|
 "D"BA/2A/2 AF/2G/2|B/2A/2A/2A/2 Az|"D"AF/2G/2 "D7"A/2f/2A/2f/2|"G"ed Bg/2g/2|
 "Gd"g_B/2B/2 Bf/2f/2|"D"fA/2A/2 AA/2^A/2|"Em"B/2d/2-d/2e/2 "A7"cA|\
 "D"dd "D7"ef||
+R:Reel
 K:G
 "G"g/2f/2g/2a/2 g/2f/2e/2d/2|e/2B/2B/2B/2 B3/2d/2|"G"e/2B/2^A/2B/2 d/2g/2^c|\
 "Am"c2 -c2|"D7"F3/2G/2 "Am"Af|
@@ -1143,6 +1230,7 @@ T:Coloured Aristocracy
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:G
 "G"GG/2A/2 G/2E/2D/2E/2|G3A|"Em"BB/2c/2 B/2A/2G|"Em"E4|"C"ee/2f/2 ge|\
 "G"dd/2e/2 dB| [1"A7"AB c^c|"D7"dD EF:|
@@ -1158,6 +1246,7 @@ P:AABA
 S:FTB 2, via EF
 M:4/4
 L:1/4
+R:Reel
 K:D
 P:A
 (3A/2B/2c/2|"D"dc/2d/2 "A7"ed/2e/2|"D"fd d/2e/2d/2c/2|"G"Be "E7"e/2f/2e/2d/2|\
@@ -1175,6 +1264,7 @@ T:She'll be Coming Round the Mountain
 S:Trad, via EF
 M:4/4
 L:1/4
+R:Reel
 K:D
 AB |"D"dd dd|"D"BA FA|"D"d4-|"D"d2 de|"D"ff ff|"D"aa af|"E7"e4-|
 "A7"e2 ag|"D"f2 f2|"D7"ed3|"G"d2 d2|"Gm""Bb"gg2g|"D"f2 f2|"E7"ee "A7"ee|"D"d4-\
@@ -1187,6 +1277,7 @@ T:O'Carolan's Concerto
 S:O'Neil's, via EF
 M:4/4
 L:1/4
+R:Reel
 K:D
 (3A/2B/2c/2|"D"dd/2d/2 "G"dc/2B/2|"D"A/2B/2G/2A/2 FA|"A7"EA "D"DA|\
 "G"B/2c/2d/2e/2 "A7"d/2c/2B/2A/2|
@@ -1212,6 +1303,7 @@ T:Corn Rigs
 S:Eric Foxley
 M:4/4
 L:1/4
+R:Reel
 K:D
 A|"D"d/2c/2d/2e/2 fe/2d/2|"A7"c/2B/2c/2d/2 e/2c/2A|\
 "D"d/2c/2d/2e/2 "A7"f/2g/2e/2f/2|"D"da/2b/2 "A7"aA|
@@ -1229,6 +1321,7 @@ T:Corn Rigs
 S:Athole p148, via EF
 M:4/4
 L:1/4
+R:Reel
 K:G
 |:D|"G"G3/2A/2 c/2B/2A/2G/2|"D7"F/2E/2F/2G/2 AD|"G"G3/2A/2 "D7"B/2c/2A/2B/2|\
 "G"Gd/2e/2 "D7"dD|
@@ -1250,6 +1343,7 @@ T:Cornish Quickstep
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:D
 f/2^e/2|"D"fd/2c/2 dA/2^G/2|Ad f3/2f/2|"Em"gf ed|"A7"cB Af/2^e/2|
 "D"fd/2c/2 dA/2^G/2|"D"Ad f3/2f/2|"A7"eA Bc|d2 d::
@@ -1263,6 +1357,7 @@ T:Cornish Quickstep
 S:Geoff Bocking, via EF
 M:4/4
 L:1/4
+R:Reel
 K:D
 f/2^e/2|"D"fd/2c/2 dA/2^G/2|"D"Ad f3/2f/2|"G"gf ed|"A7"cB Af/2^e/2|
 "D"fd/2c/2 dA/2^G/2|"D"Ad f3/2f/2|"A7"eA Bc|"D"d2 d:|
@@ -1276,6 +1371,7 @@ T:Cripple Creek
 S:Lynn Rohrbough, via EF
 M:4/4
 L:1/4
+R:Reel
 K:A
 "A"aa e/2g/2f/2e/2|"D"df "E7"e2|"A"aa e/2f/2e/2d/2|"E7"c/2A/2B "A"A2:|
 "A"ce/2c/2 BA|"D"Bc "E7"E2|"A"ce/2c/2 BA|"E7"F/2E/2F/2G/2 "A"A2:|
@@ -1287,9 +1383,11 @@ T:Crooked Stove Pipe
 S:Kevin Briggs, via EF
 M:4/4
 L:1/4
+R:Reel
 K:G
 d|"G"GB B/2c/2d/2B/2|"G"GB B/2c/2d/2B/2|"G"GB e3/2B/2|"Am"dc c3/2A/2|
 "D"FA A/2B/2c/2A/2|"D"FA A/2B/2c/2d/2|"D7"ed ef|"G"g3:|
+R:Reel
 K:G
 G/2A/2|"G"B2 BA|"G"G2 GE|"C"FE "G"FG|"Am"AG AB|"D"c2 cA|"D"F2 FE|"D7"DD EF|\
 "G"G3:|
@@ -1301,6 +1399,7 @@ T:Cuckoo In The Tree
 S:Adapted by Fi Maurice-Smith, via PR
 M:2/4
 L:1/4
+R:Reel
 K:D
 f/4g/4|"A"a/2ae/2|a/4b/4a/4g/4 e|"G"g/4f/4g/4a/4 g/4e/4d/4e/4|\
 g/4f/4g/4a/4 g/2d/2|
@@ -1318,10 +1417,12 @@ T:Cuckoo's Nest
 S:Emery Martin (Dunbar, PA) via S P Bayard, via EF
 M:4/4
 L:1/4
+R:Reel
 K:A
 |:(3e/2f/2g/2 |"A"aa2A|"A"(3b/2a/2=g/2e e3/2f/2|"G"=gf gg|"D"a/2=g/2a/2f/2 d3/2f/2|
 "A"ef/2=g/2 aa|"A"a/2b/2(3a/2=g/2f/2 e(3f/2g/2f/2|\
 "G"e/2d/2B/2A/2 =G/2A/2B/2d/2|"A"cA A:|
+R:Reel
 K:A
 e-|"A"e/2c/2c/2c/2 A/2A/2c/2A/2|"A"A/2c/2B/2A/2 "G"=GB|\
 "G"B/2d/2B/2A/2 B/2d/2B/2A/2|"G"B/2d/2B/2A/2 =GB|
@@ -1335,6 +1436,7 @@ T:Cuckoo's Nest
 S:Scottish, via EF
 M:4/4
 L:1/4
+R:Reel
 K:D
 A|"D"A/2d/2d/2c/2 d/2e/2f/2d/2|"Em"e/2d/2c/2B/2 "A"AA/2B/2|\
 "C"=c/2B/2A/2B/2 c/2e/2d/2c/2|"Em"B/2A/2G/2F/2 "A7"GA/2G/2|
@@ -1352,6 +1454,7 @@ T:Little Czech Number
 S:Joy, via EF
 M:4/4
 L:1/4
+R:Reel
 K:Am
 |:E|"Am"A^G A"E7"B|"Am"cB c"E7"d|"Am"e^d e"Dm"f|"Am"e2 -"Am/c"e2|"Dm"d^c de|\
 "Am/e"cB cd|"E7"B^A Bc|[1"Am"A3:|[2 "Am" A4|||:

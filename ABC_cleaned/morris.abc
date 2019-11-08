@@ -5,6 +5,7 @@ T:Abbotts Bromley Horn Dance
 P:ABC
 S:EFDSS
 M:6/8
+R:Morris
 K:Gm
 P:A
 g|"Gm"d2g B2g|"Gm"d2g G2B|"Cm"ABc "Gm/d"Bcd|"D7"cBA "Gm"G2g|
@@ -23,6 +24,7 @@ T:Abram Circle
 S:Trad
 M:4/4
 L:1/4
+R:Morris
 K:G
 Q:1/4=180
 D|:"G"GB/2c/2 "D7"de/2f/2|"G"ga "Em"b2|"G"gd "D7"d/2e/2d/2c/2|"G"B2 G2:||:
@@ -51,6 +53,7 @@ T:Beaux of London City
 S:Adderbury [News] ch(AB3) 6
 P:ABCBCBCBCBCBC
 M:9/8
+R:Morris
 K:F
 P:A
 C|
@@ -67,6 +70,7 @@ S:[RD ex Blunt MSS] Ch(AB)6
 P:ABABC
 M:4/4
 L:1/4
+R:Morris
 K:G
 P:A
 D| g2 fe|d2 eF/2G/2|BB cA|G3 :|
@@ -82,6 +86,7 @@ T:Constant Billy
 S:Adderbury
 P:ABCDCBCD
 M:6/8
+R:Morris
 K:A
 P:A
 E|
@@ -99,6 +104,7 @@ T:Lads a Bunchum
 S:Adderbury
 P:AB
 M:2/2
+R:Morris
 K:F
 P:A
 FG|A3B ABcd|B2G2 G2AB|c2c2 cBAG|F2F2 F2:|
@@ -115,6 +121,7 @@ P:AABABABAB
 S:Ascot via Coventry MM
 M:4/4
 L:1/4
+R:Morris
 K:G
 P:A
 D|"G"GG "D7"G/2F/2E/2D/2|"G"GA/2B/2 "C"cB/2c/2|"G"dd "C"A/2c/2B/2A/2|\
@@ -132,6 +139,7 @@ N:A(ABB)4
 P:AABBABBABBABB
 S:Ascot via Coventry MM
 M:6/8
+R:Morris
 K:D
 P:A
 "Bm"f2e d2B|BdB A2A|Bcd c2B|g3 f2e|d2B BdB|A2F A2A|Bcd e2f|d3 d3||
@@ -147,6 +155,7 @@ N:A(ABBB)2(ACCC)2B
 P:AABBBABBBACCCACCCB
 S:Ascot via Coventry MM
 M:6/8
+R:Morris
 K:D
 P:A
 "D"dcd f2e|"G"d2B BdB|"D"ABA d2e|"D"fdd "A7"d2A|
@@ -171,10 +180,12 @@ T:Bonny Green Garters
 P:BAAABCBC
 S:Traditional Morris Farewell
 M:6/8
+R:Morris
 K:D
 P:A
 A|"D"dcd AFA|"G"BcB "A7"A2(3A/2B/2c/2|"D"dcd "A/c+"efg|"Bm"fdf "A7"ecA|
 "D"dcd AFA|"G"BcB "A7"A2(3A/2B/2c/2|"D"dcd "A7"efg|"D"f3 d2:|
+R:Morris
 K:G
 P:B
 d|"G"dcB "D7/a"AGF|"G/b"GAB "C"cde|"G"ded dcB|"A7"B3 "D7"A2d|
@@ -192,6 +203,7 @@ P:AAABBAACC
 S:Bledington
 M:4/4
 L:1/4
+R:Morris
 K:Gm
 P:A
 G/2A/2|"Gm"BB Gf|"Gm"dc/2B/2 "F"cc|"Gm""Bb"B/2A/2G "F"FG/2A/2|"Gm"BG G:|
@@ -210,6 +222,7 @@ T:Cuckoo's Nest
 S:Ilmington
 P:AB
 M:4/4
+R:Morris
 K:D
 L:1/4
 P:A
@@ -228,6 +241,7 @@ S:Sherbourne
 P:AB
 M:4/4
 L:1/4
+R:Morris
 K:F
 P:A
 D/2E/2|"Dm"F/2G/2F/2E/2 Dd|"Dm"AA "C"G"Dm"A|"C"E/2G/2E/2D/2 CD/2E/2|\
@@ -245,6 +259,7 @@ P:AABBABBABBABB
 S:Fieldtown
 M:4/4
 L:1/4
+R:Morris
 K:D
 P:A
 (3A/2B/2c/2|"D"d/2c/2d/2e/2 d(3E/2F/2G/2|"D"A/2B/2A/2F/2 D(3A/2B/2c/2|\
@@ -264,6 +279,7 @@ T:Jockey to the Fair
 S:McCuskers
 P:AB
 M:6/8
+R:Morris
 K:G
 P:A
 D|"G"G2A B2c|"G"dge d2c|"G"BdB GFG|"Am"cBc ABc|
@@ -282,6 +298,7 @@ P:ABBABBABBABB
 S:Bledington
 M:4/4
 L:1/4
+R:Morris
 K:Bb
 P:A
 F|"Bb"B3/2B/2 "Eb"Bc|"Bb"B2 "F7"FF|"Bb"DE "Eb"FG|"Bb"F2 "F7"FF|\
@@ -302,6 +319,7 @@ S:Bledington
 P:AB
 M:4/4
 L:1/4
+R:Morris
 K:G
 P:A
 G/2A/2|"Em"B/2c/2B/2G/2 EF/2G/2|"D"A/2c/2A/2F/2 DG/2A/2|\
@@ -318,6 +336,7 @@ T:Morris Off
 S:Rattlebones
 M:4/4
 L:1/4
+R:Morris
 K:G
 d|"G"g/2f/2g/2e/2 dg|"Am"a/2g/2f/2e/2 "D"d2|"C"c'a "G"bg|"D"a/2g/2f/2e/2 d2|
 "Em"g/2f/2g/2e/2 dg|"C"a/2g/2f/2e/2 "D"d2|"C"c'/2b/2a/2g/2 "D7"f/2d/2e/2f/2|\
@@ -330,6 +349,7 @@ T:Morris Off
 S:Bidford
 M:4/4
 L:1/4
+R:Morris
 K:G
 B/2c/2|"G"dd de|d3c|"G"BG GA|"D"F2 D2|"G"BG "D7"GA|"G"BG "D7"GA|"G"BG GA|\
 "D"F2 D|
@@ -342,6 +362,7 @@ P:AAFBCBCB
 S:Abingdon
 M:4/4
 L:1/4
+R:Morris
 K:G
 P:A
 d/2c/2|"G"B"D"A "G"Gd/2c/2|"G"B"D"A "G"Gg|"C"e3/2d/2 ce|"G"d3/2c/2 Bd|
@@ -370,6 +391,7 @@ P:AAFBCBCB
 S:Bampton
 M:4/4
 L:1/4
+R:Morris
 K:Gm
 P:A
 d/2c/2|"Gm"B"D"A "Gm"Gd/2c/2|"Gm"B"D"A "Gm"GB/2d/2|"Cm"ec c/2d/2e/2c/2|\
@@ -395,6 +417,7 @@ P:AAB
 S:McCuskers
 M:4/4
 L:1/4
+R:Morris
 K:Am
 P:A
 e/2d/2|"Am"cB/2c/2 Ae/2^f/2|"Am"e/2d/2c/2B/2 A/2c/2e|"D"^fd df/2g/2|\
@@ -415,6 +438,7 @@ S:Fieldtown
 M:4/4
 L:1/4
 P:ABA
+R:Morris
 K:G
 P:A
 G/2A/2|"G"BA BG|"Am"AA A2|"D7"cB/2c/2 Ac|"G"BG "D7"G2|"G"B/2c/2d "C"ef|"G"gd "C"ec|\
@@ -430,6 +454,7 @@ T:Gisburn Processional
 S:Eric Foxley
 P:ASBSASBSAS
 M:6/8
+R:Morris
 K:G
 P:A
 dc|"G"B2B BAB|"G"d2B BAB|"C"c2e g2e|"G"d2B BAB|
@@ -449,6 +474,7 @@ T:Tideswell Processional
 S:Eric Foxley
 M:4/4
 L:1/4
+R:Morris
 K:G
 d|:"G"B/2d/2d/2g/2 g/2d/2d/2g/2|"C"g/2e/2"D7"d/2c/2 "G"BG:|
 "C"c/2d/2(3e/2d/2c/2 "G"B/2d/2d|"C"c/2d/2(3e/2d/2c/2 "G"BG|\
@@ -461,6 +487,7 @@ T:Wheatley Processional
 S:Eric Foxley
 M:4/4
 L:1/4
+R:Morris
 K:G
 e|:"G"dB "C"A3/2E/2|"C"EE "G"D3/2D/2|"G"GB AG|"D"A2 "C"e2|"G"dB "C"A3/2G/2|
 "C"AE "G"D3/2D/2|"G"GB AG|"G"d2 "D7"GG/2A/2|"G"Bd "C"g3/2e/2|"G"dB "D7"AG/2A/2|
@@ -473,6 +500,7 @@ T:Winster Processional
 S:Eric Foxley
 M:4/4
 L:1/4
+R:Morris
 K:G
 d|"G"gd "D7"de/2f/2|"G"gd "D7"de/2f/2|"G"gd "D7"dc|[1"G"B2 G:|[2"G" B2 G2 ||
 |:"C"ce ed/2c/2|"G"Bd dc/2B/2|"D7"A3/2B/2 cd|"G"B2 "G7"G2:|
@@ -485,6 +513,7 @@ S:Adderbury
 M:3/4
 L:1/4
 P:ABA
+R:Morris
 K:C
 P:A
 A/2B/2|cGE|C3/2D/2E|FAd|BGB|cGE|F3/2G/2A|GcB|c2:|
@@ -498,6 +527,7 @@ T:Singing of the Travels
 S:Symondsbury
 M:4/4
 L:1/4
+R:Morris
 K:G
 d3/2d/2 |"G"ed dB|"C"c2 d3/2c/2|"G"cB AG|"Am"GF "D7"ED|"G"G2 GA|"Em"B2 AG|\
 "Am"D4-|"D7"D2 d3/2d/2|
@@ -512,6 +542,7 @@ N:A(ABBB)(ACCC)A
 P:A ABBB ACCC A
 S:Fieldtown
 M:6/8
+R:Morris
 K:G
 P:A
 g|"C"gfe ede|"C"edc cBc|"G"dBg dBG|"Am"FAA "D"A2g|
@@ -537,6 +568,7 @@ N:A(AABBB)2(AACCC)2
 P:A AABBB AABBB AACCC AACCC
 S:Bledington
 M:6/8
+R:Morris
 K:G
 P:A
 D|"G"G2G GBd|"C"e2e "G"dBG|"D7"A2d "G"BAG|"C"E2F "G"G2:|

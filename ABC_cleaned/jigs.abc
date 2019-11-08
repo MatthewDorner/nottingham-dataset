@@ -4,11 +4,13 @@ T:A and D
 S:EF
 P:AB
 M:6/8
+R:Jig
 K:A
 P:A
 f|"A"ecc c2f|"A"ecc c2f|"A"ecc c2f|"Bm"BcB "E7"B2f|
 "A"ecc c2f|"A"ecc c2c/2d/2|"D"efe "E7"dcB| [1"A"Ace a2:|
  [2"A"Ace ag=g||
+R:Jig
 K:D
 P:B
 "D"f2f Fdd|"D"AFA f2e/2f/2|"G"g2g ecd|"Em"efd "A7"cBA|
@@ -20,6 +22,7 @@ T:Abacus
 % Nottingham Music Database
 S:By Hugh Barwell, via Phil Rowe
 M:6/8
+R:Jig
 K:G
 "G"g2g B^AB|d2d G3|"Em"GAB "Am"A2A|"D7"ABc "G"BAG|
 "G"g2g B^AB|d2d G2G|"Em"GAB "Am"A2G|"D7"FGA "G"G3:||:
@@ -36,6 +39,7 @@ T:The American Dwarf
 % Nottingham Music Database
 S:FTB, via EF
 M:6/8
+R:Jig
 K:D
 A|"D" def fed|"G" BdB AFD| "D"DFA "G"B2 A|"Em" cee "A7" e2 A|
 "D" def fed|"G" BdB "D"AFD|"D" DFA "G"B2 A|"A7" Add "D" d2:|
@@ -49,6 +53,7 @@ T:Ap Shenkin
 P:AABABAC
 S:FTB 1 p 46, via EF
 M:6/8
+R:Jig
 K:G
 P:A
 d/2c/2|"G"B2B Bgf|"C"e2e efg|"G"ded "Em"dcB|"Am"cAA "D7"Adc|
@@ -66,6 +71,7 @@ T:Armstrongs
 S:Kevin Briggs, via EF
 P:AB
 M:6/8
+R:Jig
 K:A
 P:A
 e|"A"eaf e2c|"E7"BAB "A"c3|"A"E2A "E7/b"BAB|"A/c+"cBc "D"dcd|
@@ -81,6 +87,7 @@ T:Arthur Darley
 S:Formally, but with lift, via Phil Rowe
 P:ABCB
 M:6/8
+R:Jig
 K:D
 P:A
 dc/2B/2|A2D AGF|EDC D3|d2e fgf|edc d2A|d2e fgf|
@@ -94,8 +101,10 @@ M:9/8
 edc d2A BAG|
 M:6/8
 FED EDC|DA,B, CDE|Ddd Aee|Aff Agg|fed edc|d3 d=c_B
+R:Jig
 K:F
 |:A2f fef|A2f fef|Aff Agg|Aaa Abb|A2f fef|A2f f2g|fed ed^c|[1d3 dcB:|[2d3 d2e||
+R:Jig
 K:D
 fgf edc|d2A BAG|FED EDC|DA,B, CDE|Ddd Aee|Aff Agg|fed edc|
 P:C
@@ -107,6 +116,7 @@ T:As Luck Will Have It
 % Nottingham Music Database
 S:John Lagden, via EF
 M:6/8
+R:Jig
 K:D
 E|"D"F3 "A7/c+"A2G|"Bm"FGF "A7"E3|"D"F2A d2c|"G"BcB "D"A3|"G"G2B "A7"A2G|\
 "D"F2A d2f|
@@ -123,6 +133,7 @@ T:Atholl Highlanders
 P:AABBCCDD
 S:Kevin Briggs, via EF
 M:6/8
+R:Jig
 K:A
 P:A
 |:c/2d/2|"A"e3 ecA|"A"ecA "E7"Bcd|"A"e3 ecA|"D"Bcd "E7"cBA|
@@ -143,6 +154,7 @@ T:Aunt Mary's Canadian Jig
 % Nottingham Music Database
 S:Ms L Dolman, via EF
 M:6/8
+R:Jig
 K:D
 A|"D"f2f fga|d2d dcB|"D"ABA "B7"AGF|"Em"E2E E2A|
 "A7"e2e efg|e2d c2B|ABA ABA|"D"F3 F2:|
@@ -155,6 +167,7 @@ T:Avon Jig
 % Nottingham Music Database
 S:Pauline Wilson, via Phil Rowe
 M:6/8
+R:Jig
 K:Em
 B|"Em"e2e B2B|GAB E3|"D7"FED AGF|FED AGF|
 "Em"e2e B2B|"Em"GAB E3|"D7"FED A2A|"Em"GEE E2::
@@ -168,6 +181,7 @@ T:Backstairs Jig
 S:EF
 P:AB
 M:6/8
+R:Jig
 K:G
 P:A
 d|"G"d2b baf|"G"a2g g2g|"D7"f2f fef|"G"a2g "D7"gfe|
@@ -182,6 +196,7 @@ T:The Leaking Bagpipe
 % Nottingham Music Database
 S:The Cantii Collection, via Phil Rowe
 M:6/8
+R:Jig
 K:G
 D3 |"Em"E3 B2A|B2G E2G|"D"F3 A2G|A2F DEF|"Em"E3 B2A|"Em"B2c d2e|"G"B2A "C"G2F|\
 "Em"E3 ::
@@ -195,6 +210,7 @@ T:Ballybunion
 S:Folk Camps, via EF
 P:AB
 M:6/8
+R:Jig
 K:G
 P:A
 B/2A/2|"G"G3 "C"g2e|"G/b"dBG "D7/a"AFD|"G"G3 "C"g2e|"G"dBG "D"A2B|
@@ -210,6 +226,7 @@ T:Barbary Bell
 S:Kevin Briggs, via EF
 P:AB
 M:6/8
+R:Jig
 K:G
 P:A
 d|"G"GAG GBc|"G"ded dBG|"C"ABc "G/b"BAG|"Am"EGE "D7"E2D|
@@ -224,6 +241,7 @@ T:The Barley Mow
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:G
 "G"G2G "D"A2A|"G"B2c dBG|"C"E2E c2B|"Am"ABG "D7"FED|"G"G2G "D"A2A|"G"B2c dBG|\
 "C"EcB "D7"AGF|"G"G6:|
@@ -238,6 +256,7 @@ T:Bean Setting (North Skelton)
 % Nottingham Music Database
 S:EF
 M:6/8
+R:Jig
 K:G
 G/2A/2|"G"BAG D2D|"C"EFG "D7"FED|"G"BAG D2D|"C"E2D "D7"G2A|"G"BAG D2D|
 "C"EFG "D7"FED|"G"BAG D2D|"C"E2D "D7"G2A|"G"B2B "D"A2A|"Em"G2G "Bm"FED|
@@ -250,6 +269,7 @@ T:Belfast Almanac
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:G
 D|"G"G2G "D7"FED|"C"E2F G2A|"G"B2G "D7"c2A|"G"B2G "D7"c2A|
 "G"B3/2c/2d "Am"E2E|"A7"ABG "D7"FED|"C"EFG "D7"AFD|"G"G3 -G2::
@@ -264,6 +284,7 @@ T:Bell's Favourite
 % Nottingham Music Database
 S:Don Messer's Way Down East Fiddlin' Tunes, via Phil Rowe
 M:6/8
+R:Jig
 K:D
 A|"D"FEF "G"GFG|"D"BAF A2d|"A7"cde ABc|"D"dcB "A7"A2G|
 "D"FEF "G"GFG|"D"BAF A2d|"A7"cde ABc|"D"d3 d2::
@@ -277,6 +298,7 @@ T:Squire of Bensham
 S:NPTB, via EF
 P:AB
 M:6/8
+R:Jig
 K:C
 P:A
 c/2d/2|"C"edc "F"A2F|"C/e"G2c "G7/d"E2c|"C"edc g2c|"Dm"Bdd "G7"d2c/2d/2|
@@ -291,6 +313,7 @@ T:The Bent Pin
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:D
 "A7"A|"D"D2F A2d| "G7"^A2B "D"=AFD|\
 "G7"^A2B "D"=AFD|"E7" =FDF "A7"EDB,|
@@ -308,6 +331,7 @@ T:Biddy The Bowl Wife
 S:FTB 2 34, via EF
 P:AB
 M:6/8
+R:Jig
 K:A
 P:A
 c|"A"EAc e2f|"A"ecA a2f|"A"ecA EAc|"D"dcd "E7"B2c|
@@ -323,6 +347,7 @@ T:Bill Charlton's Fancy
 S:Billy Pigg, via EF
 P:ABC
 M:6/8
+R:Jig
 K:G
 P:A
 (3d/2e/2f/2|"G"g2G f2G|e2G d3|"G"DGB dBG|"D"DFA c3|"D"aAc g2A|
@@ -346,6 +371,7 @@ T:Blackberry Quadrille
 S:Kevin Briggs, via EF
 P:AB
 M:6/8
+R:Jig
 K:D
 P:A
 f/2g/2|"D"a2a ba^g|"D"a2f d2f|"A7"e2c A2g|"D"fdB "A7"A2f/2g/2|
@@ -361,6 +387,7 @@ T:Blackthorne Stick
 S:Kevin Briggs, via EF
 P:AB
 M:6/8
+R:Jig
 K:G
 P:A
 d|"G"gfg "C"ege|"G"dBG "C"AGE|"G"DGG "D7"FGA|"G"BAG "D7"A2d|
@@ -376,6 +403,7 @@ T:Blarney Pilgrim
 P:AABBCC
 S:Alistair Anderson, via EF
 M:6/8
+R:Jig
 K:G
 P:A
 |:D|"G"DED DEG|"C"A2G ABc|"G"BAG "C"AGE|"Am"GEA "D7"GED|
@@ -393,6 +421,7 @@ T:Blaydon Races
 % Nottingham Music Database
 S:Kevin Briggs, via EF
 M:6/8
+R:Jig
 K:D
 A|"D"d2d d2d|"D"d2d d2d|"A7"e2e e2e|"D"f3 "D7"d3|"G"ggg g2g|"D"f2f f2f|
 "E7"e2f e2d|"A7"c3 A3|"D"d2d d2d|"D"d2d d2d|"A7"e2e e2e|"D"f3 "D7"d3|\
@@ -411,6 +440,7 @@ T:Bonnets So Blue
 P:AAB
 S:Kevin Briggs, via EF
 M:6/8
+R:Jig
 K:C
 P:A
 |:G|"C"cdc efg|"G7"GAG GAB|"C"ceg gec|"G7"d2e gfd|
@@ -428,6 +458,7 @@ T:Bonnets So Blue
 P:AAB
 S:FTB 1 p 47, via EF
 M:6/8
+R:Jig
 K:D
 P:A
 |:A|"D"ded def|"A7"ABA ABc|"A7"dfb afd|"A7"efe e2A|
@@ -445,6 +476,7 @@ T:Brian Borouhme
 S:Jimmy Galway, via EF
 P:AB
 M:6/8
+R:Jig
 K:Am
 P:A
 e|"Am"cBA Aed|"Am"cBA A2d|"G"BAG Gdc|"G"BAG G2e|
@@ -459,6 +491,7 @@ T:Bridal Jig
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:G
 D|"G"G2G BGB|"D"def "Em"gfg|"Am"ecA "G"dBG|"D7"FAG FED|
 "G"GFG BGB|"D"def "Em"gfg|"Am"ecA "G"dBG|"D7"FED G2::
@@ -472,6 +505,7 @@ T:The Mug of Brown Ale
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:G
 G|"Am"EAA ABd|edB c2A|"G"BGG dGG|Bdc BAG|
 "Am"EAA ABd|"Am"ede "Em"a2g|"Am"edc "Em"Bcd|"Am"ecA A2:|
@@ -486,6 +520,7 @@ T:St. Bruno
 % Nottingham Music Database
 S:Chris Dewhurst, via Phil Rowe
 M:6/8
+R:Jig
 K:Dm
 A|"Dm"d2e f2g|"Dm"a2d "G"def|"C"g2c cde|"Bb"fed "Am"c=BA|
 "Dm"d2e "A7"f2g|"Dm"afd "Gm"b2g|"Dm"fed "A"ed^c|"Dm"d3 -d2::
@@ -498,6 +533,7 @@ T:Buggy Ride Jig
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:G
 g|f/2a3/2d f/2a3/2d|fg2 "D7"d^c=c|:"G"B2B BAG|B2B BAG|"G"B/2d3/2G B/2d3/2G|
 "Am"Bcc cBc|"D"eff fed|"D"f2f fed|"D7"f/2a3/2d f/2a3/2d|"G"fg2 "D7"gfg::
@@ -512,6 +548,7 @@ T:Bung Your Eye
 S:FTB 2/42, via EF
 P:AB
 M:6/8
+R:Jig
 K:Am
 P:A
 E|"Am"ABA c2d|"Am"edc B2A|"G"GAG B2c|"G"dge dBG|
@@ -526,6 +563,7 @@ T:The Burdett
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:D
 A|"D"d2d f2a|"Em"gfg "A7"e2a|"Bm"f2d "E7"B2e|"A7"cBc A2A|
 "D"d2d f2a|"Em"gfg "A7"e2a|"Em"afd "A7"gec|"D"d2f d2::
@@ -538,6 +576,7 @@ T:Cadeau's Jig
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:Bb
 B-c|"Bb"dBF DFB-|dBF DFE-|"Bb"DFB dcB|
 "Eb"AG^F "Cm"G2A|"F7"aAA aAa|"F7"g3 -ga-g|"F7"f=ef _ede-|d3 dB-c|
@@ -553,6 +592,7 @@ T:There Came A Young Man
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:Am
 E|"Am"ABA c2d|"Am"edc "D7"\
 B2A|"G"GAG B2c|dge d
@@ -568,6 +608,7 @@ T:Captain White
 P:AAB
 S:Kevin Briggs, via EF
 M:6/8
+R:Jig
 K:D
 P:A
 A|"D"DFA d2f|"A"edc "G"B2d|"D"A2d F2B|"Em"AGF "A7"E2A|
@@ -583,6 +624,7 @@ T:Crossing The Cascades
 % Nottingham Music Database
 S:Mike Richardson 16.9.90, via Phil Rowe
 M:6/8
+R:Jig
 K:D
 "A"A2F |:"D"DED DFA|d3 d2c|"G"B2B Bcd|"D"A3 F2A|
 "G"BAB "A"cBc|"D"d2A "Bm"AGF| [1"Em"E2F GFE|"A"C3 A,2C:|
@@ -596,6 +638,7 @@ T:The Castle
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:G
 D|"G"G3 GAB|"Am"A3 "D7"ABc|"G"edd gdd|"C"edB "D7"dBA|
 "G"G3 GAB|"Am"A3 "D7"ABc|"G"edd gdB|"D7"AGF "G"G2::
@@ -608,6 +651,7 @@ T:Cat in the Kitchen
 % Nottingham Music Database
 S:Bob McQuillen Jan 1975, via Phil Rowe
 M:6/8
+R:Jig
 K:Bm
 F|"Bm"B2c dcB|"Em"e2f gfe|"Bm"fbb bag|"F#7"fgf edc|
 "Bm"B2c dcB|"Em"e2f gfe|"Bm"fgf "F#7"edc|[1"Bm"dBB B2:|[2 "F#7"dBB B||
@@ -620,6 +664,7 @@ T:Cavan Buck
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:Bm
 "Bm"d2B "F#m"c3|"Bm"B2c d2e|"Bm"f2f "E7"e2d| "A"c2A ABc|
 "Bm"dcB "F#m""A"cBA|"Bm""G"B2c d2e|"Bm"f^ga "F#m"gfe|"Bm"f2B B3::
@@ -633,6 +678,7 @@ T:Champion Jig
 S:EF
 P:AB
 M:6/8
+R:Jig
 K:Em
 P:A
 |:B|"Em"Bef gfe|"Em"bef gfe|"B7"f^dB fdB|"B7"bc'b agf|
@@ -647,6 +693,7 @@ T:Charlbytown Two-Step
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:C
 ef|"C"g^fg a2g|"C7"edc G2E|"F"FEF A2G|F3 -FEF|"G7"G^FG B2A|
 G^FG B2A|"G7"G^FG A2G|"C"E3 -"G7"E2g|"C"g^fg a2g|"C7"edc G2E|"Dm"FEF A2G|
@@ -662,6 +709,7 @@ T:Charlie Hunter
 S:Jim McLeod, via EF
 P:AB
 M:6/8
+R:Jig
 K:D
 P:A
 A|"D"DFA "G"GBd|"D/f+"Adf "A7/e"a2g|"D"fed "G"Bcd|"Em"ecA "A7"GFE|
@@ -676,6 +724,7 @@ T:Chuntering Charlie
 % Nottingham Music Database
 S:John Kirkpatrick, via Phil Rowe
 M:6/8
+R:Jig
 K:C
 "C"cGE "G"B2A|"C"GEC "F"F2E|"G"DB,G, DB,G,|"C"CDE "G"D2G|
 "C"cGE "G"B2A|"C"GEC "F"F2E|"G"DB,G, DB,G,|"G"GAB "C"c3::
@@ -690,6 +739,7 @@ T:Chelmsford Races
 % Nottingham Music Database
 S:Thomas Hardy Collection, via Phil Rowe
 M:6/8
+R:Jig
 K:Bb
 F|"Bb"B2B BAB|"F"c2c f2f|"Bb"d2d B2B|"F"ABc FGA|
 "Bb"B2B BAB|"F"c2c f2f|"Eb"egf "F"edc|"Bb"B2B B2::
@@ -702,6 +752,7 @@ T:Cherish The Ladies
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:D
 B/2c/2|"D"dFF AGF|DFA AFA|"Em"BEE GEE|"G"BdB "A7"AFA|
 "D"dFF AGF|"D"DFA AFA|"G"Bcd "A7"efg|"D"fdd d2::
@@ -714,6 +765,7 @@ T:Jig For Chris
 % Nottingham Music Database
 S:Mike Richardson 30.3.89, via Phil Rowe
 M:6/8
+R:Jig
 K:G
 D|"G"GBd "D"cBA|"G"BGE DB,D|"G"EDB, "Em"G,B,D|"Am"GDB, "D"A,2D|
 "G"GBd "D"cBA|"G"BGE DB,D|"G"EDB, "Em"G,B,D|"D"EGF "G"G2:|
@@ -727,6 +779,7 @@ T:Circle Around
 % Nottingham Music Database
 S:Chris Dewhurst 1978, via Phil Rowe
 M:6/8
+R:Jig
 K:G
 "(D7)"B,2C |"G"D2B B^AB|"G"G2D B,CD|"C"E2F GFE|"G"D3 "D"d2c|"G"B2B B^AB|
 "Em"G2B E2B|"A7"A^GA ABc|"D"d3 "D7"d2c|"G"B2D B^AB|"G"G2D B,CD|
@@ -741,6 +794,7 @@ T:The Cobbler
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:D
 D|"D"DFA "G"B2A|"D"def "A7"gfe|"D"fdf "A7"ecA|"G"BGB "D"AFD|
 "D"DFA "G"B2A|"D"def "A7"gfe|"D"fdf "A7"ecA|"D"Add d2::
@@ -754,6 +808,7 @@ T:Cock of the North
 S:Kevin Briggs, via EF
 P:AB
 M:6/8
+R:Jig
 K:A
 P:A
 e/2d/2|"A"cdc cBA|"A"Ace "D"f2e|"A"cdc cBA|"B7"BcB "E7"Bed|
@@ -768,6 +823,7 @@ T:Coleraine
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:Am
 E|"Am"EAA ABc|"E7"Bee e2d|"Am"cBA ABc|"E7"B^GE E2E|
 "Am"EAA ABc|"E7"Bee e2d|"Am"cBA "E7"B^GE|"Am"A3 -A2::
@@ -780,6 +836,7 @@ T:The Connaught Man's Rambles
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:D
 A|"D"FAA dAA|"G"BAB "A7"dAG|"D"FAA "A"Afe|"Bm"dBB "A7"BAG|
 "D"FAA dAA|"G"BAB "D"def|"Em"gfe "F#7"dfe|"Bm"dBB B2::
@@ -793,6 +850,7 @@ T:Top of the Cork Road
 S:EF
 P:ABC
 M:6/8
+R:Jig
 K:D
 P:A
 A|"D"dAF DFA|"D"ded "A7"cBA|"D"dcd "A/c+"efg|"Bm"fdf "A7"ecA|
@@ -808,6 +866,7 @@ T:The Corner House Jig
 % Nottingham Music Database
 S:Andrew Rankine, via Phil Rowe
 M:6/8
+R:Jig
 K:D
 B|"D"Add dcd|fed A2d|"Em"Bee edB|"Em"Bee "A7"cBA|
 "D"Add dcd|fed A2d|"G"Bdd "A7"cBc|d3 -d2::
@@ -820,6 +879,7 @@ T:Cumberland Reel
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:D
 A|"D"f2e d2c|"G"d2B "D"A2F|"G"GFG "A"EFG|"D"F2G A2A|
 "G"B2G d2B|"D"A2F d2d|"A7"cde ABc|"D"d3 -d2:|
@@ -833,6 +893,7 @@ T:Cupid's Dart
 % Nottingham Music Database
 S:Chris Dewhurst, via Phil Rowe
 M:6/8
+R:Jig
 K:D
 "A7"f2g |"D"afd A^GA|FAd f2g|"D"afd Aef|"Em"g3 e2f|"A"gec A^GA|
 "A"c2d e2f|"Em"g2e "A7"c2B|"D"A3 f2g|"D"afd A^GA|FAd f2g|
@@ -849,6 +910,7 @@ T:Da Brigg
 S:Mrs Foxley's Fancy, via EF
 P:AB
 M:6/8
+R:Jig
 K:D
 P:A
 (3A/2B/2c/2|:"D"d3 "A7"A2G|"D"FED "A7"DFA|"D"d3 A2F|"Em"E2e "A7"cBc|
@@ -863,6 +925,7 @@ T:Lass O' Dallogill
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:D
 |:d|"C"ede G2G|"F"A2A "G7"G2G|"C"ede G2G|"G7"A2B "C"c2:|
 d|"C"e2c "G"d2B|"C"c2c "G"BAG|"C"e2c "G"d2d|"C"e2f g3|
@@ -874,6 +937,7 @@ T:Dan Powrie's Farewell
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:F
 C3 |"F"F3 C3|A3 F3|"F"c3 AFA|f2e d2c|"Gm"B3 D^CD|"Gm"d3 G^FG|
 bag fed|"C7"cdc BAG|"F"F3 C3|A3 F3|"F"c3 AFA|
@@ -888,6 +952,7 @@ T:Danbury Hill
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:Am
 "E7"cB|"Am"Ace "Dm"f2e|"G7"dBG "C"e2d|"F"cBc "Dm"dcB|"Am"ABA "E7"^G^FE|
 "Am"Ace "Dm"f2e|"G7"dBG "C"e2d|"F"cBc "E7"dcB|[1"Am"A3 -A:|[2 "Am" A3 -A2||
@@ -900,6 +965,7 @@ T:The Dancing Dustman
 % Nottingham Music Database
 S:Jimmy Shand, via Phil Rowe
 M:6/8
+R:Jig
 K:G
 ef|"G"agd B2c|edB G2B|"Am"AGA c2A|E3 -E2G|"D"FAc f2e|
 "D"d2c B2^A|"G"B^AB e2B|"D"d3 -def|"G"agd B2c|edB G2B|
@@ -907,9 +973,11 @@ ef|"G"agd B2c|edB G2B|"Am"AGA c2A|E3 -E2G|"D"FAc f2e|
 "G"d2G GAB|A2G d3|"Am"e2A ABc|B2A e3|"D"f2c cde|
 "D"f2f f3|"Em"e2B Bcd|e2e e3|"G"d2G GAB|A2G d3|"Am"e2A ABc|
 B2A e3|"D"f2c cde|"D"f2f f3|"D7"fed cBA|"G"G6||
+R:Jig
 K:C
 "C"G2A G^F=F|E2G c2e|"Dm"dcd f2d|A3 -A2c|"G"B2^A B2c|
 "G"d2^c d2^d|"C"e^de a2e|"G"g3 EF^F|\
+R:Jig
 K:C
 "C"G2A G^F=F|E2G c2e|
 "Dm"dcd f2d|A3 -A2c|"G"B2^A B2d|a2g A2B|"C"c3 e3|c3 -c||
@@ -921,6 +989,7 @@ T:Dancing Tailor
 S:Alastair A, via EF
 P:AB
 M:6/8
+R:Jig
 K:D
 P:A
 A/2G/2|"D"FGF "G"GAB|"A7"ABc "D"dcd|"G"Bcd "D/f+"efd|"Em"cdB "A7"ABG|
@@ -935,14 +1004,17 @@ T:Danny MacPhail's Dilemma
 % Nottingham Music Database
 S:Ian MacPhail, via Phil Rowe
 M:6/8
+R:Jig
 K:D
 "D"DFA BAF|"D"DFA dAF|"G"DGB dBG|"G"B3 -B2d|
 "C7"EG_B d_BG|"C7"EG_B d=cB|"F"A^GA "Gm"_BA_B|"C"=c3 -=c2d||
 "D"DFA BAF|"D"DFA dAF|"G"DGB dBG|"G"B3 -B2d|
 "C7"EG_B d_BG|"C7"EG_B d=cB|"F"A_B=c "C7"BGE|"F"=F3 =FE_E||
+R:Jig
 K:F
 "Bb"DFB DFB|"Bb"d2d dBF|"F"CFA CFA|"F"c3 -cAF|
 "C7"E2e e2d|"C7"cdc _BAG|"F"F2f fed|"F"c3 -"F7"cAF||
+R:Jig
 K:F
 "Bb"DFB DFB|"Bb"d2d dBF|"F"CFA CFA|"F"c3 -c=BA|
 "G"G=Bd GBd|"G"g2g g2f|"C"e^de g2e|"F"c3 "F7"c2^c||
@@ -950,9 +1022,11 @@ K:F
 "C7"E2e e2d|"C7"cdc BAG|"F"F2f fed|"F"c3 c2^c||
 "Bb"d^cd DFB|"Bb"d2d d_BF|"F"cBc CFA|"F"c3 -c=BA|
 "G"G=Bd GBd|"G7"g2g g2f|"C"e^de g2e|"C"c3 "A7"c2^c||
+R:Jig
 K:D
 "D"d2D DFA|"D"DFA dAF|"G"DGB dBG|"G"B3 -"B7"B2^d|
 "E7"e2E E^GB|"E7"E^GB eB^G|"A7"EAc ecA|"A7"c3 cBc||
+R:Jig
 K:D
 "D"d2D DFA|"D"DFA dAF|"G"DGB dBG|"G"B3 -B2c|
 "D"dcd DFA|"G"B^AB B,DB|"A7"ABA GFE|"D"D3 -D3||
@@ -963,6 +1037,7 @@ T:Danse De Chez Nous
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:A
 E|:"A"EAc e2c|f2c ecA|"A"EAc e2c|"F#7"f2c "E"dBG|
 "E7"EGB d2B|e2B dBG|"E7"EGB dcB|[1"A"Acf ecA:|
@@ -975,6 +1050,7 @@ T:My Darling Asleep
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:D
 "D"fdd "A"cAA|"G"BGG "A7"A2G|"D"FAA def|"A7"gfg eaa|
 "D"fdd "A"cAA|"G"BGG "A7"A2G|"D"FAA def|"A7"gfe "D"d3::
@@ -987,6 +1063,7 @@ T:Davie's Brae
 % Nottingham Music Database
 S:Jim Johnstone, via Phil Rowe
 M:6/8
+R:Jig
 K:G
 d|"G"Bdd gdd|"C"efg "G"dBG|"A7"A2A a2g|"D"fdd "D7"d2c|
 "G"Bdd gdd|"C"efg "G"dBG|"Am"ABc "D7"def|g3 -g2::
@@ -999,6 +1076,7 @@ T:Davie's Brae
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:F
 |:B|"F"Acc fcc|"Bb"def "F"cAF|"G7"GGG g2f|"C"ecc c2B|
 "F"Acc fcc|"Bb"def "F"cAF|"Gm"GAB "C7"cde|"F"f3 f2::
@@ -1011,6 +1089,7 @@ T:Dance 'Til Dawn
 % Nottingham Music Database
 S:Mike Richardson 27.8.89, via Phil Rowe
 M:6/8
+R:Jig
 K:D
 B,|"D"A,2D "G"B,2D|"D"A,2D "A"CDE|"D"FFF "Em"GFG|"A"ABA GFE|
 "D"A,2D "G"B,2D|"D"A,2D "A"CDE|"D"FGA "G"Bcd|"A"FGE "D"D2::
@@ -1023,10 +1102,12 @@ T:Debbie's Jig
 % Nottingham Music Database
 S:Bernie Ley, via Phil Rowe
 M:6/8
+R:Jig
 K:Bb
 B/2-c/2|"Bb"d2B DFB|!trill! g2-f d2B-|"F7"ecA FGA-|
 "Bb"BdB "F7"cAF-|"Bb"BdB DFB|"Bb" !trill!  g2-f d2B-|\
 "F7"ecA FGA-|"Bb"B3 B2:|
+R:Jig
 K:F
 |:f/2-g/2|"F"afc Acf-|afc Acf-|"C7"ege cde-|"F"f-af c2f/2-g/2|
 "F"afc Acf-|afc Acf-|"C7"ege cde-| [1"F"f3 f2:| [2"F"f3 "F7"_e2||
@@ -1037,6 +1118,7 @@ T:Denis Murphy's
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:D
 B|"D"A2D FED|F2A A2f|"G"g2e "D"f2d|"Em"e2d "A"Bcd|
 "D"A2D FED|"D"F2A A2f|"D"a2f "A"efe|"D"d3 d2::
@@ -1050,6 +1132,7 @@ T:Go to the Devil and Shake Yourself
 S:EF
 P:AB
 M:6/8
+R:Jig
 K:D
 P:A
 A|"D"Add "G"dcB|"D"ABA AFA|"D"Add "A/c+"d2e|"Bm"fdB "A7"B2A|
@@ -1064,6 +1147,7 @@ T:The Devil Among the Taylors
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:A
 CB,|"A"A,CA, CA,C|ECE AEA|"D"FAF DFD|"A"EAE CEC|
 "Bm"DFD B,DB,|"A"CEC A,CA,|"Bm"B,DB, "E7"G,B,G,|"A"A,2A, A,::
@@ -1079,6 +1163,7 @@ T:Dingle Regatta
 P:AABBCC
 S:Folk Camp, via EF
 M:6/8
+R:Jig
 K:G
 P:A
 |:B/2c/2|"G"d^cd e2d|"G"B^AB d2B|"Am"A2A "D7"AGA|"G"B2A "D7"GBc|
@@ -1096,6 +1181,7 @@ T:Dinny O'Keefe's
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:D
 "A"E2A ABA|"G"G2A Bcd|"A"e2A ABA|"Em"G3 F2G|
 "A"E2A ABA|"G"G2A Bcd|"A"efe "G"dcB|"A"A3 A3::
@@ -1109,6 +1195,7 @@ T:The Director
 S:Play A B A C, via Phil Rowe
 P:ABAC
 M:6/8
+R:Jig
 K:A
 P:A
 "(E7)"cde ||"A"f2e ^d2e|c3 Ace|"A"f2e ^d2e|"E"d3 -dcd|"E"g3 f3|
@@ -1118,6 +1205,7 @@ P:B
 "A"c3 B2c|E3 E3|"A"EFG AGF|"E"G3 -G3|"E"d3 c2d|"E"E3 E3|
 "E"EFG AB=c|"A"cEF "E7"GAB|"A"c3 B2c|E3 E3|"A7"A2A ABc|
 "D"d3 -d3|F^EF d2F|"A"E^DE c2A|"E"G2E EFG|"A"A3 ||
+R:Jig
 K:D
 P:C
 "D"f3 e2f|A3 A3|"D"ABc dcB|"A"c3 -c3|"A"g3 f2g|"A"A3 A3|
@@ -1130,6 +1218,7 @@ T:Dixden
 % Nottingham Music Database
 S:Pauline Wilson, via Phil Rowe
 M:6/8
+R:Jig
 K:D
 "D"d2A F2A|"G"G2B "A7"ABc|"D"d2A F2A|"Em"G2F "A7"E2A|
 "D"d2A F2A|"G"G2B "A7"ABc |"D"d2A F2A|"A7"B2c "D"d3::
@@ -1143,6 +1232,7 @@ T:Doc Boyd
 S:Kevin Briggs, via EF
 P:AB
 M:6/8
+R:Jig
 K:C
 P:A
 G|"C"cBc GEG|"C"cea g2e|"F"faf "Dm"A2d|"G"BdB "G7"GAB|
@@ -1157,6 +1247,7 @@ T:Donald Ian Rankine
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:G
 "D7"d2c |"G"Bdd GBB|DGG B,DD|"G"B,DD GBB|"D"GFF F3|
 "D"DFF FAA|"D"Acc cdd|dff fdd|"G"cBB B3|
@@ -1173,6 +1264,7 @@ T:Double Rise
 % Nottingham Music Database
 S:Trad arr Hamish, via EF
 M:6/8
+R:Jig
 K:D
 "A"eAA gfe|"D"faf def|"G"gBB d2e|"Em"GdG "A"BAA|
 "A"eAA gfe|"D"faf def|"G"gBB ded|"G"BAG [1"A"A3:|[2"A"AAB||
@@ -1190,6 +1282,7 @@ T:Drummond Castle
 S:AA, via EF
 P:AB
 M:6/8
+R:Jig
 K:Am
 P:A
 e|"Am"ABA a3|"Am"age "G"g3|"C"c2c edc|"G"Bdg dBG|
@@ -1204,6 +1297,7 @@ T:Earl Bley's Jig
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:D
 "D"A2d "A"cde||"D"f2g "Bm"afd|"Em"gfg "A7"e3|||"D"fga "A7"gec|"D"d2d d3::
 "G"b2g dgb|"D"a2f dfa|"A"gec "A7"Ace|"D"dfg "D7"a3|
@@ -1215,6 +1309,7 @@ T:Easter Chick
 % Nottingham Music Database
 S:Heather Bexon, via Phil Rowe
 M:6/8
+R:Jig
 K:G
 "G"G3 "C"gfe|"G"d2c B3|"F"c2A =FAc|"D7"e3 dBd|
 "G"G3 "C"gfe|"G"d2c "Em"B2c| "D7"B3 A3|"G"G6::
@@ -1227,6 +1322,7 @@ T:Edmund MacKenzie of Plockton
 % Nottingham Music Database
 S:Andrew Rankine, via Phil Rowe
 M:6/8
+R:Jig
 K:G
 FE|:"G"DEF GAB|d2d B3|"Am"c2c "D7"A3|"G"d2d B3|
 "G"DEF GAB|"G"d2d B3| "G"d^cd "D7"=cAF|"G"G3 G3::
@@ -1239,6 +1335,7 @@ T:Wee Emma
 % Nottingham Music Database
 S:Chris Dewhurst 1984, via Phil Rowe
 M:6/8
+R:Jig
 K:F
 "C7"A2B |"F"cac "C7"BgB|"F"A2f c2B|"F"A^GA "D7"dcA|"Gm"c3 B3|
 "C"b2a g2f|"C"ege "Gm"d2f| [1"C"edc "Fd"=Bcd|"F"c3 :|
@@ -1252,6 +1349,7 @@ T:The Family's Pride
 % Nottingham Music Database
 S:Ms L Dolman, via EF
 M:6/8
+R:Jig
 K:D
 A|"D"f2e "G"dcB|"D"A2F F2A|"A7"G2E EcB|"D"A2F "A7"F2A|
 "D"f2e "G"dcB|"D"A2F F2A|"Em"Ged "A7"cBc|"D"d3 d2:|
@@ -1265,6 +1363,7 @@ T:Farewell
 P:AABA
 S:Geoff Bocking, via EF
 M:6/8
+R:Jig
 K:G
 P:A
 |B/2c/2|"G"ded g2g|"G"BcB d2d|"G"G2G "D7/a"AGA|"G/b"BGB "C"ABc|
@@ -1279,6 +1378,7 @@ T:Farewell To Joe
 % Nottingham Music Database
 S:Chris Dewhurst 1979, via Phil Rowe
 M:6/8
+R:Jig
 K:A
 "E7"A2B |"A"c2e ABc|"D"d2f agf|"A"efe c2A|E3 B2c|
 "E"ded B2d|"E"GBd f2e|"A"c3 E^DE|=F3 E3|"A"c2e ABc|"D"d2f agf|
@@ -1294,6 +1394,7 @@ T:Farmer's Jamboree
 S:Lesley Dolman, via EF
 P:AB
 M:6/8
+R:Jig
 K:A
 P:A
 c/2d/2|"A"efe "E7"dcB|"A"A2c E2c|"A"c^Bc edc|"E7"B3 Bcd|
@@ -1308,6 +1409,7 @@ T:Feathers
 % Nottingham Music Database
 S:EF
 M:6/8
+R:Jig
 K:G
 B/2A/2|"G"G2G G2g|"C"gfe "G"d3|"Am"c2B A2G|"D7"FGA DEF|"G"G2G G2g|
 "C"gfe "D"d2c|"Em"BAG "D7"AGF|"G"G3 GFE|"D"D2D D2d|"Em"dcB "Am"c3|"D"D2D D2c|
@@ -1318,9 +1420,11 @@ T:Fiddle Hill Jig
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:G
 G|"G"G2g f2e|d^cd edB|"G"G2B c2^c|"D"d3 -dAB|
 c2d c2d|"D"cAF DFA| [1"D"ded "D7"cdc|"G"B3 -B2:|[2"D7"ded cBA|"G"G3 -G2|||
+R:Jig
 K:D
 |:F/2G/2|"D"A2z"A"G2z|"D"FAd fed|"A"c2e B2c| "E7"BA^G "A"A2F/2G/2|
 "D"A2z"A"G2z|"D"FAd fed|"A7"cBA gfe| [1"D"d3 -d2:| [2"D"d3 "D7"=cBA||
@@ -1332,6 +1436,7 @@ T:Fiery Clock Fyece
 S:EF
 P:AB
 M:6/8
+R:Jig
 K:C
 P:A
 g|"C"c'2c' c2d|"C"e2f g2a|"Bb"_b2b d2e|"Bb"f2g "G7"a2b|
@@ -1346,6 +1451,7 @@ T:Fifty Not Out
 % Nottingham Music Database
 S:Chris Dewhurst 1984, via Phil Rowe
 M:6/8
+R:Jig
 K:C
 "G7"GAB |"C"c2c cde|G2E A2E|"C"G^FG A2G|"G"B3 B2c|def B2d|
 "G"G2B DGB|d^cd fe^d|"C"e3 "G7"GAB|"C"c2c cde|G2E A2E|
@@ -1360,6 +1466,7 @@ T:First Western Change
 % Nottingham Music Database
 S:From Don Merser's 'Way Down East Fiddlin' Tunes', via Phil Rowe
 M:6/8
+R:Jig
 K:G
 "G"gba "C"gfe|"G"d2B GBc|"D7"d^cd F2d|"G"d^cd BGd|
 "G"gba "C"gfe|"G"d2B GBc|"D"d^cd DEF|"G"G3 G2B::
@@ -1372,6 +1479,7 @@ T:The Flight
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:C
 G|"C"ced ced|c2G G2F|"C"EGc "F"ABc|"Dm"dfe "G"d2G|
 "C"ced ced|c2G G2F|"C"EGc "G7"GcB|"C"c3 -c2:|
@@ -1384,6 +1492,7 @@ T:Flirtation !!!
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:Am
 E|"Am"A2B c2d|ecA ecA|"G"G2A B2c|ded dBG|
 "Am"A2B c2d|"Am"ecA "Bm"Bcd|"E7"efe dcB|"Am"A3 -A2::
@@ -1397,6 +1506,7 @@ T:My Favourite Flute
 % Nottingham Music Database
 S:Bob McQuillen Sept 1976, via Phil Rowe
 M:6/8
+R:Jig
 K:D
 fg|"D"a2f "A7"g2e|"D"fgf fed|"A"Aee Aee|"Bm"dfb "A7"afg|
 "D"a2f "A7"g2e|"Bm"fgf fed|"A"Aee "A7"Aag|"D"fdd d::
@@ -1410,6 +1520,7 @@ T:Footy Aygen The Wa'
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:Em
 f|"Em"g2e "D"f2d|"Em"e2d B2f|"Em"g2e "D"f2d|"Bm"B3 -B2f|"Em"g2e "D"f2d|\
 "C"e2f g2e|"G"dBG "D"A2B|"Em"E3 -E2::
@@ -1422,6 +1533,7 @@ T:French Canadian Four-step
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:G
 Bc|:"G"d3/2e/2d "D"def|"G"g3 gBc|"G"d3/2e/2d dcB|"Am"cBc "D"Afg|
 "D"aAa aAg|"D"f3 f2e|[1"D7"d3/2e/2d d^c=c|"G"B3 "D7"B2c:|
@@ -1436,6 +1548,7 @@ T:Father Kelly's Jig
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:G
 D|"G"GFG BAG|"D"FEF AFD|"G"GFG BAG|"G"B/2c/2dB "D"cAF|
 "G"GFG BAG|"D"FEF AFD|"G"d^cd "D"fed|"D7"cAF "G"G2:|
@@ -1450,6 +1563,7 @@ T:Fram Apon Him
 % Nottingham Music Database
 S:Peter Kennedy, via EF
 P:AB
+R:Jig
 K:D
 P:A
 A/2G/2|"D"F2A "A7"d2e|"D"fgf e2f|"G"g2f e2c|"Em"d2c "A7"B2A|
@@ -1465,6 +1579,7 @@ T:Freds Frolics
 P:AAB
 S:EF
 M:6/8
+R:Jig
 K:G
 P:A
 |:B/2A/2|"G"G2G GAB|"D7"A2A ABc|"G"d2B "D7/a"c2A|"G/b"B2G "C"AGE|
@@ -1481,6 +1596,7 @@ T:Garry Owen
 S:EF
 P:AB
 M:6/8
+R:Jig
 K:A
 P:A
 a/2g/2|"A"fed cBA|"A"cdc "E7"cag|"A"fed cBA|"Bm"BcB "E7"Bag|
@@ -1496,6 +1612,7 @@ T:Garster's Dream
 S:Peter Kennedy, via EF
 P:AB
 M:6/8
+R:Jig
 K:G
 P:A
 D|"G"G2B BGB|"C"cdc "G"BAG|"D7"FGA ABA|"D7"AdA FED|
@@ -1511,6 +1628,7 @@ T:The General Gathering 1745
 P:AAB
 S:Athole p 136, via EF
 M:6/8
+R:Jig
 K:D
 P:A
 |:f|"D"d2F FGF|"A7"ABc "D"def|"G"edc "D"dcB|"Em"A2E "A7"E2f|
@@ -1527,6 +1645,7 @@ T:George's Corkscrew
 % Nottingham Music Database
 S:Chris Dewhurst 1982, via Phil Rowe
 M:6/8
+R:Jig
 K:C
 (3G/2A/2B/2|"C"c2G e2G|"Cd"AG^F "C"G3|"G"F2G "C"E2G|"F"Ddc "G"BAG|
 "C"c2G e2G|"Cd"AG^F "C"G3|"G"f2d Bcd|[1"C"c3 -c2:|[2"C"c3-c3||
@@ -1539,6 +1658,7 @@ T:The Giant's Silver
 % Nottingham Music Database
 S:Chris Dewhurst 1983, via Phil Rowe
 M:6/8
+R:Jig
 K:A
 "E7"c2d |"A"efe ece|"A"a2e c2e|"Bm"dcd "E7"Bcd|"A"f2e "E7"c2d|
 "A"efe "E"ece|"F#m"a2e "C#m"c2e|"Bm"gfe "E7"dcB|"A"A3 ::
@@ -1552,6 +1672,7 @@ T:Glendaruel Highlanders
 P:AABB
 S:Kevin Briggs, via EF
 M:6/8
+R:Jig
 K:A
 P:A
 |:e/2c/2|"A"A3/2A/2A/2A/2 ABc|"A"ece "D"f2e|"A"cBA "D"faf|"Bm"e3 "E7"efa|
@@ -1568,6 +1689,7 @@ T:Goat on the Hill
 S:Neil Campbell (MacBeat), via EF
 P:AB
 M:6/8
+R:Jig
 K:Am
 P:A
 c/2d/2|"Am"eAA c2d|"Am"eag e2d|"Am"eAA "D7"c2d|"G"BGG Gcd|
@@ -1591,6 +1713,7 @@ T:Goat on the Hill
 S:Neil Campbell (MacBeat), via EF
 P:ABCDEF
 M:6/8
+R:Jig
 K:Am
 %%MIDI program 110
 %%MIDI chordprog 68
@@ -1625,6 +1748,7 @@ T:The Gobby O
 S:FTB 2/42, via EF
 P:AB
 M:6/8
+R:Jig
 K:Am
 P:A
 A/2B/2|"Am"c2A A^GA|"Am"E2A A^GA|"G"B2G GBc|"G"dBG GAB|
@@ -1639,6 +1763,7 @@ T:Grandfather's Pet
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:D
 A|"D"d2A ABA|d2A ABA|"D"d2e "Bm"f2d|"Em"e2d "A7"B2c|
 "D"d2A ABA|"D"dBA ABA|d2f a2g|"A7"fge "D"d2::
@@ -1651,6 +1776,7 @@ T:Greenholm
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:G
 d|"G"dBG GBd|"C"efg g2e|"G"dBG GAB|"A7"ABG "D7"FED|
 "G"dBG GBd|"C"efg g2e|"G"dBG "D7"ABA|"G"G3 -G2::
@@ -1663,6 +1789,7 @@ T:The Grindstone
 % Nottingham Music Database
 S:13.2.91, via Phil Rowe
 M:6/8
+R:Jig
 K:F
 "C7"c2B |"F"A2A F2F|"Bb"DFD B,2=B,|\
 "C7"C2C CDE|"F"F2A "C7"c2B|
@@ -1679,6 +1806,7 @@ T:Happy Meeting
 S:Lesley Dolman, via EF
 P:AB
 M:6/8
+R:Jig
 K:G
 P:A
 |:d|"G"dBG GBd|"C"efg g2e|"G"dBG GAB|"Am"A3 -"D7"A2d|
@@ -1694,6 +1822,7 @@ T:Harmonica
 P:SAAB
 S:Kevin Briggs, via EF
 M:6/8
+R:Jig
 K:G
 P:S
 F=FF3/2
@@ -1712,6 +1841,7 @@ T:Haste To The Wedding
 S:EF
 P:AB
 M:6/8
+R:Jig
 K:D
 P:A
 F/2G/2|"D"A2A A2f|"G"ede fdB|"D"A2A AGF|"Em"GFG "A7"EFG|
@@ -1726,6 +1856,7 @@ T:Haymaker's Jig
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:G
 B/2-c/2|"G"d2d dBd|gfg B3|"Am"cBc ABc|"D7"e2d B2c|
 "G"d2d dBd|"G"gfg B2g|"D"fed ecA|"G"G3 G2::
@@ -1738,13 +1869,16 @@ T:White Heather Jig
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:G
 D|"G"G2G "D7"FGA|"G"G2G G3|"G"B2B "D7"ABc|"G"B3 -B2B|"D7"c2c A2c|
 "G"B2B G2B|"A7"ABA GFE|"D"D3 -D2D|"G"G2G "D7"FGA|"G"G2G G3|"G"B2B "D7"ABc|
 "G"B3 -B2B|"D7"c2A F2e|"G"d2c B2d|"D"ded "D7"cBA|"G"G3 -G2A||
+R:Jig
 K:D
 "D"A2B B2A|Afd A2A|"D"A2f fef|"A7"g3 -g2A|A2e e2d|
 "A7"d2c c3|ded c2B|"A7"B2_B _B2A|\
+R:Jig
 K:D
 "D"A2B B2A|Afd A2A|
 "D"a2f d2c|"G"B3 -B2B|B2g g2B|"D"A2f f2d|"A7"c2A ABc|"D"d3 d3||
@@ -1756,6 +1890,7 @@ T:Hexham Quadrille
 S:AA, via EF
 P:ABC
 M:6/8
+R:Jig
 K:G
 P:A
 d|"G"gfg dBG|"G"BAG "Em"E2D|"G"GAB BAG|"G"GBe "D7"d2d|
@@ -1774,6 +1909,7 @@ T:Hexham Races
 S:Kevin Briggs, via EF
 P:AB
 M:6/8
+R:Jig
 K:G
 P:A
 d/2B/2|"G"GBd gdB|"D7"ded d2B|"G"GBd gdB|"Am"ABA "D7"A2B|
@@ -1788,6 +1924,7 @@ T:High Spy
 % Nottingham Music Database
 S:Chris Dewhurst 1989, via Phil Rowe
 M:6/8
+R:Jig
 K:D
 A|"D"a2a "A7"gfe|"Bm"dcB "D"A2F|"G"GAB "D"Ade|"Em"faf "A7"e2A|
 "D"a2a "A7"gfe|"Bm"dcB "D"A2F|"G"GAB "D"Adf|[1"A"e3 "D"d2:|[2"A" e3 "D" d3||
@@ -1801,10 +1938,12 @@ T:Da Aald Hill Grinnd
 S:Peter Kennedy Shetland cassette, via EF
 P:AB
 M:6/8
+R:Jig
 K:G
 P:A
 |:D|"G"G2G "D7"G2A|"G"BAG G3|"C"edc "G"BAG|"Am"FAA "D7"AFD|
 "G"G2G "D7"G2A|"G"BGG g3|"C"f2e "D7"e2A|"G"A2G "G"G2:|
+R:Jig
 K:D
 P:B
 |:F/2G/2|"D"A3 f2e|"D"dcd "A7"A3|"D"ABA "Bm"AGF|"Em"G2E "A7"EFG|
@@ -1817,6 +1956,7 @@ T:Hilly-Go Filly-Go
 P:AABB
 S:McCusker Brothers, via EF
 M:6/8
+R:Jig
 K:D
 P:A
 |:d/2e/2|"D"f2e d2c|"D"d2B A2F|"G"GFG "A7"EFG|"D"FDF "D7"A2A|
@@ -1833,6 +1973,7 @@ T:Hogmany Jig
 % Nottingham Music Database
 S:AA, via EF
 M:6/8
+R:Jig
 K:D
 d/2e/2|"D"fgf fgf|"D"e2d d2e|"D"fgf fed|"G"c2B B3|"A7"cdc cdc|
 "A7"B2A A2A|"A7"Ace a2g|"D"g2f "A7"fde|"D"fgf fgf|"D"e2d d2e|
@@ -1850,6 +1991,7 @@ T:Honeypot Jig
 % Nottingham Music Database
 S:Roger Swain, via Phil Rowe
 M:6/8
+R:Jig
 K:C
 G3 |"C"cBc G^FG|E^DE C3|"C"EFG A2G|"G"F3 -F2G|"G"B^AB G^FG|
 "G"FEF D3|DEF A2G|"C"E3 -E2G|"C"cBc G^FG|E^DE C3|
@@ -1864,6 +2006,7 @@ T:Hot Punch
 % Nottingham Music Database
 S:Lesley Dolman, via EF
 M:6/8
+R:Jig
 K:D
 a/2g/2|"D"f2d "D/f+"dcd|"G"B2d "D/f+"A2d|"D"f2d faf|"D"d3 def|"Em"g2e e^de\
 |
@@ -1881,6 +2024,7 @@ T:The Household Brigade
 S:Play A B A C, via Phil Rowe
 P:SABAC
 M:6/8
+R:Jig
 K:G
 P:S
 "(D7)"d3
@@ -1903,6 +2047,7 @@ T:Hugh's Happy
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:Am
 "Am"e2e EAc|"Dm"d2d "E7"B3|"Am"c2c EA^A|"Dm6"B2B "E7"^G3|"F"A2A CFA|"C"G2G c2B\
 |
@@ -1912,6 +2057,7 @@ K:Am
 "Cm"_e2d c2d|"D7b9"_eee edc|"G"d3 "G7"d3|"G7"G2G Ggf|"C"e2d "Am"cde|
 "Dm"d2e "G7"fgf|"C"e3 c3|"G7"G2G Ggf|"Cm"_e2d c2d|"D7"_edc "G7"dcB|\
 "C"c3 "D7"d3||
+R:Jig
 K:G
 "G"B2B Bc^c|"E7"d2B e2d|"Am"c2c cBA|"D7"d3 -def|"G"g2d B2d|
 "E7b9"=f2e d2B|"Am"c2B c2e|"D7"d3 d2c|"G"B2B Bc^c|"E7"d2B e2d|
@@ -1926,6 +2072,7 @@ T:Hullichan Jig
 S:EF
 P:AB
 M:6/8
+R:Jig
 K:G
 P:A
 d|"G"GAG BGB|"G"ded dBG|"C"cBc ege|"G"dBG "D7"A2d|
@@ -1941,6 +2088,7 @@ T:Humber Jumber (The Frisky)
 S:Lesley Dolman, via EF
 P:AB
 M:6/8
+R:Jig
 K:G
 P:A
 D|"G"G2G G2B|"G"d2d d2d|"C"cBA "A7"B2G|"D7"A2D D3|"G"G2G G2B|"G"d2d d2d|\
@@ -1956,6 +2104,7 @@ T:Humours of Donnybrook
 S:Kevin Briggs, via EF
 P:AB
 M:6/8
+R:Jig
 K:A
 P:A
 e|"A"a2A AGA|"D"FAA "E"EAA|"A"a2A AGA|"Bm"FBA "E7"GFE|
@@ -1970,6 +2119,7 @@ T:The Hundred Pipers
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:A
 A/2B/2|"A"c2E EFE|"D"F2A A2f|"A"e2c cBA|"Bm"c2B "E7"BAB|
 "A"c2E EFE|"D"F2A A2f|"A"e2c "E7"BAB|"A"A3 -A2::
@@ -1983,6 +2133,7 @@ T:Wi' a 100 Pipers
 S:Kevin Briggs, via EF
 P:AB
 M:6/8
+R:Jig
 K:A
 P:A
 A/2B/2|"A"c2E EFE|"D"F2A A2f|"A"e2c "A/c+"cBA|"B7/f+"c2B "E7"BAB|
@@ -1997,6 +2148,7 @@ T:The Hundred Pipers
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:A
 A/2B/2|"A"c2E EFE|"D"F2A A2f|"A"e2c cBA|"Bm"c2B "E7"BAB|
 "A"c2E EFE|"D"F2A A2f|"A"e2c "E7"BAB|"A"A3 -A2::
@@ -2010,6 +2162,7 @@ T:Hunt The Squirrel
 S:Playford, via EF
 P:AB
 M:6/8
+R:Jig
 K:A
 P:A
 c/2B/2|"A"Aee e2f|"A"e3 c3|"A"ABc "D"B2A|"A/c+"ABc "E7/b"B2A|"A"Aee e2f|\
@@ -2024,6 +2177,7 @@ T:Icy Jig
 % Nottingham Music Database
 S:Chris Dewhurst 1979, via Phil Rowe
 M:6/8
+R:Jig
 K:Am
 "(E7)"e3 |"Am"a3 e2d|"Am"cBc ABc|"Dm"d3 A2G|FEF DEF|"E"E3 ^G2B|"E7"efe dcB|\
  [1"Am"A3 -"G"A3|"F"A3:|
@@ -2037,6 +2191,7 @@ T:Indian Point
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:Em
 "Em"B,EF G2A|"Em"BAG FED|"C"CEF G2A|"C"BAG BAG|"D"FED A,2D|
 "D"FEF AGF|[1"Em"EFG BAG|"Bm"F3 FED:|[2"Em"GFE "Bm""D"FED|"Em"E3 -E2B||
@@ -2049,6 +2204,7 @@ T:Ingalls' Jingle
 % Nottingham Music Database
 S:Bob McQuillen April 1974, via Phil Rowe
 M:6/8
+R:Jig
 K:G
 |:d|"G"g2d "D7"cBA|"G"Bcd "D7"cBA|"G"GAB "C"cde|"D7"d3 -d2d|
 "G"g2d "D7"cBA|"G"Bcd "D7"cBA|"G"GAB "D7"AGF|[1"G"G3 -G2:|[2"G"G3-G||
@@ -2063,6 +2219,7 @@ T:Irish Washerwoman
 S:Trad, via EF
 P:AB
 M:6/8
+R:Jig
 K:G
 P:A
 d/2c/2|"G"BGG DGG|"G"BGB dcB|"Am"cAA EAA|"D7"cAc edc|
@@ -2078,6 +2235,7 @@ T:Irish Washerwoman
 S:EF
 P:AB
 M:6/8
+R:Jig
 K:G
 P:A
 d/2c/2|"G"BAB DGB|"G"DGB dcB|"Am"cBc DFA|"D7"dfa gdc|
@@ -2092,6 +2250,7 @@ T:McQuillen's Irish Green
 % Nottingham Music Database
 S:Bob McQuillen Aug 1976, via Phil Rowe
 M:6/8
+R:Jig
 K:G
 d|"G"g2g gfe|ded dBd|"C"efg "G"dBA|"Em"Bee "D7"e2d|
 "G"g2g g2f|"C"efg "G"dBd|"G"gdB "Em"GAB|"D7"AGF "G"G2::
@@ -2104,9 +2263,11 @@ T:Jan Martindale's Trip To The Bathroom
 % Nottingham Music Database
 S:Mike Richardson, via Phil Rowe
 M:6/8
+R:Jig
 K:D
 "A"A3 |:"D"DFA "C"=CEG|"D"DFA "C"=CEG|"D"DFA "Bm"dcd|"Em"ecA "A"GFE|
 "D"DFA "C"=CEG|"D"DFA "C"=CEG|"D"DFA "C"GE=C|"A"A,B,C "D"D3:|
+R:Jig
 K:G
 "G"G3 |:GAB|"C"c3 cde|"G"d3 B3|"D"A3 -A3|
 "G"G3 GAB|"C"c3 cde|"G"d2g "D"fga|"G"g3 :|
@@ -2117,6 +2278,7 @@ T:Fair Jenny's Jig
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:D
 e|:"D"f3 fgf|"A7"ecA ecA|"G"Bcd "A7"ecA|"G"Bcd "A7"efg|
 "D"f3 fgf|"A7"ecA ecA|"G"Bcd "A7"ecA|"A7"ABc "D"d3::
@@ -2129,6 +2291,7 @@ T:Joan of Arc
 % Nottingham Music Database
 S:Hugh Barwell, via Phil Rowe
 M:6/8
+R:Jig
 K:Dm
 "A7"A|"Dm"f2f fed|"A7"e2^c A2A|"Dm"f2f fed|"A7"e2^c A2A|
 "Dm"d2d "D7"d2A|"Gm"B2B B2G|"A7"ABA GFE| [1"Dm"D3 D2:|
@@ -2143,6 +2306,7 @@ T:Joanie's Jig
 % Nottingham Music Database
 S:Bob McQuillen, via Phil Rowe
 M:6/8
+R:Jig
 K:D
 DE|"D"FGF "A"EFE|"D"DA,A, DFG|"D"AFA "G"dcB|"D"A3 -AFA|
 "G"BGB "D"AFA|"A"GEG "D"FGA|"Em"B2A G2F|"E7"FED "A7"EDE|
@@ -2159,6 +2323,7 @@ T:John Brown's Body
 % Nottingham Music Database
 S:Trad, via EF
 M:6/8
+R:Jig
 K:D
 F/2G/2|"D"A2A "A7"A2G|"D"F2A d2e|"D"f2f f2e|"D7"d3 d2A|"G"B2A B2c|"G"d2e d2B|
 "D"A2B "A7"A2G|
@@ -2171,6 +2336,7 @@ T:Johnny MacGill
 % Nottingham Music Database
 S:Athole p 141, via EF
 M:6/8
+R:Jig
 K:F
 |:d|"F"cAA AGF|"F"cAA A2d|"F"cAA "C"AGA|"Dm"FDD "C7"D2d|
 "F"cAA AGF|"F"cAA AGF|"Gm"G3 "A7"AGA|[1"Dm"FDD D2:|[2 "Dm" FDD D3||
@@ -2183,6 +2349,7 @@ T:Jonathan's Jig
 % Nottingham Music Database
 S:Bob McQuillen March 1978, via Phil Rowe
 M:6/8
+R:Jig
 K:D
 de|"D"fgf "A7"ede|"D"f2d AFA|"G"Bcd "A7"e2c|"D"d3 -d2e|"D"fgf "A7"efe|
 "D"d2f afa|"Em"b2a g2f|"A7"e3 -ede|"D"fgf "A"efe|"G"d2B "D"AFA|
@@ -2196,6 +2363,7 @@ T:Jopplety How
 % Nottingham Music Database
 S:Chris Dewhurst 1989, via Phil Rowe
 M:6/8
+R:Jig
 K:G
 "G"gbg "B7"f3|"C"ege "G"d3|"C"cde "G"dBG|"Am"ABc "D7"def|
 "G"gbg "B7"f3|"C"ege "G"d2B|"C"cde "G"dBG|"D"A3 "G"G3::
@@ -2208,6 +2376,7 @@ T:Joy Street Jig
 % Nottingham Music Database
 S:Ralph Page, via Phil Rowe
 M:6/8
+R:Jig
 K:A
 E|"A"A2B c2d|"A"ea2 "D"g2f|"A"e2c cBc|"Bm"d2c "E7"B2E|
 "A"A2B c2d|"A"ea2 "D"g2f |"A"edc "E7"dcB|"A"A3 -A2:: B/2A/2|
@@ -2220,6 +2389,7 @@ T:Joy of the Dance
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:D
 (3A/2B/2c/2|"D"dcd f2e/2f/2|"G"gfg "Em"B2e/2d/2|"A7"cBA g2e|\
 "D"[f3-A3-]"A7"[f2A2]f/2g/2|
@@ -2237,6 +2407,7 @@ T:Julian's Jig
 % Nottingham Music Database
 S:Dennis Salter, via Phil Rowe
 M:6/8
+R:Jig
 K:C
 "C"ceg ceg|"F"a2a a3|"C"gec "Am"cBc|"Dm"d3 "G7"e2d|
 "C"ceg ceg|"F"a2a a3|"C"g2e "G7"fdB|[1"C"c3 "G7"e2d:|[2"C"c3 "E7"B3||
@@ -2250,6 +2421,7 @@ T:Julie's Jig
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:G
 d2c |"G"BGD G2B|d3 -d2c|"G"BGD G2B|d3 -d2c|B2d d^cd|
 "G"edc BAG|"D"Add d^cd|Add d2c|"G"BGD G2B|"G7"d3 -dBG|
@@ -2264,6 +2436,7 @@ T:Julie's Jig
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:G
 d2c |"G"BGD G2B|d3 -d2c|"G"BGD G2B|d3 -d2c|B2d d^cd|
 "G"edc BAG|"D"Add d^cd|Add d2c|"G"BGD G2B|"G7"d3 -dBG|
@@ -2278,6 +2451,7 @@ T:Jump at the Sun
 % Nottingham Music Database
 S:John Kirkpatrick, via EF
 M:6/8
+R:Jig
 K:Gm
 B/2A/2|"Gm"GBd ^c2d|"Gm"GBd ^c2d|"Gm"gdd "Gm/bb"gdd|"Cm"dcB "D7"A2B|
 "Gm"GBd ^c2d|"Gm"GBd ^c2d|"Gm"gdd "Cm"edc|[1"D7"BcA "Gm"G2:|[2"D7" BcA "Gm" G3||
@@ -2291,6 +2465,7 @@ T:Katie's Rambles
 S:Kevin Briggs, via EF
 P:AB
 M:6/8
+R:Jig
 K:D
 P:A
 d/2B/2|"D"A2d "C"=cBA|"D"def "G"gag|"D"fed "A"cBA|"Em"GFG "A7"AFD|
@@ -2305,6 +2480,7 @@ T:Kennet Jig (For Kennet Mixer)
 % Nottingham Music Database
 S:Pauline Wilson, via Phil Rowe
 M:6/8
+R:Jig
 K:G
 |:"G"DGB "Bm"d2B|"Em"e2B "Bm"d2B|"G"DGB "E"dcB|"A7"A3 -"D7"A3|
 "G"DGB "Bm"d2B|"Em"e2B "Bm"d2B|"C"cBc "D7"dBA|"G"G3 -G3::
@@ -2318,6 +2494,7 @@ T:Rakes of Kildare
 P:AAB
 S:EF
 M:6/8
+R:Jig
 K:Am
 P:A
 |:E|"Am"EAA AGA|"Am"Bcd e2^f|"G"g^fg ege|"G"dBG A2E|
@@ -2333,6 +2510,7 @@ T:Kilty Lads
 % Nottingham Music Database
 S:EF
 M:6/8
+R:Jig
 K:Em
 |:B|"Em"E2F G2A|"Em"B2B "D7"B2A|"G"G2B d2B|"D"A2F DEF|
 "Em"E2F G2A|"G"B2B "C"e3| "G"d2B "D"B2A|[1"Em"B2E E2:|[2 B2E E3||
@@ -2347,6 +2525,7 @@ T:La Poule
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:D
 A|"D"Aff "A"ced|"D"A3 -A2B|"D"A2F A2F|"A7"A2G E2A|
 "D"Aff "A"ced|"G"B3 BAG|"D"FAA "A"GEC|"A"E3 "D"D2::
@@ -2362,6 +2541,7 @@ T:Lady in the Boat
 S:EF
 P:AB
 M:6/8
+R:Jig
 K:D
 P:A
 A|"D"dfA d2A|"D"dfA d2f|"D"a2f "Bm"fed|"Em"efe "A7"ecA|
@@ -2377,6 +2557,7 @@ T:Laird O' Cockpen
 S:Jimmy MacKay, via EF
 P:AB
 M:6/8
+R:Jig
 K:C
 P:A
 G|"C"EGG AGG|"C"cGG AGG|"C"EGG Ged|"F"cAA A2G|
@@ -2391,6 +2572,7 @@ T:The Lady Of The Lake
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:G
 A|"G"(B/2c/2)BA G2D|"C"(E/2F/2)ED G2c|"G"(B/2c/2)BA G2A|"G"Bcd "C"edc|
 "G"(B/2c/2B)A G2D|"C"(E/2F/2)ED G2c|"G"Bcd "D7"ABc|"G"BAG G2::
@@ -2403,6 +2585,7 @@ T:Lamb Skinnet
 S:Alistair A, via EF
 P:AB
 M:6/8
+R:Jig
 K:A
 P:A
 e|"A"Ace ecA|"D"d2f f2a|"A"Ace ecA|"E7"G2B B2e|
@@ -2418,6 +2601,7 @@ T:Lannigan's Ball
 S:1000ECDT, via EF
 P:AB
 M:6/8
+R:Jig
 K:Em
 P:A
 D|"Em"EFE G2A|"Em"B2A B^cd|"D"DED F2G|"D"ABA AFD|
@@ -2434,6 +2618,7 @@ S:Trad, via EF
 P:AABAB
 M:6/4
 L:1/4
+R:Jig
 K:D
 P:A
 af|"D"d3 ccd|"G"BG "D/a"A2 "A7"AB/2c/2|\
@@ -2459,6 +2644,7 @@ T:The Lark In The Morning
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:D
 "D"AFA AFA|"G"BGB BdB|"D"AFA Ade|"Bm"fed "G"BdB|
 "D"AFA AFA|"G"BGB BdB|"D"def afe|"Bm"fdB BdB::
@@ -2476,6 +2662,7 @@ T:Larry O'Gaff
 S:Jimmy MacKay, via EF
 P:AB
 M:6/8
+R:Jig
 K:G
 P:A
 (3d/2e/2f/2|"G"g2G BAG|"G"ded dBG|"C"cec "G"BdB|"Am"ABc "D7"def|
@@ -2491,6 +2678,7 @@ T:The Lassie's Fancy
 S:FTB 2/39, via EF
 P:AB
 M:6/8
+R:Jig
 K:D
 P:A
 f|"D"d2A AFA|"D"B2A AFA|"D"d2A AGF|"Em"EFE "A7"ABc|
@@ -2507,6 +2695,7 @@ T:St. Lawrence Jig
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:D
 A|"D"ABA FAd|f2d A2d|"A"c2B G2B|"D"B2A F3|
 ABA FAd|"D"f2d A2d|"A"c2e ABc|"D"d3 -d2::
@@ -2519,6 +2708,7 @@ T:Leaping Jack
 % Nottingham Music Database
 S:John Kirkpatrick, via Phil Rowe
 M:6/8
+R:Jig
 K:A
 E|"A"A2E A2B|cBA e2c|"D"ded "A"c2B|"E7"ABA GFE|
 "A"A2E A2B|"A"cBA e2c|"Bm"ded "E7"c2B|"A"A3 -A2::
@@ -2531,6 +2721,7 @@ T:Lemonville Jig
 % Nottingham Music Database
 S:J.C. Hayes (Canada), via Phil Rowe
 M:6/8
+R:Jig
 K:D
 fg|"D"aba afd|fgf fdA|"G"ded "D"dAF|"Em"G3 -Gef|
 "A"gag gec|efe ecA|"A7"cBA gfe|"D"f3 "A7"f2g|
@@ -2548,6 +2739,7 @@ T:Lesley Dolman's Jig
 S:Lesley Dolman, via EF
 P:AB
 M:6/8
+R:Jig
 K:D
 P:A
 F/2G/2|:"D"AGF f2f|"D"AGF f2f|"D"dcd e2d|"Em"c2e B3| "Em"cde B3|
@@ -2563,6 +2755,7 @@ T:Liberty Bell
 S:Monty Python, via EF
 P:ABC
 M:6/8
+R:Jig
 K:G
 P:A
 |:d/2c/2|"G"B2B B^AB|"G"g2d d2B|"Am"c2c c2d|"Am"e3 e2c|"D"A2A A^GA|
@@ -2573,6 +2766,7 @@ P:B
 "D"f3 "A7"e3|"D7"d3 d2d|
 "C"e2e e^de|"B7"f3 f3|"Em"g2g aga|"B"b3 b2b|"C"a2g e2c|"G"B3 G3|"D7"A3 F3|\
 "G"G3 G2:|
+R:Jig
 K:C
 P:C
 |:G|"C"E3 F3|"C"^F3 G3|"C"e2e e2^d|"C"e3 e2G|"C"E3 F3|"C"^F3 G3|"G"f2f f2e|
@@ -2587,6 +2781,7 @@ T:Life is all Chequered
 S:Jimmy MacKay, via EF
 P:AB
 M:6/8
+R:Jig
 K:G
 P:A
 g|"G"dBB BAG|"G"dBB B2g|"G"dBB "D"BAB|"Em"GEE "D7"E2g|
@@ -2601,6 +2796,7 @@ T:Lindbergh's Crate
 % Nottingham Music Database
 S:Bob McQuillen Jan 1976, via Phil Rowe
 M:6/8
+R:Jig
 K:D
 e|"D"f2f "A7"e2e|"D"ded "A"cBA|"G"Bcd "D"A2f|"D"agf "A7"ede|
 "D"f2f "A7"e2e|"D"ded "A"cBA|"G"Bcd "D"Adf|"A7"edc "D"d2::
@@ -2613,6 +2809,7 @@ T:Road To Lisdoonvarna
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:Em
 "Em"E2B B2A|B2^c d3|"D"F2A ABA|"Bm"D2E FED|"Em"E2B B2A|"G"B2^c d3|
 "A"^cdc "Bm"B2A|"Em"B2E E3:: "Em"e2f gfe|"G"d2B B^cd|"A"^c2A ABc|"Bm"d2B B3|
@@ -2624,6 +2821,7 @@ T:Little Burnt Potato
 % Nottingham Music Database
 S:Lesley Dolman, via EF
 M:6/8
+R:Jig
 K:D
 f/2g/2|"D"a2a "A7"ba^g|"D"a2A d2e|"D"f2f "G"g2f|"Em"e2B Bcd|"Em"e2f e2c|
 "A7"Ace a3|"A7"a^ga ba=g|"D"f3 "A7"f2g|"D"a2a "A7"ba^g|"D"a2A d2e|\
@@ -2639,6 +2837,7 @@ T:Lively Tim
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:A
 |:"E7"e|"A"a2A cBA|ecA cBA|"A"a2A cBA|"Bm"BcA "E"GFE|
 "A"a2A cBA|"A"ecA cBA|"D"fga "Bm"ecA|"E7"dBG "A"A2::
@@ -2651,6 +2850,7 @@ T:On the Trail of the Lonesome Pine
 % Nottingham Music Database
 S:Otto Wood, via EF
 M:6/8
+R:Jig
 K:D
 f/2e/2|"D"d3 A3|"Bm"A2B A2F|"E7"^G3 -G3|e3 ^d2e|"A7"f3 e2c|A3 e3|"D"d3 -"G"d3|\
 "D/f+"d3 "A7/e"f2e|
@@ -2665,6 +2865,7 @@ T:Longthwaite
 % Nottingham Music Database
 S:Chris Dewhurst 1989, via Phil Rowe
 M:6/8
+R:Jig
 K:Am
 "Am"A3 a3|"Em"gee e2d|"C"c2g edc|"G"Bgd -dBG|"Am"A3 "F"a3|"C"gee e2d|\
 "Dm"c2e "E7"dcB| [1"Am"A3 -AcB:|
@@ -2678,6 +2879,7 @@ T:Lost My Love
 S:McCusker Brothers, via EF
 P:AB
 M:6/8
+R:Jig
 K:Am
 P:A
 E|"Am"ABA "G7"AGE|"C"c3 c2d|"C"efe "G7"edc|"C"g3 e2"F"a|
@@ -2693,10 +2895,12 @@ T:Louisburg
 S:EF
 P:AB
 M:6/8
+R:Jig
 K:G
 P:A
 B/2c/2|"G"d2d dBc|"G"d2d dBd|"C"g2g f2e|"G"d3 "G7/f"d2B|
 "C/e"c2e "D7/f+"edc|"G"B2d "Em"G2B|"Am"A2B "D7"cBA|"G"G3 G2:|
+R:Jig
 K:D
 P:B
 F/2G/2|"D"A2d "A7/e"c2e|"D/f+"d2f agf|"Em"e2f "A7"gfe|"D"d2f "A7"afd|
@@ -2708,6 +2912,7 @@ T:Love, Port and Sherry
 S:John Jones, via EF
 P:AB
 M:6/8
+R:Jig
 K:D
 P:A
 A|"D"d3 fed|"A7"cea age|"D"d3 fed|"Em"cdB "A7"ABc|
@@ -2723,6 +2928,7 @@ T:Luck Penny
 P:AABBCC
 S:Micheal Gorman, via EF
 M:6/8
+R:Jig
 K:G
 P:A
 |:G/2A/2|"G"B2G "D7"AGF|"G"DGG "D7"FGA|"G"BAG BdB|"C"cAG "D7"FGA|
@@ -2740,6 +2946,7 @@ T:The Lucky Linslader
 % Nottingham Music Database
 S:Chris Collings, via Phil Rowe
 M:6/8
+R:Jig
 K:C
 G|:"C"E2F ^F2G|e2c c2G|"C"E2G GAG|"Dm"F3 -F2E|"Dm"D2E F2d|"G"c2B B2A|\
 "G"GAG "G7"fed| [1"C"e6:|
@@ -2754,6 +2961,7 @@ T:Maggie's Favourite
 P:AABB
 S:Kevin Briggs, via EF
 M:6/8
+R:Jig
 K:G
 P:A
 |:g|"G"dBG GBd|"C"E2E E2c|"D7"AFD DEF|"G"G2G G2g|
@@ -2771,6 +2979,7 @@ T:Major Mackie
 S:Kevin Briggs, via EF
 P:AB
 M:6/8
+R:Jig
 K:D
 P:A
 A|"D"ABc dcd|"G"B2e e2d|"A7"c2a a^ga|"D"f2d "A7"dcB|
@@ -2785,6 +2994,7 @@ T:Mallorca
 % Nottingham Music Database
 S:Duke of Windsor, via EF
 M:6/8
+R:Jig
 K:G
 d/2c/2|"G"BAB GBd|"C"ece gfe|"G"ded "Em"BGB|"Am"dcB "D7"A2d/2c/2|
 "G"BAB GBd|"C"ece gfe|"G"d/2g3/2B "D7"dcA|"G"G3 -G2:|
@@ -2797,6 +3007,7 @@ T:Manor Gardens
 % Nottingham Music Database
 S:Pauline Wilson, via Phil Rowe
 M:6/8
+R:Jig
 K:G
 "G"G2F G2A|BAG d2d|"C"gfe "G"dcB|"Am"d2c "D7"A2D|
 "G"G2F G2A|"G"BAG d2e|"Am"fed "D7"cBA|"G"G3 G3::
@@ -2809,9 +3020,11 @@ T:Maple Leaf Jig
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:G
 D|"G"B2G G2E|D2B, B,2G|"D"F2A AGF|"G"G2B BGA|"G"B2G "C"G2E|"G"D2B, B,2G|\
 "D"F2A "D7"AGF|"G"G3 -G2:|
+R:Jig
 K:D
 |:F/2G/2|"D"A2A A^GA|BA^G A2d|"A"d2c "A7"c2e|"D"e2d dFG|
 A2A A^GA|"Dd"BA^G "D"A2d|"A"d2c "A7"cBc| [1"D"d3- d2:|[2"D"d3 "D7"=c2||
@@ -2822,6 +3035,7 @@ T:Trip To Margate
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:F
 "F"fcf agf|"C"edc "Bb"b3|"F"agf "C"efg|"F"fcB AGF|
 "F"fcf agf|"C"edc "Bb"b3|"F"agf "C"efg|"F"f3 -f3::
@@ -2835,6 +3049,7 @@ T:Lady Mary Douglas
 P:AABAC
 S:FTB, via EF
 M:6/8
+R:Jig
 K:D
 P:A
 |A/2G/2|"D"FGA A2d|"G"BGB "A7"A2G|"D"FGA Adf|"Em"f3 "A7"e2G|
@@ -2851,6 +3066,7 @@ T:The Matelot
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:D
 A|"D"FED FED|FGA A2A|"G"Bcd "D"AGF|"Em"GEE "A7"E2A|
 "D"FED FED|"D"FGA A2A|"G"Bcd "A"edc|"D"d3 -d2::
@@ -2863,12 +3079,14 @@ T:Mazawattee Tea Break
 % Nottingham Music Database
 S:Derek Pearce, via Phil Rowe
 M:6/8
+R:Jig
 K:F
 "C7"e3 |:"F"faf dfd|"Bb"BdB G2B|"C"AB=B c3|"C7"cd^d e3|
 "F"faf dfd|"Bb"BdB G2B|"C"edc "G7"=Bcd| [1"C"c3 "C7"c2e:|
  [2"C"c3 || |:"C7"AB=B |"F"c2d cAF|"F7"_E3 EFE|"D7"D^FA cBA|
 "Gm"GBd g3|"E7"^G=Bd ^g2g|"A"ae^c A2c|"E7"=B^cd E^F^G| [1"A"A3 :|
  [2"A"A3 -A2A ||
+R:Jig
 K:D
 |:"D"[F2A2d2][FAd][FAd]cB|"A7"[G2A2c2][GAc][G3A3c3]|
 "A7"[G2A2c2][GAc][GAc]BA|"D6"[F2A2B2][FAB][F3A3B3]|
@@ -2882,6 +3100,7 @@ T:Melange
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:A
 B|"A"c3 "D"A2F|"A"EAc e2f|"A"e2c "F#7"f2c|"Bm"def B2c|"E"d3 b2a|
 "E"g2f e2B|"A"c3 -"Ad"cd^d|"E"efe "E7"e^d=d|"A"c3 "D"A2F|"A"EAc e2f|
@@ -2896,6 +3115,7 @@ T:Merry Month of May
 P:AABAC
 S:EF
 M:6/8
+R:Jig
 K:A
 P:A
 |E|"A"A2A AGA|"E"B2c d2e|"D"f2f "A"ecA|"B7"AGA "E7"BGE|
@@ -2912,6 +3132,7 @@ T:Mid-Day Jig
 % Nottingham Music Database
 S:Chris Dewhurst 1979, via Phil Rowe
 M:6/8
+R:Jig
 K:D
 "A7"d2e |"D"f2d Adf|"C"e2=c Gce|"G"d2B GBd|"D"A3 A2B|
 "C"=c2G EGc|"G"B2G DGB|"D"AFD "A"GEC|"D"D3 ::
@@ -2924,6 +3145,7 @@ T:Milford Pavillion
 % Nottingham Music Database
 S:Derek Pearce, via Phil Rowe
 M:6/8
+R:Jig
 K:G
 "D7"d3 |"G"b2b gfe|ded B3|"G"ded "Gd"^cdc|"Am"c3 -c2g|"D7"a2g fga|
 "G"gag d2g|"D7"fga fga|f3 d3|"G"b3 gfe|ded B3|"G"ded "Gd"^cdc|
@@ -2932,13 +3154,17 @@ K:G
 "G"deg bag|"Am"e2e "D7"d2c|"G"B3 -B2f|"Am"e2f "D7"e2f|"G"deg bag|
 "Am"e2f "D7"a2f|"G"d3 g2f|"Am"e2f "D7"e2f|"G"deg bag|"Am"edc "D7"B2A|"G"G3 G3\
 ||
+R:Jig
 K:D
 "D"ABd fed|ABd fed|\
+R:Jig
 K:D
 "D"ABd fed|"A7"f2e e3|efe cBA|
 "A7"efe cBA|efe cBc|"D"B2A A3|\
+R:Jig
 K:D
 "D"ABd fed|ABd fed|
+R:Jig
 K:D
 "D"ABd fed|"A7"f2e e3|efe cBA|"A7"efe cBA|A2A B2c|"D"d3 ||
 
@@ -2949,6 +3175,7 @@ T:Miss Bennet's Jig
 S:Anon, via EF
 P:AB
 M:6/8
+R:Jig
 K:G
 P:A
 d|"G"g2d BdB|"G"G2G GAB|"C"c2B A2G|"Am"GFE "D7"D2d|
@@ -2963,6 +3190,7 @@ T:The Monaghan Jig
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:Em
 c|:"Em"BGE F2E|"Em"BGE "D"FGA|"Em""C"BGE F2E|"D""Bm7"AFD FGA|
 "Em"BGE F2E|"Em"BGE "D"FGA|"G"dcB ABG|"D"FDF AGF::
@@ -2978,6 +3206,7 @@ T:Morecambe Bay
 P:AAB
 S:Pat Shuldam-Shaw, via EF
 M:6/8
+R:Jig
 K:D
 P:A
 |:A|"D"D2D "A7"EDE|"D"F2F "G"GFG|"D"A2d dcd|"Em"edB "A7"AFE|
@@ -2994,6 +3223,7 @@ T:Mo's Peerie Boston
 % Nottingham Music Database
 S:Tom Anderson, via Phil Rowe
 M:6/8
+R:Jig
 K:A
 E|"A"A2A "E"GAB|"A"A2c e2e|"D"f2d A2f|"A"e3 -e2c|"Bm"d2c "E7"Bcd|
 "A"e2c "F#m"A2c|"Bm"B2e G2e|"E7"E3 EFG|"A"A2A "E"GAB|"A"A2c "A7"e2e|\
@@ -3012,6 +3242,7 @@ T:Mrs Casey
 S:Coventry Morris, via EF
 P:AB
 M:6/8
+R:Jig
 K:Em
 P:A
 B/2A/2|"Em"G2E "D7"EFE|"G"D2B, D2D|"C"EFD E2F|"Am"c3 "B7"B2A|
@@ -3028,6 +3259,7 @@ T:Mucking of Geordie's Byre
 S:Kevin Briggs, via EF
 P:AB
 M:6/8
+R:Jig
 K:D
 P:A
 A|"D"ABA AFA|"D"d2e f2a|"G"g2e "D"f2d|"G"e2d Bcd|
@@ -3043,6 +3275,7 @@ T:The Muses
 P:AABBCC
 S:Kevin Briggs, via EF
 M:6/8
+R:Jig
 K:D
 P:A
 |:A/2G/2|"D"FAd FAd|"G"BAB e2d|"A7"cBc ABc|"D"d2f "A7"a2A/2G/2|
@@ -3061,6 +3294,7 @@ T:My Wife's a Wanton Wee Thing
 P:AABB
 S:EF
 M:6/8
+R:Jig
 K:D
 P:A
 |:f/2e/2|"D"d2A BdA|"D"d3 A2B|"C"=cdc cGE|"C"=c3 E2c|
@@ -3076,6 +3310,7 @@ T:Nancy Dawson
 % Nottingham Music Database
 S:EF
 M:6/8
+R:Jig
 K:G
 D|"G"G2G G2B|"G"d2B G2B|"Am"A2B A2G|"Am"A2G "D7"FED|"G"G2G G2B|
 "G"d2B G2B|"Am"A2G F2E|"D"D3 D3|"D"A2B A2B|"D"A2G FED|"G"d2e d2e|
@@ -3087,6 +3322,7 @@ T:Nantwich Fair
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:D
 |:d|"D"d2A A2d|"A"e2A A2e|"D"fgf efd|"A"e3 -e2A|
 "G"B2B BAG|"D"A2A AGF|"G"GAG "D"FED|"A"E3 -E2::
@@ -3099,6 +3335,7 @@ T:The Naughty 'Noochie
 % Nottingham Music Database
 S:Bob McQuillen Feb 1974, via Phil Rowe
 M:6/8
+R:Jig
 K:G
 d|"G"g2g dBd|"G"g2g "D7"d2c|"G"Bcd "D7"cBA|"G"BG2 -G2d|"G"g2g dBd|
 "G"gab "D"a2g|"D"aba "A7"gfe|"D"fd2 -"G7"d2d|"C"e2e "G"d2d|"Am"cdc "G"B2B|\
@@ -3116,14 +3353,17 @@ T:Ninepins
 P:AAB
 S:Trad, via EF
 M:6/8
+R:Jig
 K:D
 P:A
 |:d/2e/2|"D"f2f f2f|"A7"efe "D"d2d|"A7"c2d ecA|"D"d2e fde|
 "D"f2f f2f|"A7"efe "D"def|"G"g2f "Em"e2d|"A7"cBc "D"d2:|
+R:Jig
 K:A
 P:B
 |:c/2d/2|"A"e2e cBA|"D"def "E7"e2e|"A"efe cBA|"D"def "E7"e2e|"A"a2a "E"g2g|
 "D"f2f "A"e2e|"E7"d2d "A"c2c|"E7"BAB "A7"A3|
+R:Jig
 K:D
 "D"a2a a2a|"A7"gag "D"f3|"A7"e2f gec|
 "D"f2g a3|"D"a2a a2a|"A7"gag "D"fga|"G"b2a "Em"g2f|"A7"edc "D"d2:|
@@ -3134,6 +3374,7 @@ T:Workshop Jig
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:C
 "G7"G^F=F |"C"E3 B,3|C3 E3|"C"A2G G2^F|G6|"C"E3 B,3|C2E A2G|"G7"G6|B,6|\
 "G7"D3 ^C3|
@@ -3147,6 +3388,7 @@ T:North Skelton 1, v 1
 % Nottingham Music Database
 S:Trad, via EF
 M:6/8
+R:Jig
 K:C
 "C"ede G2G|"F"A2A "G7"G3|"C"ede G2G|"G7"A2B "C"c3|"C"ede G2G|
 "F"A2A "G7"G3|"C"ede G2G|"F"A2B "G7"c2d|"C"e2c "G"d2B|"Am"c2c "Em"BAG|
@@ -3159,6 +3401,7 @@ T:North Skelton 1, v 2
 % Nottingham Music Database
 S:Trad, via EF
 M:6/8
+R:Jig
 K:C
 "C"edc G2G|"F"A2A "G7"G3|"C"efg G2G|"G7"A2B "C"c3|"C"edc G2G|"F"AcA "G7"Gdg|
 "C"ec'a "C"gec|"F"A2B "G7"c2d|"C"efe "G"dgd|"Am"cdc "Em"BAG|"Am"efe "G"dGd|
@@ -3170,6 +3413,7 @@ T:North Skelton 1, v 3
 % Nottingham Music Database
 S:Trad, via EF
 M:6/8
+R:Jig
 K:C
 "C"ede G2G|"F"Aca "G7"g3|"C"ede gcG|"G7"A2B "C"c3|"C"ede g2G|
 "F"Aca "G7"gab|"C"c'ba "C"gfe|"F"d3 "G7"c2d|"C"e3 "G"d3|"Am"cdc "Em"BAG|
@@ -3182,6 +3426,7 @@ T:North Skelton 2, v 1
 % Nottingham Music Database
 S:Trad, via EF
 M:6/8
+R:Jig
 K:G
 "G"ded B2d|"D7"c2B A2F|"G"GAG G2B|"D7"d3 A3|"G"ded B2g|
 "C"f2e c2e|"G"ded "D7"c2A|"G"G3 G3|"G"B3 BcB|"C"e3 e3|"D7"A3 Ace|
@@ -3193,6 +3438,7 @@ T:North Skelton 2, v 2
 % Nottingham Music Database
 S:Trad, via EF
 M:6/8
+R:Jig
 K:G
 "G"ded gdB|"D7"c2B A2F|"G"G2A B2c|"D7"d3 A3|"G"ded gbg|
 "C"f2e c2e|"G"ded "D7"e2f|"G"g3 G3|"G"BAB Bcd|"C"e3 E3|"D7"ABA ABc|
@@ -3204,6 +3450,7 @@ T:Aux Bois De Norwich or Norwich Woods
 % Nottingham Music Database
 S:Bob McQuillen 19 July 1974, via Phil Rowe
 M:6/8
+R:Jig
 K:G
 Bc|"G"d2B GBc|"G"dge "D7"dBc|"G"d2B GFG|"Am"A2B "D7"cBc|
 "G"d2B GBc|"G"dge dBd|"C"ege "D7"dBA|"G"BGG G::
@@ -3217,6 +3464,7 @@ T:Nutting Girl
 P:AAB
 S:Kevin Briggs, via EF
 M:6/8
+R:Jig
 K:A
 P:A
 |:E|"A"A2c e2e|"E7"e2d B2G|"A"A2B "E7"c2d|"A"e3 e2c|"D"dcd "E7"Bcd|\
@@ -3233,6 +3481,7 @@ T:Off She Goes
 S:Trad, via EF
 P:AB
 M:6/8
+R:Jig
 K:D
 P:A
 A|"D"F2A "G"G2B|"A7"ABc "D"d3|"D"F2A "G"G2B|"D"AFD "A7"E3|"D"F2A "G"G2B|\
@@ -3248,6 +3497,7 @@ T:Oh Dear, What Can The Matter Be
 S:Trad, via EF
 P:ABCDEFGH
 M:6/8
+R:Jig
 K:G
 P:A
 Bc|"G"d3 d3|"G"dBg dBG|"Am"c3 c3|"D7"cAB cBA|"G"d3 d3|"G"dBg dBG|\
@@ -3288,6 +3538,7 @@ T:One For The Pot
 % Nottingham Music Database
 S:Chris Dewhurst 1982, via Phil Rowe
 M:6/8
+R:Jig
 K:Am
 "Am"Acd e2a|"Dm"f2a "Am"e2a|"Dm"def "Am"ecA|"B7"BcA "E7"B3|
 "Am"Acd e2a|"Dm"f2a "Am"e2c|"Dm"def "E"e2^G|"Am"BAA A3::
@@ -3301,6 +3552,7 @@ T:Orange Rogue
 P:LALABA
 S:McCusker Brothers, via EF
 M:6/8
+R:Jig
 K:Em
 P:L
 |B|
@@ -3318,6 +3570,7 @@ T:Orcadian
 S:Kevin Briggs, via EF
 P:AB
 M:6/8
+R:Jig
 K:D
 P:A
 f/2g/2|"D"aba "A7/e"faf|"D/f+"dfd "G"BdB|"D"ABA d2e|"Em"fgf "A"e2f/2g/2|
@@ -3332,6 +3585,7 @@ T:Over The Hills
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:Em
 d/2^c/2|"Em"BGE EDE|BAB d^cB|"D"AFD DED|AFA d^cd|
 "Em"BGE EDE|BAB d^cd|"Em"edB "D"AFD|"Em"EFE E2::
@@ -3347,6 +3601,7 @@ T:Oyster Girl
 S:EF
 P:AB
 M:6/8
+R:Jig
 K:G
 P:A
 B/2c/2|"G"ded B2G|"D7"A2F DEF|"G"G2G BGB|"Am"d2c "D7"A3|
@@ -3362,6 +3617,7 @@ T:Paddy Carey
 S:Join the Band, via EF
 P:AB
 M:6/8
+R:Jig
 K:D
 P:A
 A|"D"d2d dcd|"G"B2d "D"A3|"A7"ABc "D"def|"G"g2e "A7"cBc|
@@ -3377,6 +3633,7 @@ T:Paddy the Dandy
 S:Jimmy MacKay, via EF
 P:AB
 M:6/8
+R:Jig
 K:A
 P:A
 F|"A"EAA cBA|"A"eAA cBA|"D"aga "A"ecA|"Bm"Bdc "E7"BAF|
@@ -3392,6 +3649,7 @@ T:Paddy Whack
 S:EF
 P:AB
 M:6/8
+R:Jig
 K:G
 P:A
 d|"G"GBd gfg|"C"edc "D7"BcA|"G"GBd "A7"efg|"D7"fdd def|
@@ -3406,6 +3664,7 @@ T:Pat's Parlour
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:D
 f/2e/2|"D"dAA A2d|"G"BdB "D"A2A|"D"dcd "Em"efg|"D"fed "A7"eag|
 "D"fAA A2d|"G"BdB "A7"A2g|"D"fed "A7"Adc|"D"d3 -d2::
@@ -3419,6 +3678,7 @@ T:The Perfect Cure
 S:EF
 P:AB
 M:6/8
+R:Jig
 K:D
 P:A
 A/2G/2|"D"FGA D2d|"A7"cde A2G|"D"FGA "E7"D2F|"A7"E3 EAG|
@@ -3434,6 +3694,7 @@ T:Pet of the Pipers
 S:Kevin Briggs, via EF
 P:AB
 M:6/8
+R:Jig
 K:A
 P:A
 E|"A"A2A cBA|"A"ecA aec|"A"A2A cBA|"D"GFE "E7"dcB|
@@ -3449,6 +3710,7 @@ T:Pete's Peerie Boat
 P:AAB
 S:Tommy Anderson, via EF
 M:6/8
+R:Jig
 K:D
 P:A
 |:A|"D"d2D D2D|"Em"EFG "A7"ABc|"D"dcd "E7"Bed|"A7"cAA ABc|
@@ -3465,6 +3727,7 @@ T:Pine Cones
 P:AAB
 S:John Lagden, via EF
 M:6/8
+R:Jig
 K:D
 P:A
 |:A|"D"d2B A2d|"A7"edc "D"d2a|"G"b2a "A7"gfe|"D"f2d "A7"B2A|
@@ -3481,6 +3744,7 @@ T:Piper's Fancy
 S:Kevin Briggs, via EF
 P:AB
 M:6/8
+R:Jig
 K:D
 P:A
 A|"D"dcd d2f|"D"dcd d2f|"A7"ecA Ace|"A7"ecA ABc|
@@ -3495,6 +3759,7 @@ T:Pizza and Apple Pies
 % Nottingham Music Database
 S:Mike Richardson 23.3.89, via Phil Rowe
 M:6/8
+R:Jig
 K:G
 G2A |"G"B2B BAG|"B"A2A AGF|"C"G2G GAB|"G"D3 G2F|"C"E2E EFG|
 "G"D2D DGA|"A"BcB BAG|"D"A3 G2A|"G"B2B BAG|"B"A2A AGF|
@@ -3509,6 +3774,7 @@ T:Platnix
 % Nottingham Music Database
 S:Pauline Wilson, via Phil Rowe
 M:6/8
+R:Jig
 K:G
 "G"d2d d^cd|e2B BAG|"C"E2E "Cm"_E2E|"G"D6|"Am"c2c "D7"cBA|
 "G"B2A G2B|"A7"A2G F2G|"D7"A6|"G"d2d d^cd|e2B BAG|
@@ -3523,6 +3789,7 @@ T:The Pleated Plaidie
 % Nottingham Music Database
 S:Dennis Salter, via Phil Rowe
 M:6/8
+R:Jig
 K:A
 e2d |"A"c2e "E7"B2e|"A"A2A GFE|"D"F2A d2f|"E7"eBc dcB|"A"c2e "E7"B2e|
 "A"Ace a3|"B7"bfb agf|"E7"efe gfe|"A"c2e "E7"B2e|"A"A2A GFE|"D"F2A d2f|
@@ -3538,6 +3805,7 @@ T:Pop Goes the Wheezle
 % Nottingham Music Database
 S:Trad, via EF
 M:6/8
+R:Jig
 K:G
 D|"G"G2B "D7"A2c|"G"BdB "D7"G2D|"G"G2B "D7"ABc|"G"B3 "D7"G2D|"G"G2B "D7"A2c|
 "G"BdB G3|"C"e3 "D7"A2c|"G"B3 G3|"Em"g2f e2g|"D"faf d3|
@@ -3550,6 +3818,7 @@ T:Portland Fancy
 P:ABCD
 S:FTB 2/48, via EF
 M:6/8
+R:Jig
 K:A
 P:A
 E|"A"E2A E2A|"A"EAB c2c|"D"dcd "E7"Bcd|"A"e2c "D"BAF|
@@ -3557,9 +3826,11 @@ E|"A"E2A E2A|"A"EAB c2c|"D"dcd "E7"Bcd|"A"e2c "D"BAF|
 P:B
 "A"a3 "D"agf|"A"ecf e3|"E7"dBe d3|"A"cde "D"f2e|"A"a3 "D"agf|
 "A"ecf e3|"E7"edB EFG|"A"AEc AFG|\
+R:Jig
 K:D
 P:C
 "D"ABc d2e|"D"f2g a3|"A7"efg AB/2c/2d/2e/2|"D"f2d "A7"AFG|
+R:Jig
 K:D
 "D"ABc d2e|"D"f2g a3|"A7"efg ABc|"D"d3 -d3|
 P:D
@@ -3572,6 +3843,7 @@ T:Princess Margaret
 % Nottingham Music Database
 S:Otto Wood, via EF
 M:6/8
+R:Jig
 K:G
 D|"G"G2A BAG|"D7"F2A c2e|"G"d2B gfg|"D"baf d2d|"C"e2c gfe|
 "G"d2g B2d|"Am/c"c2B "A7/c+"A2G|"D7"F2A d2D|"G"G2A BAG|"D7"F2A c2e|"G"d2B gfg|
@@ -3586,6 +3858,7 @@ T:Quaker's Wife
 % Nottingham Music Database
 S:Sam Sherry via Marlene
 M:6/8
+R:Jig
 K:G
 d|"G"gab d2b|"C"c'ba "D"bge|"G"gab "Em"deg|"D"aba a2d|
 "G"gab d2b|"C"c'ba "D"bge|"G"gab "D"d2e|"G"gdB G2:|
@@ -3601,6 +3874,7 @@ T:The Quaker's Wife
 S:EF
 P:AB
 M:6/8
+R:Jig
 K:D
 P:A
 A|"D"def A2f|"G"g2f "A7"e2A|"D"def A2A|"G"B3 "A7"d2A|
@@ -3615,16 +3889,20 @@ T:Queen Victoria
 % Nottingham Music Database
 S:Otto Wood, via EF
 M:6/8
+R:Jig
 K:A
 c/2d/2|"A"e2d cea|"D"g2f "A"e3|"F#m"cfe "Bm"d3|"E7"Bed "A"c2d|"A"e2d cea|
 "D"g2f "A"e3|"Bm"fBc "E7"dBe|"A"A3 -Aef|\
+R:Jig
 K:E
 "E"geg b2a|"E"gef g2b|
 "B7"b2f fga|"E"g2f "B7"eBe|"E"geg b2a|"E"gef g2b|"B7"b2f fgf|
 "E"e3 -ede|\
+R:Jig
 K:A
 "A"e2d cea|"D"g2f "A"e3|"F#m"cfe "Bm"d3|"E7"Bed "A"c2d|"A"e2d cea|
 "D"g2f "A"e3|"Bm"fBc "E7"dBe|"A"A3 -Ade|\
+R:Jig
 K:D
 "D"fAd f2a|"Em"g2f e3|"A7"ace a2b|
 "D"a2g "A7"f3|"D"fAd f2a|"G"gfg b3|"D"agf "A7"eBc|"D"d3 -d2||
@@ -3635,6 +3913,7 @@ T:Queen's Fancy
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:D
 "D"d2f a2f|"G"b2g "D"afd|"Bm"def "Em"g2e|"D"fed "A7"cBA|"G"B2d "D"A2d|\
 "G"G2d "D"F2d|"E7"E2d "A7"cde|"D"d3 -d3::
@@ -3647,6 +3926,7 @@ T:The Railway
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:G
 D|"G"G2G GBd|g2d d2d|"Am"e2d c2B|"D7"ABG FED|
 "G"G2G GBd|"G"g2d d2d|"C"edc "G"BAG|"D7"A3 "G"G2::
@@ -3659,6 +3939,7 @@ T:Rake Maker's Jig
 % Nottingham Music Database
 S:Brian Jenkins, via Phil Rowe
 M:6/8
+R:Jig
 K:G
 dc|"G"B2B B^AB|D3 -DGB|"G"deB deB|"Am"c3 -ccB|A2A A^GA|
 "D"F2F F2E|"D7"DFA de^A|"G"B3 -"D7"Bdc|"G"B2B B^AB|D3 -DGA|"G"B2B "G7"Bcd|
@@ -3673,6 +3954,7 @@ T:Ralph Page Jig
 % Nottingham Music Database
 S:Ken Hillyer, via Phil Rowe
 M:6/8
+R:Jig
 K:D
 "D"d3 "A"ABc|"D"d3 "A"ABc|"D"d2c d2f|a3 -agf|"G"g3 -gfe|"D"f3 -fed|\
 "Em"e2g "A7"ABc|"D"d3 d3::
@@ -3686,6 +3968,7 @@ T:Ran-Tan
 P:AABBCC
 S:Whitby 1989, via EF
 M:6/8
+R:Jig
 K:A
 P:A
 |:e|"A"agf "E7"efg|"A"aga f2e|"D"fed "A"cde|"E7"dcB c2A|
@@ -3693,6 +3976,7 @@ P:A
 P:B
 |:B|"A"c2c ABc|"E"c2B -B2c|"D"d2d Bcd|"A"f2e -"E7"e2d|
 "A"c2c ABc|"E7"c2B -B2e|"E7"efe dcB|"A"A3 -A2:|
+R:Jig
 K:Am
 P:C
 |:e|"Am"edc Bcd|"Dm"f2e -"Am"e2e|"Am"e2c d2c|"E7"cB2 B2d|
@@ -3705,6 +3989,7 @@ T:Rattlebones
 S:Upton, via EF
 P:AB
 M:6/8
+R:Jig
 K:G
 P:A
 d/2d/2|"G"dBB BAG|"D"AGA "Em"BGE|"G"DGG GBd|"C"edB "D"Add|
@@ -3720,6 +4005,7 @@ T:Red Cigar
 S:Ralph Page, via EF
 P:AB
 M:6/8
+R:Jig
 K:G
 P:A
 D|"G"GFG "D7/a"BAG|"G/b"dBd "C"g3|"G"d2e "Em"dcB|"A7"ABG "D7"FED|
@@ -3734,6 +4020,7 @@ T:Red Leciester
 % Nottingham Music Database
 S:Chris Dewhurst 1980, via Phil Rowe
 M:6/8
+R:Jig
 K:D
 "(A7)"F2G |"D"A3/2B/2A f2a|A3/2B/2A F2A|"D"f3/2e/2d faf|"Em"e3 e2f|\
 "A"g3/2a/2g e2g|
@@ -3751,6 +4038,7 @@ T:Red Stocking
 S:Kevin Briggs, via EF
 P:AB
 M:6/8
+R:Jig
 K:G
 P:A
 (3D/2E/2F/2|"G"GBA G2B|"G"def "D7"gdB|"G"GBA G2B|"D7"AFD AFD|
@@ -3766,6 +4054,7 @@ T:Red Stocking
 S:Sam Sherry via Marlene
 P:ABC
 M:6/8
+R:Jig
 K:G
 P:A
 |:d|"Em"gaa bge|"Em"gaa bge|"D"dBA ABA|"D"dBA Add|
@@ -3783,6 +4072,7 @@ T:Reg's Cigar
 % Nottingham Music Database
 S:Ralph Page, via Phil Rowe
 M:6/8
+R:Jig
 K:G
 D|"G"GFG BAG|dBd g3|"D"d2e "G"dcB|"A7"ABG "D"FED|
 "G"GFG BAG|"G"dBd "Em"g3|"Am"d2e dcB|"D7"AGF "G"G2::
@@ -3796,6 +4086,7 @@ T:Stool of Repentance
 S:KCC p20, via EF
 P:AB
 M:6/8
+R:Jig
 K:G
 P:A
 d|:"G"g2d B2d|"C"gfe "G"dcB|"C"gee e2d|"C"ege "D7"e2d|
@@ -3810,6 +4101,7 @@ T:The Rocking Horse
 % Nottingham Music Database
 S:Chris Dewhurst 1978, via Phil Rowe
 M:6/8
+R:Jig
 K:C
 "G7"E2D |"C"C2c "F"ABc|"C"GAG GFE|"F"F2A "C"GFE|"Dm"FEF "G"DED|
 "C"C2c "F"ABc|"C"GAG "Am"GFE|"Dm"DEF "G"GAB|"C"c3 :|
@@ -3823,6 +4115,7 @@ T:Roddy Miller's Jig
 % Nottingham Music Database
 S:Bob McQuillen March 1977, via Phil Rowe
 M:6/8
+R:Jig
 K:G
 B|"G"d2B d2B|ded BAG|"A7"ABA G2E|"D7"D3 -D2B|"G"d2B d2B|
 "G"ded BAG|"Em"EFG A2B|"A7"A3 -"D7"A2B|"G"d2B d2B|ded BAG|"D"ABA "C"G2E|
@@ -3838,6 +4131,7 @@ T:The Rogue's March
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:G
 "G"B2B Bcd|"C"e2e e3|"G"d2d -d2e|"D"d2c B2A|"G"B2B Bcd|"C"e2e e3|"G"def gdB|\
 "D7"A3 "G"G3::
@@ -3850,6 +4144,7 @@ T:The Rollicking Irishman
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:D
 A|"D"dAF DFA|"D"ded "A"cBA|"Em"dcd "A"efg|"D"fdf "A"ecA|
 "D"dAF DFA|"D"ded "A"cBA|"Em"dcd "A"efg|"D"fdd d2::
@@ -3862,12 +4157,15 @@ T:Rolling Off A Log
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:C
 ce|"C"g2^f "F"a2=f|"C"gec cBc|"G7"dBG GAB|"C"cd^d ef^f|
 "C"g2^f "F"a2=f|"C"gec cBc|"G7"dBG GAB| [1"C"cge c:|
  [2"C"c2zc2z||
+R:Jig
 K:G
 |:"G"Bdg gfg|Bdg gfg|"D"fga agf|"D"age d^c=c|
+R:Jig
 K:G
 "G"Bdg gfg|Bdg gfg|"D"fga agf| [1"G"g2z"D7"edc:|[2"G"g3 g||
 
@@ -3877,6 +4175,7 @@ T:Rory O'More
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:A
 "A"eAA cAA|"A"eAA "D"f3|"A"edc cBA|"E"G2B Bcd|
 "A"eAA cAA|"A"ece "D"fed|"E"cee efg|"A"aec A3::
@@ -3890,6 +4189,7 @@ T:Rosin The Beau
 S:EF
 P:AB
 M:6/8
+R:Jig
 K:G
 P:A
 D|"G"G2G BAG|"G"d3 "C"efg|"G"dBG GAB|"Em"E3 "D7"E2D|
@@ -3904,6 +4204,7 @@ T:Rushwick
 % Nottingham Music Database
 S:Pauline Wilson, via Phil Rowe
 M:6/8
+R:Jig
 K:G
 "G"G2F G2A|B2A B2c|"G"ded BAG|"D7"A6|A2^G A2B|"D7"A2F D2B|
 "A7"ABA EFG|"D7"F6|"G"G2F G2A|B2A B2c|"G7"ded BAG|
@@ -3918,6 +4219,7 @@ T:Saddle The Pony
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:G
 "G"GBA G2B|"D7"def "G"gdB|GBA G2B|"D7"AFD AFD|
 "G"GBA G2B|"D7"def "Em"gfg|"C"ege "D7"dBA|"G"BGG G3::
@@ -3931,6 +4233,7 @@ T:Sailor's Wife
 S:EF
 P:AB
 M:6/8
+R:Jig
 K:Dm
 P:A
 F/2E/2|"Dm"DEF E2D|"Dm"d2e f2g|"F"agf "C/e"edc|"F"AcA "C/e"GEC|
@@ -3945,6 +4248,7 @@ T:Sally Hunter
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:D
 A|"D"DFA d2A|"G"B2A "D"d2A|"G"Bcd "Em"egf|"A7"efd cBA|
 "D"DFA d2A|"G"B2A Bcd|"Em"egf "A7"edc|"D"d3 -d2:|
@@ -3959,6 +4263,7 @@ T:A Pinch Of Saltire
 % Nottingham Music Database
 S:Dennis Salter, via Phil Rowe
 M:6/8
+R:Jig
 K:A
 e|"A"A2A ABc|"Bm"dB2 "E7"e2d|"A"c2A AGA|"C"=GEE "E7"^GEE|
 "A"A2A ABc|"Bm"dfe "E7"B2d|"A"cBA "G"B=G2|"A"A3 -A2:|
@@ -3972,6 +4277,7 @@ T:Colonel Sanders' March
 % Nottingham Music Database
 S:Bob McQuillen April 1976, via Phil Rowe
 M:6/8
+R:Jig
 K:G
 D|"G"G2G "D7"AGF|"G"G2B "D7"G2A|"G"B2B "D7"cBA|"G"B2c "D7"BBc|"G"d2g "D7"dBc|
 "G"d2g "D7"d2c|"G"BAG GFG|"D7"A2F DEF|"G"G2G "D7"AGF|"G"G2B "D7"G2A|\
@@ -3987,6 +4293,7 @@ T:Sarah's Jig
 % Nottingham Music Database
 S:Bob McQuillan, via Phil Rowe
 M:6/8
+R:Jig
 K:D
 "D"DEF "A"EFG|"D"F2D DFG|"D"AFA "G"B2c|"D"d3 -d2A|"G"Bcd dcB|
 "D"A2d AFG|"D"A2d "Bm"AGF|"Em"E2F "A7"GFE|"D"DEF "A"EFG|"D"F2D DFG|
@@ -4001,6 +4308,7 @@ T:Scollys
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:D
 A|"D"dfe d2A|"D"dfe d2A|"D"d2A d2f|a6|"G"gfg bag|
 "D"fed A2f|"Em"efe dcB|"A7"ABA GFE|"D"dfe d2A|"D"dfe d2A|
@@ -4016,6 +4324,7 @@ T:Scotsbroome Jig
 % Nottingham Music Database
 S:Mike Richardson 16.12.89, via Phil Rowe
 M:6/8
+R:Jig
 K:D
 A3 |"D"d2e fed|"G"BGB "D"A2A|"D"d2e "Bm"fga|"Em"agf "A"e2=f|
 "D"fed AFA|"G"BGB "D"A2A|"D"d2d "A"edc|"D"d3 ::
@@ -4029,6 +4338,7 @@ T:Scottish Reform
 P:AAB
 S:Kevin Briggs, via EF
 M:6/8
+R:Jig
 K:D
 P:A
 |:F/2G/2|"D"ABA AFA|"D"d2d "G"dcB|"D"ABA "Bm"AGF|"Em"EGF "A7"EFG|
@@ -4045,6 +4355,7 @@ T:Scrabble On Sunday ?
 % Nottingham Music Database
 S:John Goodacre 1984, via Phil Rowe
 M:6/8
+R:Jig
 K:Em
 "Em"E2G E2G|"Em"BAG "D"FGA|"Em"E2G E2G|"Em"BAF "G"G3|
 "C"E2G E2G|"Bm"BAG FGA|"D"FAF "Em"EGE|"Bm"F2D "Em"E3::
@@ -4057,6 +4368,7 @@ T:Northern Hospitality Jig or Seamus Plagiarism
 % Nottingham Music Database
 S:Mike Richardson 16.12.89, via Phil Rowe
 M:6/8
+R:Jig
 K:C
 "C"cGE FED|"C"CEC "G"DB,G,|"C"CEG "Am"ceg|"Dm"fdc "G"BAB|
 "C"cGE FED|"C"CEC "G"DB,G,|"C"CEG ceg|"G"fdB "C"c3::
@@ -4070,6 +4382,7 @@ T:I Do Like To Be Beside The Seaside
 % Nottingham Music Database
 S:Toby Bennett, via EF
 M:6/8
+R:Jig
 K:C
 g2^g |"C"a3 g2e|"C"d2c B2c|"G7"g3 g3|"G7"g3 g2^g|"C"a3 g2e|"C"d2c B2c|"F"a3 a3\
 |
@@ -4087,6 +4400,7 @@ T:The Self
 P:AABA
 S:FTB 1/41, via EF
 M:6/8
+R:Jig
 K:G
 P:A
 |:B/2c/2|"G"d^cd BGB|"D7"cBc AFD|"G"DGG "D7"FGA|"G"BGB "D7"ABc|
@@ -4101,6 +4415,7 @@ T:Seven Stars
 % Nottingham Music Database
 S:Thomas Hardy Collection via Yetties, via Phil Rowe
 M:6/8
+R:Jig
 K:D
 "D"d2A A2F|"G"GAB "D"A3|"G"Bcd "A"efg|"D"fed "A"cBA|
 "D"d2A A2F|"G"GAB "D"A3|"G"Bcd "Em"efg| [1"A"Adc "D"d3:|[2"A"Adc "D"d2||
@@ -4113,6 +4428,7 @@ T:Sgiandubh
 % Nottingham Music Database
 S:Ms L Dolman, via EF
 M:6/8
+R:Jig
 K:Em
 G/2F/2|"Em"E2e e2B|"G"dBd "D"AFD|"Em"E2e e2B|"C"efg "Bm7"f2e|
 "Em"E2e e2B|"G"dBd "D"AFD|"G"G3 "B7"A3|"Em"BGE E2
@@ -4127,6 +4443,7 @@ T:Shafters Shindig
 % Nottingham Music Database
 S:Chris Dewhurst 1979, via Phil Rowe
 M:6/8
+R:Jig
 K:A
 "(E7)"e2d |"A"cec A2c|"E"BdB G2B|"A"Ace "D"agf|"A"e3 "E"e2d|"A"cec A2c|
 "E"BeB G2A|"F#m"B2B "B7"AGF|"E"E3 "E7"e2d|"A"cec A2c|"E"BdB G2B|"A"Ace "D"agf|
@@ -4141,6 +4458,7 @@ T:Shafters Shindig
 % Nottingham Music Database
 S:Chris Dewhurst 1979, via Phil Rowe
 M:6/8
+R:Jig
 K:A
 "(E7)"e2d |"A"cec A2c|"E"BdB G2B|"A"Ace "D"agf|"A"e3 "E"e2d|"A"cec A2c|
 "E"BeB G2A|"F#m"B2B "B7"AGF|"E"E3 "E7"e2d|"A"cec A2c|"E"BdB G2B|"A"Ace "D"agf|
@@ -4156,6 +4474,7 @@ T:Shandon Bells
 S:Kevin Briggs, via EF
 P:AB
 M:6/8
+R:Jig
 K:D
 P:A
 B|"D"AFD DFA|"D"ded "A"cBA|"Em"BGE EGA|"Em"B2A "A7"Bcd|
@@ -4171,6 +4490,7 @@ T:Shane's Fancy
 S:NPTB, via EF
 P:AB
 M:6/8
+R:Jig
 K:G
 P:A
 d|"G"G2G d2d|"C"efg "D7"f2(3d/2e/2f/2|"G"g2g "C"c2e|"G"dBG "D7"FED|
@@ -4186,6 +4506,7 @@ T:Sheards of Foula
 S:Peter Kennedy, via EF
 P:AB
 M:6/8
+R:Jig
 K:G
 P:A
 D|"G"G2G G2B|"C"edB "D"A2B|"Em"G2G G2A|"Em"BAG "D7"E2D|
@@ -4200,6 +4521,7 @@ T:The Old Horned Sheep or The Humours Of Donnybrook
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:G
 (3d/2e/2f/2|"G"g2G GFG|"C"EGG "G"DGG|"G"g2G GFG|"A7"EAG "D7"FED|
 "G"g2G GFG|"C"EGG "G"DGG|"C"EGG "D7"FGA| [1"G"BGG G2:|
@@ -4212,6 +4534,7 @@ T:Shetland Boston
 % Nottingham Music Database
 S:Geoff Bocking, via EF
 M:6/8
+R:Jig
 K:D
 f/2g/2|"D"aba "A7/e"a2f|"D/f+"ded "G"d2B|"D"ABA A2F|"Em"A3 "A7"Afg|\
 "D"aba "A7/e"a2f|
@@ -4227,6 +4550,7 @@ T:New Rigged Ship
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:D
 A|"D"dcd d2f|dcd d2f|"A"ecA Ace|ecA ABc|
 "D"dcd d2f|"D"dcd "A"ecA|"G"Bcd "A7"edc|"D"d3 -d2::
@@ -4239,6 +4563,7 @@ T:Silver Roses For June
 % Nottingham Music Database
 S:Chris Dewhurst 1983, via Phil Rowe
 M:6/8
+R:Jig
 K:D
 "A7"d2e |"D"fed A2d|"G"B2d "D"A2d|"G"Bcd "D"Ade|"E7"faf "A"e3|
 "D"fed A2d|"G"B2d "D"A2d|"Em"B2d "A7"cde|"D"d3 ::
@@ -4252,6 +4577,7 @@ T:Sir Watkin's Jigg
 S:Johnson 1750 (John Lagden), via EF
 P:AB
 M:6/8
+R:Jig
 K:G
 P:A
 d|"C"efg "D"afd|"Em"g3 "Bm"d3|"C"ecc "G"dBB|"D"cAA "G"G3|
@@ -4269,6 +4595,7 @@ T:Slashers
 S:FTB, via EF
 P:AB
 M:6/8
+R:Jig
 K:D
 P:A
 A|"D"ded dAF|"Em"ABA "A7"ABc|"D"ded dAF|"Em"Eee "A7"e2f|
@@ -4284,6 +4611,7 @@ T:Smash the Windows
 P:AAB
 S:EF
 M:6/8
+R:Jig
 K:D
 P:A
 |:A|"D"DED F2A|"D"d2f "A"ecA|"G"G2B "D/f+"F2A|"Em"E2F "A7"GFE|
@@ -4301,6 +4629,7 @@ T:Soldiers Dance
 S:Kevin Briggs, via EF
 P:AB
 M:6/8
+R:Jig
 K:A
 P:A
 E|"A"A2A AGA|"E7"B2B e2c|"A"A2A AGA|"Bm"GBG "E7"EFG|
@@ -4315,6 +4644,7 @@ T:Solomon Levi
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:C
 E2F |"C"G2G G2G|G2G G2G|"F"A2A A2A|A3 -A2A|"G"B2B B2B|B2B B2A| [1"C"A2G G2A|G3 :|
 [2"G"G2G A2B|"C"c3 -c3||"E7"e3 Bcd|"Am"c3 A3|"E7"efe dcB|"Am"A6|"D7"d3 ABc|
@@ -4327,6 +4657,7 @@ T:The Spaceman
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:G
 D|"G"d2^c d2B|"D7"c2B c2A|"G"B2^A B2G|"D"A2F D2D|"C"E2G
 %P:3
@@ -4345,6 +4676,7 @@ T:Spencefield Lane
 % Nottingham Music Database
 S:Chris Dewhurst 1980, via Phil Rowe
 M:6/8
+R:Jig
 K:Am
 E|"Am"e2d cBc|A2E A^GA|"E"B2E B^GB|efe dcB|
 "Am"A2B cBc|"Dm"d2e g2f|"Am"e2A "E"AB^G|"Am"A3 -A2::
@@ -4357,6 +4689,7 @@ T:Spider Island
 % Nottingham Music Database
 S:JP/AFJC Jerry Robichaud, via EF
 M:6/8
+R:Jig
 K:D
 F/2G/2|"D"ABA FAd|"D"f2d "A7"AFG|"D"ABA FAd|"A"c3 cAB|"A"c2c cBA|
 "Em"g2g gfe|"A7"c2c cBA|"D"f3 "A7"fFG|"D"ABA FAd|"D"f2d "A7"AFG|
@@ -4373,6 +4706,7 @@ T:Sprig of Shillelah
 S:KCC p21, via EF
 P:AB
 M:6/8
+R:Jig
 K:G
 P:A
 D|"G"DGG GFG|"D7"AcB AGF|"G"Gdd "G7"dcB|"C"AcB "D7"AGF|"G"GAB "C"EFG|\
@@ -4387,6 +4721,7 @@ T:Come Up The Back Stairs
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:G
 D|"G"D2B B2A|AGF G2d|"D"d2F FEF|"G"A2G GFE|
 D2B B2A|"G"AGF G2d|"D"d2F FEF|"G"G3 -G2::
@@ -4400,6 +4735,7 @@ T:Starry Night for a Ramble
 P:AABA
 S:EF
 M:6/8
+R:Jig
 K:D
 P:A
 |g| "D"f2d A2F|"G"G3 B2B|"D"A2d "E7"c2d|"A7"e3 efg|
@@ -4415,6 +4751,7 @@ T:Steamboat Quickstep
 S:Lesley Dolman, via EF
 P:AB
 M:6/8
+R:Jig
 K:A
 P:A
 e|"A"a2e c2A|"A"Ace a3|"D"agf "A"edc|"Bm"Bcd "E7"cBA|
@@ -4429,6 +4766,7 @@ T:The Stone Court
 % Nottingham Music Database
 S:RSCDS 23, via EF
 M:6/8
+R:Jig
 K:D
 A|"D"d2d "A7"edc|"D"d2A F2A|"D"d2d "A7"edc|"D"d3 d2d|"A7"e2A ABA|
 "D"f2A ABA|"A"c2e "E7"B2e|"A7"A3 ABc|"D"d2d "A7"edc|"D"d2A F2A|
@@ -4444,6 +4782,7 @@ T:Stratfield Saye
 % Nottingham Music Database
 S:Pauline Wilson, via Phil Rowe
 M:6/8
+R:Jig
 K:G
 "G"g2d e2B|"D7"d2G AGA|"G"B3 d3-|"D7"d6|"G"g2d e2B|"G"d2G AGF|"Em"E6|e6|
 "Am"a2e f2c|"Em"e2A BAB|"Am"c3 e3-|e3 c2B|"A7"A2B ^c2e|a2f efe|"D7"d6-|d6||
@@ -4457,6 +4796,7 @@ T:Summer Lightning
 % Nottingham Music Database
 S:John Goodacre 1984, via Phil Rowe
 M:6/8
+R:Jig
 K:D
 "A7"F2E F2G|"D"A2G F3|"A7"F2E F2G|"Em"E3 -"A7"E3|"A7"F2E F2G|"D"A2G F3|\
 "A7"EGE C2E|"D"D3 -D3::
@@ -4470,6 +4810,7 @@ T:Swallowtail
 S:EF
 P:AB
 M:6/8
+R:Jig
 K:Em
 P:A
 E/2F/2|"Em"GEE BEE|"Em"GEE BAG|"D"FDD ADD|"D"d^cd AGF|
@@ -4485,6 +4826,7 @@ T:Sweets of May
 P:AABBCC
 S:Kevin Briggs, via EF
 M:6/8
+R:Jig
 K:G
 P:A
 |:d/2c/2|"G"B2G "D7"AFD|"G"GAG "D7"Gdc|"G"B2G GAB|"C"cBc "D7"d2c|
@@ -4502,6 +4844,7 @@ T:Swimming In The Gutter
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:Gm
 (3A/2B/2^c/2|:"Dm"d3 AFA|d3 AFA|"Dm"d^cd fed|"Gm"eba "A7"gfe|
 "Dm"d3 AFA|d3 AFA|"Gm"def "A7"gag| [1"Dm"fdd d3:|[2"Dm"fdd "C7"dcB||
@@ -4514,6 +4857,7 @@ T:Swine Jig
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:G
 dc|"G"B2d GAB|"C"c2e "D7"ABc|"G"B2d BAG|"D7"A3 -Adc|
 "G"B2d GAB|"C"c2e gfe|"A7"e2d ^cde|"D"d3 -d::
@@ -4526,6 +4870,7 @@ T:The Sylph
 % Nottingham Music Database
 S:FTB, via EF
 M:6/8
+R:Jig
 K:D
 B|"D"AFA dfa|"D"agf "A7"e2g|"D"fag fed|"A7"cde e2A|
 "D"AFA dfa|"D"agf "A7"efg|"D"fad "A7"eac|"D"ded d2:|
@@ -4539,6 +4884,7 @@ T:Tam's Hunting Horn
 S:AA, via EF
 P:AB
 M:6/8
+R:Jig
 K:C
 P:A
 |:(3G/2G/2G/2|"C"ceG ceG|"C"c2e g2g|"F"a2a "C"g2e|"Dm"d3 -d2G|
@@ -4554,6 +4900,7 @@ T:Down the Tannoch Road
 S:AA, via EF
 P:AB
 M:6/8
+R:Jig
 K:D
 P:A
 d|"D"AFG A2d|"G"c2B B2B|"A7"BEF G2c|"D"B2A "A7"A2A|
@@ -4568,6 +4915,7 @@ T:Scarce O' Tatties
 % Nottingham Music Database
 S:MacLeod, via Phil Rowe
 M:6/8
+R:Jig
 K:Am
 "Am"Aee efg|"Em"edB dBG|"Am"Aee efg|"Em"edB "Am"A3|
 "Am"aAA "G"gAA|"F#m"fAA "Em"eAA|"Am"Aee efg|"Em"edB "Am"A3::
@@ -4581,6 +4929,7 @@ T:Tenpenny Bit
 S:EF
 P:AB
 M:6/8
+R:Jig
 K:Am
 P:A
 c/2d/2|"Am"eAA eAA|"G"BAB GBd|"Am"eAA eAA|"G"de^f gfg|
@@ -4595,6 +4944,7 @@ T:Terry Teehan's
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:D
 "Em"e3 B2A|GFE B2E|"D"FED A2A|d2D A2D|"Em"e3 B2A|GFE B2E|"D"FED F2A|"Em"F2E E3\
 :|
@@ -4609,6 +4959,7 @@ T:Teviot Bridge
 P:AAB
 S:Athole p 134, via EF
 M:6/8
+R:Jig
 K:A
 P:A
 |:f|"A"ecA E2A|"D"F2A "A"E2A|"A"EFE E2c|"Bm"d2c "E7"B2f|
@@ -4626,6 +4977,7 @@ T:The Wonder
 S:Jimmy MacKay, via EF
 P:AB
 M:6/8
+R:Jig
 K:A
 P:A
 E|"A"AAA cAA|"D"dBB "A"cAa|"A"efe edc|"Bm"cBB "E7"B2E|
@@ -4641,6 +4993,7 @@ T:Thursday Night
 S:EF
 P:AB
 M:6/8
+R:Jig
 K:A
 P:A
 E|"A"A2E A2c|"A"e2e ece|"D"fga "A/c+"e2c|"Bm"e3 "E"efg|
@@ -4655,6 +5008,7 @@ T:Tobin's Favourite
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:D
 FE|"D"D3/2F/2A d3/2c/2d|"A7"e3/2c/2A c3/2d/2e|"D"f3/2e/2f "G"g3/2f/2g|\
 "A"e3/2c/2A "A7"G3/2F/2E|
@@ -4671,6 +5025,7 @@ T:Tripping Upstairs
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:D
 A|:"D"FAA "G"GBB|"D"FAd fed|"A7"cBc ABc|"D"dfe "G"dcB|
 "D"FAA "G"GBB|"D"FAd fed|"A7"cBc ABc|"D"dfe d3::
@@ -4683,6 +5038,7 @@ T:Turnpike Side
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:D
 A|"D"d2d "A"c2A|"G"BdB "D"AGF|"G"G2e "D"F2d|"Em"E2d "A"cBc|
 "D"d2d "A"c2A|"G"BdB "D"AGF|"Em"G2e "D"F2d|"A"cBc "D"d2::
@@ -4695,6 +5051,7 @@ T:Wakefield Hunt
 % Nottingham Music Database
 S:Thompson 1779, via Phil Rowe
 M:6/8
+R:Jig
 K:G
 B2c |:"G"d3 B2c|dBG E2D|"C"EFG "G"D2B|"Am"c2B "D7"A2G|
 "G"d3 B2c|dBG E2D|"C"EFG "G"D2c|"D7"BcA "G"G3::
@@ -4709,6 +5066,7 @@ T:Walking To Heel
 % Nottingham Music Database
 S:John Goodacre 1985, via Phil Rowe
 M:6/8
+R:Jig
 K:D
 "D"d2A -"A7"A2F-|"D"F2E D3|"D"DEF "A7"E2D|"D"DEF "A7"E2B/2c/2|"D"d2A -"A7"A2F-\
 |"D"F2E D3|"Em"EFG "A7"F2E|"D"D3 D3::
@@ -4721,6 +5079,7 @@ T:The Wandle
 % Nottingham Music Database
 S:Pauline Wilson, via Phil Rowe
 M:6/8
+R:Jig
 K:G
 "G"d2B "Em"e2B||"G"ded BGE|D6|"Am"c2A "D"d2B|"Am"c2A "D"d2B|"A7"A^GA B2^c|\
 "D7"d6|
@@ -4738,6 +5097,7 @@ T:Jig from the Water Music
 P:AABBCCDD
 S:G F Handel, via EF
 M:6/8
+R:Jig
 K:G
 P:A
 |:D|"G"G2B "D7"A2c|"G"Bcd "D7"G2A|"G"Bcd "C"cde|"D"d3 d2d|
@@ -4745,6 +5105,7 @@ P:A
 P:B
 |:A|"Am"A2A A2B|"Am"cde A2c|"Am"e2e "D7"e2f|"G"g2G "D7"G2A|
 "G"BAG "C"c3-|"Am"cBA "D7"d2c|"G"BcB "D7"AGA|"G"G3 G2:|
+R:Jig
 K:Bb
 P:C
 |:d|"Gm"g2G g2G|"Gm"gab g2f|"Cm"edc "D7"BcA|"Gm"Bcd GAB|
@@ -4760,6 +5121,7 @@ T:The Weaver and His Wife
 S:AA, via EF
 P:AB
 M:6/8
+R:Jig
 K:A
 P:A
 F|:"A"E2E EAB|"A"c3 A3|"A"c3 A2c|"Bm"edc "E7"B3|"E7"E2E EBc|
@@ -4775,6 +5137,7 @@ T:The Weaver and His Wife
 S:Andrew Rankine, via EF
 P:AB
 M:6/8
+R:Jig
 K:A
 P:A
 |:E|"A"E2E EAB|"A"c3 A3|"A"c3 A2c|"F#m"edc "Bm"B3|"E7"E2E EBc|"E7"d3 B3|\
@@ -4790,6 +5153,7 @@ T:Wellington's Advance
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:Am
 E|"Am"EAA A^GA|cBA c2d|"C"efe e^fg|"G"dBG G^FG|
 "Am"EAA A^GA|"Am"cBA c2d|"E7"efe dcB|"Am"cAA A2::(3e/2^f/2g/2|
@@ -4803,6 +5167,7 @@ T:When Daylight Shines
 P:AABBCC
 S:Kevin Briggs, via EF
 M:6/8
+R:Jig
 K:G
 P:A
 |:d|"G"gfe dcB|"D7"d2c A2B|"Am"cBc "D7"e2d|"G"B3 GBd|
@@ -4820,6 +5185,7 @@ T:Irish Whiskey
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:G
 B|"G"G3 "C"g2e|"G"dBG "D"AFD|"G"G3 "C"g2e|"G"dBG "D"A2B|
 "G"G3 "C"g2e|"G"dBG GAB|"C"cde "G"dcB|"D7"cBA "G"G2::
@@ -4832,6 +5198,7 @@ T:Whitby Workshop
 % Nottingham Music Database
 S:Gordon Tyrall via Jacquie \& Ellen
 M:6/8
+R:Jig
 K:Am
 "Am"ABA e2d|e^fg e2d|"G"B2G GBG|"G"dBG "E7"B2e|
 "Am"ABA e2d|e^fg e2d|e2d g2"G"G|"Am"BAA A3||
@@ -4849,6 +5216,7 @@ T:Whose
 S:Country Dance Manual, via EF
 P:AB
 M:6/8
+R:Jig
 K:G
 P:A
 (3D/2E/2F/2|"G"G2G "D7"FEF|"G"G3 D2D|"C"E2E c2B|"D"A3 A2D|"C"E2c cBc|\
@@ -4863,6 +5231,7 @@ T:Wideford Hill
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:A
 E|"A"A,B,A, C2E|"D"DED F2A|"A"EFE "E7"A2B|"A"c3 "A7"ABc|"D"d2F A2d|
 "A"c2E A2c|"B7"BcB AGF|"E7"EFE DCB,|"A"A,B,A, C2E|"D"DED F2A|
@@ -4877,6 +5246,7 @@ T:The Widow Magee
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:G
 D|"G"GAG "C"g2e|"G"dBG A2G|"Am"E2A ABc|"Am"BAG "D7"E2D|
 "G"GAG "C"g2e|"G"dBG Bcd|"C"efg "G"dBd|"D7"cBA "G"G2:|
@@ -4891,6 +5261,7 @@ T:My Wife's A Wanton Wee Thing
 % Nottingham Music Database
 S:For Pat's Tradition, via Phil Rowe
 M:6/8
+R:Jig
 K:D
 f/2e/2|"D"d2A dfe|d3 A2B|"C"=cdc cGE|=c3 E2^c|
 "D"d2A dfe|"D"d3 "A7"A2G|"D"FDF "C"E=CE|"D"D3 -D2::
@@ -4905,6 +5276,7 @@ T:Cleveland Park
 % Nottingham Music Database
 S:Wolfstone, Arr EF/HJF
 M:6/8
+R:Jig
 K:Dm
 Ade fed|Bde fed|=Bde fed|ege fed|
 Ade fed|Bde fed|ege c2g|gfe dz2:|
@@ -4919,6 +5291,7 @@ T:Banks of the Allan
 % Nottingham Music Database
 S:Wolfstone, Arr EF/HJF
 M:6/8
+R:Jig
 K:D
 "D"F3 "A7/e"FED|"D/f+"FAA A2d|"G"Bdd "D/f+"Add|"G"Bdd "A7"Add|
 "D"F3 "A7/e"FED|"D/f+"FAA A2d|"G"BdB "D/f+"AFD|"Em"FEE "A"E3:|
@@ -4932,6 +5305,7 @@ T:Kenny Gilles of Portnalong
 S:Wolfstone, Arr EF/HJF
 P:AABCCD
 M:6/8
+R:Jig
 K:A
 P:A
 |:"A"A3 e2c|"A"efa f2e|"D"faa "A"AAA|"D"fec "E"cBB|
@@ -4955,6 +5329,7 @@ T:Art Wooten's Quadrille
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:Bb
 B,|"Bb"B,DF BAB|"Bb"BdB "F7"F2E|"Bb"DFB "D7"AcB|"G7"G3 -"Cm"GcB|"F7"AFA cAc|
 e2c A2G|"F7"FAc ed^c|"Bb"d3 "F7"d2B,|"Bb"B,DF BAB|"Bb"BdB "F7"F2E|\
@@ -4972,6 +5347,7 @@ T:Christmas Day in da Morning
 % Nottingham Music Database
 S:Trad, arr Phil Rowe
 M:6/8
+R:Jig
 K:D
 "D"f2d f3|"A"e2d c2A|"G"B2G d2c|BG2 G3|"A"e2f g2f|e2d c2B|
 "A"ABA ABc|"D"d3 d2e|"D"fa2 a3|"A"e2d c2A|"G"B2G d2c|

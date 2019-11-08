@@ -5,6 +5,7 @@ T:Hallowe'en
 S:Chris Dewhurst 1983, via PR
 M:4/4
 L:1/4
+R:Reel
 K:G
 c/2B/2|"Am"A/2^G/2A/2B/2 c/2B/2c/2d/2|"Am"e/2d/2e/2f/2 "D7"g/2e/2d/2B/2|\
 "G"GB/2G/2 d/2G/2B/2d/2|g/2e/2d/2B/2 G/2A/2B/2G/2|
@@ -22,6 +23,7 @@ T:Hannah Onestep
 S:Pauline Wilson, via PR
 M:4/4
 L:1/4
+R:Reel
 K:G
 "G"D4|"D7"B3F|"G"AG FG-|G3F|AG FA-|AG E2|"Am"F4-|"D7"F4|"Am"E4|
 "E7"c3^G|"Am"BA ^GA-|A3E|"D7"GF ^EF-|FA2F|"G"ED B,D-|"D7"D4||
@@ -35,6 +37,7 @@ T:Happy Day
 S:Bryon Bonnett, via PR
 M:4/4
 L:1/4
+R:Reel
 K:G
 DG A|"G"Bd B2-|"D7"BD GA|"G"Bd B2-|"D7"BD GA|"G"Bd Bd|
 Bd2^c|"D7"c4-|cD FG|"D"A^G A2-|AD FG|"D"A^G A2-|AD FA|
@@ -49,6 +52,7 @@ T:Harum Scarum
 S:Bryon Bonnett, via PR
 M:4/4
 L:1/4
+R:Reel
 K:C
 "G7"_E2 |"C"EG AE|GA EG|"C"Ac de-|"C7"e3_e|"F"dc Ad|cA cA|
 "C"G2 -G2|"G7"G2 _E2|"C"EG AE|GA EG|"C"Ac de-|"C7"e3_e|"D"dc Ad-|
@@ -64,6 +68,7 @@ S:Ronald Cooper via Rosa M, via EF
 P:AAB
 M:4/4
 L:1/4
+R:Reel
 K:A
 P:A
 ed |"A"dc BA|"A"A/2c3/2 E3/2A/2|"D"FA df|"E7"e2 ef/2g/2|"A"a3/2e/2 fa|
@@ -85,6 +90,7 @@ T:Hell Broke Loose In Georgia
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:G
 "G"dd "C"e/2d/2e/2f/2|"G"g/2e/2d/2c/2 B/2G/2A/2B/2|"C"A3B/2G/2|"D7"A3A|
 "G"dd "C"e/2d/2e/2f/2|"G"g/2e/2d/2c/2 B/2G/2A/2B/2|\
@@ -99,6 +105,7 @@ T:Hi-There
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:D
 AG |"D"F2 D2|d2 cd|"G"ed cd|G2 cB|"D"A2 FA|"Bm"d2 f2|"Em"e2 A3/2B/2|"A7"AG FE|
 "D"F2 D2|"D7"d2 cd|"G"ed BG|"Em"E2 cB|"A7"A2 EF|GA Bc|"D"d4-|"D7"d4||
@@ -112,6 +119,7 @@ T:High Caul Cap
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:D
 "D"dA FA|"Bm"d3/2d/2 df|"Em"ed cd|"A7"e/2d/2e/2f/2 gf/2g/2|
 "D"af "A"ge|"Bm"dc "F#m"AF|"G"GB "A7"A/2B/2A/2G/2|"D"FD Dz::
@@ -126,6 +134,7 @@ S:KCC p8, via EF
 P:AB
 M:4/4
 L:1/4
+R:Reel
 K:C
 P:A
 G|"C"c3/2B/2 "G7"AG|"C"c2 "G7"GG|"C"c3/2d/2 fe|"Dm"d3f|"C"e/2g3/2 e/2g3/2|\
@@ -141,6 +150,7 @@ T:Home From Holm
 S:Dennis Salter, via PR
 M:4/4
 L:1/4
+R:Reel
 K:G
 B/2c/2|"G"d/2^c/2d/2e/2 "D7"d/2=c/2B/2A/2|"G"BG G3/2F/2|"C"EA -"Am"AG|\
 "D7"Fd -dd|
@@ -159,6 +169,7 @@ T:Hon Ms Fraser
 S:RSCDS 23/1, via EF
 M:4/4
 L:1/4
+R:Reel
 K:Bm
 d/2e/2|"Bm"fe/2f/2 d/2f/2B/2d/2|"A"c/2A/2e/2c/2 a/2e/2c/2A/2|\
 "Bm"fe/2f/2 d/2f/2B/2d/2|"F#7"e/2f/2d/2c/2 "Bm"d/2B/2B|
@@ -176,6 +187,7 @@ T:Honey Harbour
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:A
 "A"e2 e3/2f/2|ec AE|"A"C2 E3/2F/2|EC A,C|"Bm"D2 B3/2A/2|"E7"GE FG|"A"A2 "D"GF|\
 "A"E2 "E7"Ac|
@@ -192,6 +204,7 @@ T:Hosannah
 S:Chris McDouall, via EF
 M:4/4
 L:1/4
+R:Reel
 K:G
 d/2d/2|"G"d2 BA|"G"G2 AG|"C"EG3-|"C"G2 dd|"G"d2 BA|"Em"G2 B2|"A7"A4-|
 "D7"A2 dd|"G"d2 BA|"G"G2 AG|"C"EG3-|"C"G2 GA|"G"Bd dc|"A7"B2 "D7"A2|"G"G4-|
@@ -206,6 +219,7 @@ T:Hot Time
 S:Kevin Briggs, via EF
 M:4/4
 L:1/4
+R:Reel
 K:D
 "D"F2 F2|"D"F2 EF|"D"GF ^EF|"D"D4|"D"A2 A2|"D"A2 ^GA|"D"BA ^GA|"D"FA, DE|
 "D"F2 F2|"D"F2 EF|"D"GF ^EF|"D"DD CD|"E7"FE2A,|"A7"FE2A,|"D"D2 A,2|"G"B,2 "D"D\
@@ -219,6 +233,7 @@ S:Leslie Dolman, via EF
 P:AABBCC
 M:4/4
 L:1/4
+R:Reel
 K:D
 P:A
 A/2G/2|"D"FA dc|"G"B/2A/2B/2c/2 "Em"Bg|"A7"ec Ac|"D"d/2c/2d/2e/2 "A7"dA/2G/2|
@@ -237,6 +252,7 @@ T:Hull's Victory
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:F
 c|"F"ff/2e/2 ff/2g/2|"Bb"a/2g/2f/2e/2 "F"fA/2B/2|"C"cc/2d/2 cB|\
 "F"A/2B/2G/2A/2 Fc|
@@ -253,6 +269,7 @@ T:Hull's Victory
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:F
 c|"F"f/2c/2f/2a/2 f/2c/2f/2g/2|"Bb"a/2g/2f/2e/2 "F"fA/2B/2|"C"cc/2d/2 cc/2B/2|\
 "F"A/2B/2G/2A/2 Fc|
@@ -271,6 +288,7 @@ S:Kevin Briggs, via EF
 P:AB
 M:4/4
 L:1/4
+R:Reel
 K:G
 P:A
 D|"G"GD G/2A/2B/2c/2|"G"d2 "Em"B2|"D7"Ad Ad|"G"B/2c/2B/2A/2 "D7"GD|\
@@ -286,6 +304,7 @@ T:The Hurler's March
 S:Kevin Briggs, via EF
 M:2/4
 L:1/4
+R:Reel
 K:D
 (A/4G/4)|F/2A/2 A/4B/4A/4F/4|G/2B/2 B/4c/4B/4G/4|F/2A/2 e/4f/4e/4d/4|\
 c/2A/2 A/4B/4A/4G/4|
@@ -302,6 +321,7 @@ T:It's a Long Way to Tipperary
 S:Kevin Briggs, via EF
 M:4/4
 L:1/4
+R:Reel
 K:D
 FG |"D"A2 A2-|"D"AA Bc|"D"d2 f2-|"D7"f2 fe|"G"d2 B2-|"G"B2 d2|"D"A4-|
 "A7"AG FG|"D"A2 A2-|"D"AA Bc|"D"d2 f2-|"D"f2 cd|"E7"e2 B2|"E7"c2 d2|"A7"e4-|
@@ -317,6 +337,7 @@ S:Ronald Cooper via Rosa M, via EF
 P:AB
 M:4/4
 L:1/4
+R:Reel
 K:D
 P:A
 A/2G/2|"D"G/2F/2E/2D/2 "A7"D/2E/2F/2G/2|"D"A/2D/2F/2A/2 "G"d/2c/2d/2e/2|\
@@ -342,6 +363,7 @@ T:Ian James Wilson
 S:Chris Dewhurst (1985), via PR
 M:4/4
 L:1/4
+R:Reel
 K:G
 D|"G"G/2F/2G/2A/2 Bd|"C"cE "Am"A3/2G/2|"D"FA Dc|\
 "G"B/2A/2G/2B/2 "D"A/2D/2E/2F/2|
@@ -356,6 +378,7 @@ T:Imitiation Reel
 S:Chris Dewhurst (1979), via PR
 M:4/4
 L:1/4
+R:Reel
 K:A
 e|"A"a3/2g/2 a/2e/2c/2A/2|"E"BG E3/2E/2|"D"FA dc|"Bm"B/2A/2G/2F/2 "E"Ee|
 "A"a3/2g/2 a/2e/2c/2A/2|"E"BG Ed|"Bm"c3/2B/2 "E"AG|"A"A3::
@@ -369,11 +392,13 @@ T:Indian Reel
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:G
 B/2c/2|"G"dg/2d/2 Bd/2B/2|GB/2G/2 DB|"D"A/2^G/2A/2B/2 "D7"c/2A/2F/2A/2|\
 "G"G/2A/2B/2c/2 dB/2c/2|
 "G"dg/2d/2 Bd/2B/2|"G"GB/2G/2 DB|"D7"A/2^G/2A/2B/2 c/2A/2F/2A/2|\
 "G"G/2F/2G/2A/2 G::
+R:Reel
 K:C
 G/2G/2|"C"cG/2c/2 ec/2e/2|g3c/2d/2|"C"e/2c/2e/2g/2 f/2e/2d/2c/2|\
 "G"B/2G/2A/2B/2 "G7"c/2B/2A/2G/2|
@@ -387,6 +412,7 @@ T:J B Milne
 S:Ken McDouall, via EF
 M:4/4
 L:1/4
+R:Reel
 K:A
 c/2d/2|"A"e/2f/2e/2d/2 cA|"A"EA c2|"A"c/2e/2d/2c/2 BA|"Bm"d3B/2c/2|\
 "Bm"d/2e/2d/2c/2 BG|
@@ -409,6 +435,7 @@ S:Lloyd Dolman, via EF
 P:AB
 M:4/4
 L:1/4
+R:Reel
 K:A
 P:A
 e|"A"cc e3/2c/2|"E7"de3|"A"cc e3/2c/2|"E7""G"B4|"A"cc e3/2c/2|"D"dd f2|\
@@ -425,6 +452,7 @@ T:Jack's Life
 S:Ralph Page, via PR
 M:4/4
 L:1/4
+R:Reel
 K:G
 D/2D/2|"G"DB AG|d/2^c/2d/2e/2 dD/2D/2|"G"DB "A7"AG|"D"F/2G/2A/2B/2 cD/2D/2|\
 Dc BA|
@@ -441,6 +469,7 @@ T:Jack O'Lantern
 S:Chris Dewhurst, via PR
 M:4/4
 L:1/4
+R:Reel
 K:D
 A|"D"d/2c/2d/2f/2 "A"e/2c/2A/2G/2|"D"F/2A/2d/2c/2 de/2f/2|\
 "G"g/2d/2B/2g/2 "D"f/2d/2A/2f/2|"A"e/2d/2c/2B/2 A(3A/2B/2c/2|
@@ -458,6 +487,7 @@ T:Jackson's Breakdown
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:D
 "D"A3/2d/2 f/2g/2f/2e/2|dF A3/2d/2|"A"cE G3/2B/2|"D"AD F2|\
 "D"A3/2d/2 f/2g/2f/2e/2|"D"dF A3/2d/2|"A"cA Bc|"D"d2 d2::
@@ -471,6 +501,7 @@ T:Jacob (or Enrico)
 S:Thomas Hardy Collection, via PR
 M:4/4
 L:1/4
+R:Reel
 K:D
 A|"D"df/2e/2 d/2c/2d/2B/2|A/2B/2A/2G/2 FA|"D"de/2f/2 "Em"g/2f/2g/2f/2|\
 "A7"ea a/2g/2f/2e/2|
@@ -486,6 +517,7 @@ T:Jaque Latin
 S:Via Mike Richardson, via PR
 M:2/4
 L:1/4
+R:Reel
 K:G
 "G"G/4A/4B/4c/4 d/2g/2|d/2B/2 B/2g/2|"G"d/2B/2 B/2g/2|d B|\
 "G"G/4A/4B/4c/4 d/2g/2|d/2B/2 B/2g/2|"F"=f/2A/2 A/2B/2|c A::
@@ -501,6 +533,7 @@ T:Jaybird
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:D
 a/2g/2|"D"fd fd|f/2af/2 ag/2f/2|"C"e=c ec|e/2ge/2 ga/2g/2|
 "D"fd fd|"D"f/2af/2 a(3A/2B/2c/2|"G"dd/2B/2 "A"A/2B/2A/2G/2|"D"FD D::
@@ -515,6 +548,7 @@ T:J.B. Milne
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:A
 c/2d/2|"A"e/2f/2e/2d/2 cA|EA c2|"A"c/2e/2d/2c/2 BA|"Bm"d3B/2c/2|\
 "E"d/2e/2d/2c/2 BG|
@@ -535,10 +569,12 @@ S:Kevin Briggs, via EF
 P:AB
 M:4/4
 L:1/4
+R:Reel
 K:D
 P:A
 A/2G/2|"D"FA "A7/e"GB|"D/f+"Af f/2e/2f|"Em"Ge "A7"e/2^d/2e|"D"Fd "A7"dA/2G/2|
 "D""Bm"FA "A7/e""A7/c+"GB|"D/f+""D"Af f/2e/2f|"G"gf "A7"e/2g/2f/2e/2|"D"df d:|
+R:Reel
 K:G
 P:B
 e/2f/2|"Em""C"g3/2f/2 "D7/f+""C"e/2g/2f/2e/2|"G"dB B/2A/2B|"Am"cA "D7"A/2G/2A|\
@@ -554,19 +590,23 @@ S:Lesley Dolman, via EF
 P:ABCD
 M:4/4
 L:1/4
+R:Reel
 K:D
 P:A
 A/2G/2|"D"FA "A7/e"GB|"D/f+"Af f/2e/2f|"Em"Ge "A7"e/2d/2e|"D"Fd "A7"dA/2G/2|
 "D""Bm"FA "A7/e""A7/c+"GB|"D/f+""D"Af f/2e/2f|"G"ge "A7"e/2g/2f/2e/2|"D"df d:|
+R:Reel
 K:G
 P:B
 e/2f/2|"Em""C"g3/2f/2 "D7/f+""C"e/2g/2f/2e/2|"G"dB B/2A/2B|"Am"cA "D7"A/2G/2A|\
 "G"BG Ge/2f/2|
 "Em""C"g3/2f/2 "D7/f+""C"e/2g/2f/2e/2|"G"dB B/2A/2B|"D7"cA A/2c/2B/2A/2|\
 [1"G"GB G:|[2 "G" GB Gz||
+R:Reel
 K:C
 P:C
 "C"G/2^F/2G cE|"G"GF/2E/2 F/2E/2F|"G"G/2^F/2G Bc|"C"dc/2B/2 c/2B/2c|
+R:Reel
 K:C
 "C"G/2^F/2G cE|"G"GF/2E/2 F/2E/2F|"G"G/2^F/2G Bc|cc cz:|
 P:D
@@ -581,6 +621,7 @@ S:Lesley Dolman, via EF
 P:AB
 M:4/4
 L:1/4
+R:Reel
 K:G
 P:A
 B/2c/2|"G"dg gB/2c/2|"G"Bd dB/2A/2|"G"GG "D7"AA|"G"B/2A/2B/2c/2 "D7"BB/2c/2|
@@ -596,6 +637,7 @@ T:Le Reel Des Jeunes Maries
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:D
 "D"DF/2A/2 F/2A/2d/2e/2|f/2a/2f/2d/2 Af|"A"g/2f/2e/2d/2 "A7"c/2A/2B/2c/2|\
 "D"d/2c/2d/2e/2 f/2e/2d/2A/2|
@@ -613,6 +655,7 @@ T:2nd part for B music
 S:
 M:4/4
 L:1/4
+R:Reel
 K:D
 "D"fd/2A/2 F/2A/2d/2f/2|"A"e/2c/2A/2G/2 G/2A/2c/2d/2|\
 "A"ec/2A/2 "A7"G/2A/2c/2e/2|"D"dA/2d/2 "A7"c/2G/2A/2d/2|
@@ -627,6 +670,7 @@ S:Kevin Briggs, via EF
 P:AB
 M:4/4
 L:1/4
+R:Reel
 K:G
 P:A
 G/2A/2|"G"BG GA|"G"B2 GA/2B/2|"Am"cA AB|"Am"c2 "D7"BA|"G"Gg "C"ge|\
@@ -643,6 +687,7 @@ S:Athole p 144, via EF
 P:AV
 M:4/4
 L:1/4
+R:Reel
 K:A
 P:A
 E|:"A"AA/2c/2 "E7"BB/2c/2|"A"AA/2c/2 "E7"BB/2c/2|"A"Aa/2g/2 "D"f/2e/2d/2c/2|\
@@ -670,6 +715,7 @@ T:Johnny's Lover's gone
 S:Appalachian, via PR
 M:4/4
 L:1/4
+R:Reel
 K:G
 "G"GG BB|"C"c/2B/2c "D7"dB|"G"G/2F/2G/2A/2 BB|"C"cB/2c/2 "D7"A/2F/2E/2D/2|
 "G"G/2F/2G/2A/2 BB|"C"c/2B/2c "D7"dA|"D7"d/2e/2d/2c/2 BA|"G"G3d::
@@ -684,6 +730,7 @@ T:Johnny's Gone to France
 S:FTB, via EF
 M:4/4
 L:1/4
+R:Reel
 K:Em
 G/2A/2|: |||:"Em"B/2E/2E/2d/2 BA/2G/2|"D"F/2D/2A/2D/2 F/2D/2A/2D/2|\
 "Em"B/2E/2E/2d/2 BA/2G/2|"D"F/2D/2A/2F/2 "Em"EE:|
@@ -697,6 +744,7 @@ T:John Ryan's
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:G
 e/2f/2|"G"gg "Em"e/2f/2(3g/2f/2e/2|"G"dB dB|"G"gg "Em"e/2f/2(3g/2f/2e/2|
 "G"dB "D7"AG|"G"gg "Em"e/2f/2(3g/2f/2e/2|"G"dB "D7"dg/2a/2|"G"bg "D7"af|"G"g3\
@@ -711,6 +759,7 @@ T:John and Tony
 S:Bob McQuillen March 1977, via PR
 M:4/4
 L:1/4
+R:Reel
 K:D
 A,|"D"DD "A7"E/2D/2E|"D"F/2E/2D/2B,/2 "A7"A,D/2E/2|"D"FF "A7"G/2F/2G|\
 "D"A3F/2A/2|"G"BB/2d/2 "D"Ad|
@@ -729,6 +778,7 @@ T:The Jolly Coppersmith
 % Nottingham Music Database
 S:Toby, via EF
 M:4/4
+R:Reel
 K:D
 L:1/4
 "A7"F/2G/2|: |||:"D"AB AF|"D"AB AF|"A7"AG2F|G3d|c3/2c/2 ce|
@@ -745,6 +795,7 @@ T:Jolly Dogs
 S:via PR
 M:2/4
 L:1/4
+R:Reel
 K:A
 c/4d/4|"A"e/2e/4d/4 c/4d/4c/4B/4|A/2c/2 c/2z/4e/4|"E7"G/2B/2 B/2z/4e/4|\
 "A"A/2c/2 c/2c/4d/4|
@@ -762,11 +813,13 @@ S:Kevin Briggs, via EF
 P:AB
 M:4/4
 L:1/4
+R:Reel
 K:D
 P:A
 f/2e/2|"D"dd AA/2d/2|"G"BB bb/2a/2|"D"f/2a/2b/2a/2 f/2a/2b/2a/2|\
 "Em"fe "A7"ef/2e/2|
 "D"dd AA/2d/2|"G"BB bb/2a/2|"D"f/2a/2b/2a/2 f/2a/2b/2a/2|"D"fd d:|
+R:Reel
 K:D
 P:B
 f|"Em"e/2f/2e/2d/2 "A7"BB/2d/2|"D"A/2B/2d/2e/2 fe/2d/2|\
@@ -781,6 +834,7 @@ T:Miss Kay Rose
 S:I. MacPhail, via PR
 M:4/4
 L:1/4
+R:Reel
 K:A
 A/2B/2|"A"c/2d/2c/2B/2 A/2G/2A/2B/2|c/2e/2c/2B/2 AA/2B/2|\
 "A"c/2A/2B/2c/2 d/2e/2f/2a/2|
@@ -806,6 +860,7 @@ T:Keel Row
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:G
 (d/2c/2)|:"G"BG/2B/2 "Am"cA/2c/2|"G"BG/2B/2 "D7"A/2F/2D/2c/2|
 "G"BG/2B/2 "D7"cA/2c/2|[1"G"B/2G/2"D7"A/2F/2 "G"G/2e/2d/2c/2:|
@@ -822,6 +877,7 @@ T:Kelly the Boy From Kilken
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:G
 Bc |:"G"d2 Bd|"C"g2 fe|"G"d2 BG|"C"E2 GA|"G"B2 Bd|"D"dc AF|"G"G4-|[1"G"G2 Bc:|
 [2"G"G2 dd||
@@ -836,6 +892,7 @@ S:Lesley Dolman, via EF
 P:AB
 M:4/4
 L:1/4
+R:Reel
 K:Dm
 P:A
 A|"D"Dd d/2c/2B/2A/2|BG EG|Cc c/2B/2A/2G/2|
@@ -852,6 +909,7 @@ S:Lesley Dolman, via EF
 P:AB
 M:2/4
 L:1/4
+R:Reel
 K:D
 P:A
 [F2 A2 d2 f2]|
@@ -873,6 +931,7 @@ S:Geo. McDonald, via EF
 P:AB
 M:4/4
 L:1/4
+R:Reel
 K:D
 P:A
 B/2c/2|"D"d2 A2|FD F/2G/2A/2F/2|"C"E=c Ec|E=C E/2F/2G/2E/2|"D"d2 A2|F3/2E/2 DF\
@@ -888,6 +947,7 @@ T:Kitchen Girl
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:D
 "A"[c2 a2 ]"G"[B2g2]|"A"e/2f/2e/2d/2 cc/2d/2|"A"e/2c/2e/2f/2 "G"g/2a/2b/2a/2|\
 "E"^ge ee/2=g/2|
@@ -906,6 +966,7 @@ S:Kevin Briggs, via EF
 P:AB
 M:4/4
 L:1/4
+R:Reel
 K:G
 P:A
 B/2A/2|"G"G/2F/2G/2A/2 BB|"G"G/2F/2G/2A/2 BB|"Am"d/2c/2B/2c/2 AA|\
@@ -924,6 +985,7 @@ S:Eric Foxley
 P:AB
 M:4/4
 L:1/4
+R:Reel
 K:G
 P:A
 c/2B/2A/2|"G"G/2F/2G/2A/2 B/2c/2B/2A/2|"G"G/2F/2G/2A/2 B/2A/2B/2c/2|\
@@ -945,6 +1007,7 @@ S:Mick Peat C music, via EF
 P:ABC
 M:4/4
 L:1/4
+R:Reel
 K:G
 P:A
 B/2A/2|"G"G/2F/2G/2A/2 BB|"G"G/2F/2G/2A/2 BB|"Am"d/2c/2B/2c/2 AA|\
@@ -967,6 +1030,7 @@ T:Knotted Cord
 S:Ireland, via PR
 M:4/4
 L:1/4
+R:Reel
 K:D
 "Am"A3/2B/2 A/2E/2E|"Am"AB/2d/2 "D7"e/2d/2B/2A/2|"G"G/2F/2G/2A/2 G/2E/2D/2E/2|\
 GB/2G/2 d/2G/2B/2G/2|
@@ -984,9 +1048,11 @@ T:Korybushka
 S:Russian, via EF
 M:4/4
 L:1/4
+R:Reel
 K:Em
 e|"Bm"BB Bd|"Bm"ff ed|"Em"ee eg|"Em"bb ag|"B7"f3g|"B7"a2 b2|"Em"g2 "Am"e2|\
 "Em"e3:|
+R:Reel
 K:G
 |:c'|"Am"c'2 -c'd'|"D7/f+"e'2 d'c'|"G"bb bg|"Em"b2 ag|"B7"f3g|"B7"a2 b2|"Em"g2 "Am"e2|\
 "Em"e3:|
@@ -999,6 +1065,7 @@ S:Sydney Carter, arr Eric
 P:ABA
 M:4/4
 L:1/4
+R:Reel
 K:G
 P:A
 "D7"D|"G"GG/2G/2 "Em"B/2A/2B/2c/2|"Bm"dd/2d/2 "Em"BB/2B/2|"Am"AA AA/2B/2|\
@@ -1018,10 +1085,12 @@ S:Kevin Briggs, via EF
 P:AB
 M:4/4
 L:1/4
+R:Reel
 K:G
 P:A
 B/2A/2|"G"GB/2B/2 Bd/2d/2|"G"dg gf/2g/2|"C"ag ec|"Am"ed/2e/2 "D7"d/2c/2B/2A/2|
 "G"GB/2B/2 Bd/2d/2|"G"dg gf/2g/2|"C"ed "D7"dF/2G/2|"G"AG G:|
+R:Reel
 K:D
 P:B
 A|"D"Ad dc/2B/2|"D"Aa ag/2f/2|"A7"gf ge|"D"f/2g/2a/2g/2 "A7"fd|
@@ -1035,6 +1104,7 @@ S:Kevin Briggs, via EF
 P:AB
 M:4/4
 L:1/4
+R:Reel
 K:G
 P:A
 G/2E/2|"G"DG BA/2G/2|"C"AE EG|"G"DG BA/2G/2|"G"dB "G7"B3/2d/2|
@@ -1050,6 +1120,7 @@ T:Lady of Ardross
 S:Trad arr Hamish, via EF
 M:4/4
 L:1/4
+R:Reel
 K:C
 (3G/2A/2B/2|"C"c3c|"C/e""Em"e2 dc|"F"cd/2c/2 BA|"G"G2 (3GAB|"Am"c3c|"Em"g2 fe|\
 "Dm"A4|"G"B3/2A/2 B/2d3/2|
@@ -1071,6 +1142,7 @@ T:Lady Of The Lake
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:G
 B,/2A,/2|"G"G,/2B,/2D/2G/2 B/2A/2G/2B/2|d/2B/2G/2A/2 B/2A/2G/2B/2|\
 "C"c/2d/2c/2B/2 A/2G/2F/2G/2|"D"A/2G/2F/2E/2 D/2C/2B,/2A,/2|
@@ -1089,6 +1161,7 @@ S:Kevin Briggs, via EF
 P:AABAA
 M:4/4
 L:1/4
+R:Reel
 K:G
 P:A
 |:"G"dd "C"ed|"G"B/2GD/2 -D2|"G"dd "E7"ed|"Am"c/2A"E7"E/2 -E2|"Am"E3/2A3/2c|e4|\
@@ -1104,6 +1177,7 @@ T:Lamplighter's Hornpipe
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:A
 c/2d/2|"A"e/2c/2c/2c/2 e/2a/2g/2f/2|e/2A/2A/2e/2 e/2a/2g/2f/2|\
 "A"f/2e/2c/2e/2 "F#m"f/2e/2d/2c/2|"Bm"d/2e/2d/2c/2 "E"Bc/2d/2|
@@ -1121,6 +1195,7 @@ T:Petit Larousse
 S:Hugh Barwell, via PR
 M:4/4
 L:1/4
+R:Reel
 K:Am
 e|:|||:"Am"ee/2f/2 ee/2f/2|e/2d/2c/2B/2 A/2c/2e/2a/2|\
 "B7"b3/2a/2 ^g^f|"E7"e2 B2|
@@ -1138,6 +1213,7 @@ T:Late Evening Reel
 S:Ralph Page, via PR
 M:4/4
 L:1/4
+R:Reel
 K:D
 F/2G/2|"D"A/2d/2c/2d/2 f/2d/2c/2d/2|a/2d/2c/2d/2 f/2d/2
 c/2d/2|"D"A/2d/2c/2d/2 f/2d/2c/2d/2|"Em"g/2f/2e/2d/2 "A7"cF/2G/2|\
@@ -1156,6 +1232,7 @@ T:Lea Riggs
 S:Barrie Shay, via EF
 M:4/4
 L:1/4
+R:Reel
 K:G
 B/2A/2|"G"G/2B/2D "D7"DE/2F/2|"G"G3/2A/2 GB|"Am"A3/2B/2 c/2B/2A/2G/2|\
 "Am"cE "D7"EB/2A/2|
@@ -1173,6 +1250,7 @@ T:Levantine's Barrel
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:D
 f/2e/2|"D"d/2f/2A/2d/2 ff/2e/2|db/2a/2 ^g/2a/2f/2d/2|\
 "A7"c/2e/2A/2c/2 e/2A/2c/2e/2|"D"d/2f/2b/2a/2 "A7"^g/2a/2=g/2e/2|
@@ -1189,6 +1267,7 @@ T:Levi Jackson
 S:Folk Camps, via EF
 M:4/4
 L:1/4
+R:Reel
 K:G
 de f|"G"g2 d2|"G"e/2d/2B/2d/2 -"D7"d/2B/2A|"G"G4|"G"D4|"Bb"=F2 _B2|\
 "Bb"d/2=f/2g/2f/2 -f/2d/2c|
@@ -1210,6 +1289,7 @@ T:Lexie McAskill
 S:John McAskill, via EF
 M:4/4
 L:1/4
+R:Reel
 K:Am
 a|:"Am"ee d/2e/2e/2d/2|"Am"ed/2B/2 "G"G/2B/2B/2d/2|"Am"ee d/2e/2e/2d/2|\
 "Em"e/2g/2f/2d/2 "Am"ee/2a/2|
@@ -1235,6 +1315,7 @@ T:Liberty
 S:John Lagden, via EF
 M:4/4
 L:1/4
+R:Reel
 K:D
 "D"D3/2E/2 Dd|"D"AF Ad|"D"D3/2E/2 Dd|"D"AF "A7"G/2F/2E/2D/2|"D"D3/2E/2 Dd|\
 "D"AF Ad|"A7"ed e/2g/2f/2e/2|"D"dd d2:|
@@ -1248,6 +1329,7 @@ T:The Flowers of Limerick
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:Gm
 (G/2F/2)|"G"D/2G/2G/2^F/2 G(G/2A/2)|"G"=B/2G/2d/2G/2 =e/2G/2d/2G/2|\
 "Dm"D/2F/2F/2=E/2 F(F/2G/2)|"F"A/2F/2c/2F/2 d/2F/2c/2F/2|
@@ -1266,6 +1348,7 @@ S:AA, via EF
 P:AB
 M:4/4
 L:1/4
+R:Reel
 K:D
 P:A
 F/2G/2|"D"Af "A7"Ge|"D"Fd d/2A/2F/2A/2|"A7"GE E/2F/2G/2B/2|\
@@ -1284,6 +1367,7 @@ S:Kevin Briggs, via EF
 P:AABABABA
 M:4/4
 L:1/4
+R:Reel
 K:D
 P:A
 A/2G/2|"D"FA A2|"G"GB B2|"A7"c/2c/2c Bc|\
@@ -1300,6 +1384,7 @@ T:Live Country
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:A
 AA c|:"A"e2 e3/2e/2|c/2B/2A -A/2A/2c/2A/2|"D"FA A3/2A/2|F/2E/2D -D/2D/2F/2D/2|\
 "A"EA A3/2A/2|
@@ -1321,6 +1406,7 @@ T:The Leaving of Liverpool
 S:via PR
 M:2/4
 L:1/4
+R:Reel
 K:D
 D/2E/2 |"D"F -F/2A/2|"D7"G/2F/2 E/2D/2|"G"d -d/2B/2|"D"A "A7"D/2E/2|\
 "D"F A/2A/2|"Bm"B A/2F/2|"Em"E2-|"A7"E D/2E/2|
@@ -1338,6 +1424,7 @@ T:Little Liza Jane
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:A
 (3e/2f/2g/2|:"A"ae e3/2e/2|\
 f/2e/2c/2B/2 A (3e/2f/2g/2|af ec|
@@ -1352,6 +1439,7 @@ T:Lloyd of Binghampton
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:Bb
 F/2E/2|"Bb"DF2B/2c/2|d/2e/2d/2c/2 BD|"Eb"EG2e/2f/2|g/2f/2e/2d/2 c/2d/2c/2B/2|
 "F"Aa ag/2a/2|"Bb"bf dc/2B/2|"F"A/2B/2c/2d/2 e/2c/2A/2c/2|"Bb"Bd B::
@@ -1367,6 +1455,7 @@ T:Lock My Heart
 S:J. Eaton \& T. Shand, via PR
 M:4/4
 L:1/4
+R:Reel
 K:D
 "D"dd cB|dd cB|"D"F2 -F/2E/2D|F3A/2A/2|"D"BA FD|"Ad"=cB "E7"AF|
 "A"A4-|A2 A/2^D/2E/2F/2|"Em"GG2F|"A7"A4|"D6"BB2A|"Bm"d4|"A"ce cB|\
@@ -1385,6 +1474,7 @@ S:Kevin Briggs, via EF
 P:PAA
 M:2/4
 L:1/4
+R:Reel
 K:D
 P:P
 A/2|
@@ -1405,6 +1495,7 @@ T:Log Cabin
 S:Kevin Briggs, via EF
 M:4/4
 L:1/4
+R:Reel
 K:G
 GB |"G"d2 "D7"ed|"G"dB2G|"C"AG GE|"G"D2 -"D7"D2|"G"GG GB|"Em"dd dB|
 "Am"Ad/2d/2 "Am/g"dd|"D7/f+"ed "D7"Bc|"G"d2 "D7"ed|"G"dB2G|"C"AG GE|\
@@ -1423,6 +1514,7 @@ T:The Trip To London
 S:John Goodacre 1984, via PR
 M:4/4
 L:1/4
+R:Reel
 K:D
 D/2F/2|"D""F#m"AA AA|"D""Bm7"A/2B/2A/2G/2 FA|"A7""Em"G/2A/2G/2F/2 "A7"EC|\
 "D"DF AD/2F/2|
@@ -1437,6 +1529,7 @@ T:Lonesome Injun
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:A
 "A"AA/2c/2 "E7"B/2A/2F/2G/2|"A"A/2B/2A/2F/2 "E7"E2|"A"AA/2c/2 B/2A/2c/2e/2|\
 "D"f2 -f3/2f/2-|
@@ -1453,6 +1546,7 @@ T:Long Long Trail
 % Nottingham Music Database
 S:Kevin Briggs, via EF
 M:6/8
+R:Reel
 K:G
 D/2G/2|"G"B3 B3|B3 -B2c|"G"B3 B3-|B3 cBA|"C"G3 G3-|G3 A3|"G"B6-|B2A B2c|
 "D7"d3 -d2c|"D7"d3 -d2c|"G"c3 B3|F3 G3|"A7"B3 A3|A3 B3|"D7"A6-|A3 D2G|"G"B3 B3\
@@ -1473,6 +1567,7 @@ T:Lorna's Reel
 S:Bryon Bonnett, via PR
 M:4/4
 L:1/4
+R:Reel
 K:G
 A|"G"B/2dB/2 AG|B/2d/2B/2d/2 AG|"G"B/2^A/2B =AG|"C"C4|"D"F/2AF/2 ED|
 F/2A/2F/2A/2 ED|"D"FF E^D|"G"D2 -"D7"D2|"G"B/2dB/2 AG|B/2d/2B/2d/2 AG|
@@ -1488,6 +1583,7 @@ T:Lost Indian
 S:via PR
 M:2/4
 L:1/4
+R:Reel
 K:G
 "G"d/2B/4B/4 d/2B/4B/4|d/2B/4B/4 G/2B/2|"D7"D/2A/2 c/2B/4A/4|\
 "G"G/4A/4B/4c/4 "D7"d|
@@ -1502,6 +1598,7 @@ T:Lothian Scottish
 S:via PR
 M:4/4
 L:1/4
+R:Reel
 K:F
 C|:"F"F\
 E/2F/2 "C"GF/2G/2|"F"AG/2A/2 "Bb"BA/2B/2|"F"cc c/2d/2c/2A/2|\
@@ -1524,6 +1621,7 @@ T:Louise's New Parlor
 S:Mike Richardson 14.2.90, via PR
 M:4/4
 L:1/4
+R:Reel
 K:D
 FE |"D"D2 FG|"F#"F2 ED|"G"G3/2G/2 Bd|"D"A3G|F3/2F/2 Ad|"Bm"gf ed|\
 "Em"e3/2d/2 ef|"A"e2 de|

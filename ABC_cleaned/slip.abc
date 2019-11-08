@@ -5,6 +5,7 @@ T:Drops of Brandy
 S:Trad
 P:AB
 M:9/8
+R:Slip Jig
 K:G
 P:A
 B/2c/2|:"G"d2c BGB BGB|"G"d2c BGB "D7"cBA|"G"d2c BGB BGB|"C"cBc A2B "D7"cBA:|
@@ -18,6 +19,7 @@ T:Dublin Streets
 S:O'Neill
 P:AB
 M:9/8
+R:Slip Jig
 K:Em
 P:A
 |:B|"Em"G2A BGE BGE|"D"F2G AFD AFD|"Em"G2A BGE BGE| [1"G"dcB "B7"AGF "Em"E2:| [2"G"dcB "B7"AGF "Em"E3||
@@ -30,6 +32,7 @@ T:Gingerhog's No.2
 % Nottingham Music Database
 S:Phil Cunningham arr Hamish
 M:9/8
+R:Slip Jig
 K:D
 "D"Add "D"fdd "A"e2f|"D"Add "D"efd "G"GdB|"D"Add "D"fdd "D"e2f|\
 "G"GBd "D"Afd "A"e3:|
@@ -43,6 +46,7 @@ T:The Glass Of Stout
 S:Phil Rowe via Toby Bennett
 P:AB
 M:9/8
+R:Slip Jig
 K:A
 P:A
 "A"c2c cde "E7"dcB|"A"c2c cBA "E7"BAG|"A"ABc "D"dcd "E7"Bed|\
@@ -57,6 +61,7 @@ T:Kid on the Mountain
 S:Bothy Boys
 P:ABCDEF
 M:9/8
+R:Slip Jig
 K:Em
 P:A
 B|:"Em"E2E FEF G2F|"Em"E2E "Am"cBA "Em"BGE|"Em"E2E "D"FEF "G"G2G/2A/2|\
@@ -82,6 +87,7 @@ T:The Lamppost
 % Nottingham Music Database
 S:Phil
 M:9/8
+R:Slip Jig
 K:G
 "G"g2d B2G "D"FGA|"D7"DFA cBA Bcd|"G"g2d B2G "D"FGA|"G"G2B "D"AGF "G"G3:||:
 "G"g2g bag "D"fga|"D m"de=f "C"edc "G"BAG|"G"g2g bag "D"fga|"Bb"d2e =f3 e2d:||:
@@ -95,6 +101,7 @@ T:The Racehorse
 % Nottingham Music Database
 S:Toby Bennett
 M:9/8
+R:Slip Jig
 K:Bb
 "Gm"B2B BAG "D7"A3|"Gm"B2B BAG "D7"ABc|"Gm"B2B BAG "D7"ABc|"Gm"d2d dcB "F"c3|
 "Gm"d2d dcB "Cm"cde|"Gm"d2d dcB "Cm"cde|"Gm"def "Cm"edc "Gm"BAG|\
@@ -112,6 +119,7 @@ T:The Rocky Road To Dublin
 % Nottingham Music Database
 S:Toby Bennett
 M:9/8
+R:Slip Jig
 K:Am
 A|"Am"efe "G"dcB "Am"A3|"Am"E2A A2A "G"Bcd|"Am"efe "G"dcB "Am"A2c|\
 "G"B2A G2A Bcd|
@@ -128,6 +136,7 @@ T:Sir Roger de Coverley
 S:Trad
 P:AB
 M:9/8
+R:Slip Jig
 K:G
 P:A
 B/2A/2|:"G"G2G "C"G2e "G"dBG|"C"A2A "A7"ABG "D7"FED|"G"G2G "C"G2e "D7"def|\
@@ -143,6 +152,7 @@ T:Slip Jig
 P:PAAB
 S:Anon
 M:9/8
+R:Slip Jig
 K:D
 P:P
 A|
@@ -160,6 +170,7 @@ T:Staggering Home
 % Nottingham Music Database
 S:Phil Rowe via Toby Bennett
 M:9/8
+R:Slip Jig
 K:G
 "Em"e2e g2e "B7"^d2B|"Em"e2e gfe "B7"^def|"Em"e2e g2e "D"fga|\
 "C"g2e "B7"f2^d "Em"e3|
